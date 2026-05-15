@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-05-15T00:00:00Z",
+  "minimumAppVersion": "2.0.0",
+  "defaultModelId": "sd21-base-palettized-split-einsum-v2",
+  "notes": [
+    "The URLs below point to existing public Hugging Face model files. They are suitable for MVP testing, but production builds should pin a commit revision and fill sha256 after verification.",
+    "Only Core ML compiled zip archives are listed here. The app should download, verify, unzip, exclude from iCloud backup, and load from Application Support.",
+    "Each model license must be shown in-app before download or in the model detail page."
+  ],
+  "models": [
+    {
+      "id": "sd21-base-palettized-split-einsum-v2",
+      "version": "hf-main",
+      "displayName": "Stable Diffusion 2.1 Base Lite",
+      "shortName": "SD 2.1 Lite",
+      "description": "Smallest recommended public Core ML Stable Diffusion model for iOS MVP testing. Uses split_einsum_v2 compiled palettized weights.",
+      "provider": "Apple / Hugging Face",
+      "sourceKind": "huggingface_public",
+      "hfRepo": "apple/coreml-stable-diffusion-2-1-base-palettized",
+      "sourceURL": "https://huggingface.co/apple/coreml-stable-diffusion-2-1-base-palettized",
+      "licenseName": "CreativeML Open RAIL++-M",
+      "licenseURL": "https://huggingface.co/apple/coreml-stable-diffusion-2-1-base-palettized",
+      "licenseVerificationStatus": "review_before_release",
+      "family": "stable-diffusion",
+      "baseModel": "stable-diffusion-2-1-base",
+      "task": [
+        "text-to-image"
+      ],
+      "format": "coreml-compiled-zip",
+      "attention": "split_einsum_v2",
+      "quantization": "palettized",
+      "recommendedUse": "default",
+      "isDefault": true,
+      "isPro": false,
+      "isDeprecated": false,
+      "minimumOS": "17.0",
+      "minimumChip": "A15",
+      "minimumMemoryGB": 4,
+      "recommendedChip": "A16",
+      "recommendedMemoryGB": 6,
+      "compressedSizeBytes": 1224065679,
+      "installedSizeBytes": null,
+      "sha256": null,
+      "defaultWidth": 512,
+      "defaultHeight": 512,
+      "maxWidth": 768,
+      "maxHeight": 768,
+      "recommendedSteps": 20,
+      "defaultGuidanceScale": 7.0,
+      "supportedComputeUnits": [
+        "cpuAndGPU",
+        "cpuAndNeuralEngine",
+        "all"
+      ],
+      "mirrors": [
+        {
+          "id": "huggingface-main",
+          "region": "global",
+          "priority": 1,
+          "url": "https://huggingface.co/apple/coreml-stable-diffusion-2-1-base-palettized/resolve/main/coreml-stable-diffusion-2-1-base-palettized_split_einsum_v2_compiled.zip"
+        }
+      ]
+    },
+    {
+      "id": "sd15-palettized-split-einsum-v2",
+      "version": "hf-main",
+      "displayName": "Stable Diffusion 1.5 Lite",
+      "shortName": "SD 1.5 Lite",
+      "description": "Popular SD 1.5 Core ML palettized model. Good compatibility with many prompt styles and existing prompt presets.",
+      "provider": "Apple / Hugging Face",
+      "sourceKind": "huggingface_public",
+      "hfRepo": "apple/coreml-stable-diffusion-v1-5-palettized",
+      "sourceURL": "https://huggingface.co/apple/coreml-stable-diffusion-v1-5-palettized",
+      "licenseName": "CreativeML OpenRAIL-M",
+      "licenseURL": "https://huggingface.co/apple/coreml-stable-diffusion-v1-5-palettized",
+      "licenseVerificationStatus": "review_before_release",
+      "family": "stable-diffusion",
+      "baseModel": "stable-diffusion-v1-5",
+      "task": [
+        "text-to-image"
+      ],
+      "format": "coreml-compiled-zip",
+      "attention": "split_einsum_v2",
+      "quantization": "palettized",
+      "recommendedUse": "general",
+      "isDefault": false,
+      "isPro": false,
+      "isDeprecated": false,
+      "minimumOS": "17.0",
+      "minimumChip": "A15",
+      "minimumMemoryGB": 4,
+      "recommendedChip": "A16",
+      "recommendedMemoryGB": 6,
+      "compressedSizeBytes": 1685774664,
+      "installedSizeBytes": null,
+      "sha256": null,
+      "defaultWidth": 512,
+      "defaultHeight": 512,
+      "maxWidth": 768,
+      "maxHeight": 768,
+      "recommendedSteps": 20,
+      "defaultGuidanceScale": 7.0,
+      "supportedComputeUnits": [
+        "cpuAndGPU",
+        "cpuAndNeuralEngine",
+        "all"
+      ],
+      "mirrors": [
+        {
+          "id": "huggingface-main",
+          "region": "global",
+          "priority": 1,
+          "url": "https://huggingface.co/apple/coreml-stable-diffusion-v1-5-palettized/resolve/main/coreml-stable-diffusion-v1-5-palettized_split_einsum_v2_compiled.zip"
+        }
+      ]
+    },
+    {
+      "id": "sd14-palettized-split-einsum-v2",
+      "version": "hf-main",
+      "displayName": "Stable Diffusion 1.4 Lite",
+      "shortName": "SD 1.4 Lite",
+      "description": "Older SD 1.4 Core ML palettized model. Kept as a lightweight fallback and compatibility option.",
+      "provider": "Apple / Hugging Face",
+      "sourceKind": "huggingface_public",
+      "hfRepo": "apple/coreml-stable-diffusion-1-4-palettized",
+      "sourceURL": "https://huggingface.co/apple/coreml-stable-diffusion-1-4-palettized",
+      "licenseName": "CreativeML OpenRAIL-M",
+      "licenseURL": "https://huggingface.co/apple/coreml-stable-diffusion-1-4-palettized",
+      "licenseVerificationStatus": "review_before_release",
+      "family": "stable-diffusion",
+      "baseModel": "stable-diffusion-v1-4",
+      "task": [
+        "text-to-image"
+      ],
+      "format": "coreml-compiled-zip",
+      "attention": "split_einsum_v2",
+      "quantization": "palettized",
+      "recommendedUse": "fallback",
+      "isDefault": false,
+      "isPro": false,
+      "isDeprecated": false,
+      "minimumOS": "17.0",
+      "minimumChip": "A15",
+      "minimumMemoryGB": 4,
+      "recommendedChip": "A16",
+      "recommendedMemoryGB": 6,
+      "compressedSizeBytes": 1685774664,
+      "installedSizeBytes": null,
+      "sha256": null,
+      "defaultWidth": 512,
+      "defaultHeight": 512,
+      "maxWidth": 768,
+      "maxHeight": 768,
+      "recommendedSteps": 20,
+      "defaultGuidanceScale": 7.0,
+      "supportedComputeUnits": [
+        "cpuAndGPU",
+        "cpuAndNeuralEngine",
+        "all"
+      ],
+      "mirrors": [
+        {
+          "id": "huggingface-main",
+          "region": "global",
+          "priority": 1,
+          "url": "https://huggingface.co/apple/coreml-stable-diffusion-1-4-palettized/resolve/main/coreml-stable-diffusion-1-4-palettized_split_einsum_v2_compiled.zip"
+        }
+      ]
+    },
+    {
+      "id": "sd2-base-palettized-split-einsum-v2",
+      "version": "hf-main",
+      "displayName": "Stable Diffusion 2.0 Base Lite",
+      "shortName": "SD 2.0 Lite",
+      "description": "SD 2.0 base Core ML palettized model. Useful as an alternate model when SD 2.1 output is not preferred.",
+      "provider": "Apple / Hugging Face",
+      "sourceKind": "huggingface_public",
+      "hfRepo": "apple/coreml-stable-diffusion-2-base-palettized",
+      "sourceURL": "https://huggingface.co/apple/coreml-stable-diffusion-2-base-palettized",
+      "licenseName": "CreativeML Open RAIL++-M",
+      "licenseURL": "https://huggingface.co/apple/coreml-stable-diffusion-2-base-palettized",
+      "licenseVerificationStatus": "review_before_release",
+      "family": "stable-diffusion",
+      "baseModel": "stable-diffusion-2-base",
+      "task": [
+        "text-to-image"
+      ],
+      "format": "coreml-compiled-zip",
+      "attention": "split_einsum_v2",
+      "quantization": "palettized",
+      "recommendedUse": "alternate",
+      "isDefault": false,
+      "isPro": false,
+      "isDeprecated": false,
+      "minimumOS": "17.0",
+      "minimumChip": "A15",
+      "minimumMemoryGB": 4,
+      "recommendedChip": "A16",
+      "recommendedMemoryGB": 6,
+      "compressedSizeBytes": 1224065679,
+      "installedSizeBytes": null,
+      "sha256": null,
+      "defaultWidth": 512,
+      "defaultHeight": 512,
+      "maxWidth": 768,
+      "maxHeight": 768,
+      "recommendedSteps": 20,
+      "defaultGuidanceScale": 7.0,
+      "supportedComputeUnits": [
+        "cpuAndGPU",
+        "cpuAndNeuralEngine",
+        "all"
+      ],
+      "mirrors": [
+        {
+          "id": "huggingface-main",
+          "region": "global",
+          "priority": 1,
+          "url": "https://huggingface.co/apple/coreml-stable-diffusion-2-base-palettized/resolve/main/coreml-stable-diffusion-2-base-palettized_split_einsum_v2_compiled.zip"
+        }
+      ]
+    },
+    {
+      "id": "sdxl-base-ios-split-einsum",
+      "version": "hf-main",
+      "displayName": "Stable Diffusion XL Base iOS",
+      "shortName": "SDXL iOS",
+      "description": "Higher quality SDXL Core ML model intended for iOS/iPadOS 17 or newer. Large download and high memory pressure; show only on high-end devices.",
+      "provider": "Apple / Hugging Face",
+      "sourceKind": "huggingface_public",
+      "hfRepo": "apple/coreml-stable-diffusion-xl-base-ios",
+      "sourceURL": "https://huggingface.co/apple/coreml-stable-diffusion-xl-base-ios",
+      "licenseName": "CreativeML Open RAIL++-M",
+      "licenseURL": "https://huggingface.co/apple/coreml-stable-diffusion-xl-base-ios/blob/main/LICENSE.md",
+      "licenseVerificationStatus": "review_before_release",
+      "family": "stable-diffusion-xl",
+      "baseModel": "stable-diffusion-xl-base-1.0",
+      "task": [
+        "text-to-image"
+      ],
+      "format": "coreml-compiled-zip",
+      "attention": "split_einsum",
+      "quantization": "mixed-bit-palettized-4.04",
+      "recommendedUse": "high_quality",
+      "isDefault": false,
+      "isPro": true,
+      "isDeprecated": false,
+      "minimumOS": "17.0",
+      "minimumChip": "A17",
+      "minimumMemoryGB": 6,
+      "recommendedChip": "A17 Pro or M1",
+      "recommendedMemoryGB": 8,
+      "compressedSizeBytes": 3274912563,
+      "installedSizeBytes": null,
+      "sha256": null,
+      "defaultWidth": 768,
+      "defaultHeight": 768,
+      "maxWidth": 1024,
+      "maxHeight": 1024,
+      "recommendedSteps": 20,
+      "defaultGuidanceScale": 7.5,
+      "supportedComputeUnits": [
+        "cpuAndGPU",
+        "cpuAndNeuralEngine",
+        "all"
+      ],
+      "mirrors": [
+        {
+          "id": "huggingface-main",
+          "region": "global",
+          "priority": 1,
+          "url": "https://huggingface.co/apple/coreml-stable-diffusion-xl-base-ios/resolve/main/coreml-stable-diffusion-xl-base-ios_split_einsum_compiled.zip"
+        }
+      ]
+    }
+  ]
+}
