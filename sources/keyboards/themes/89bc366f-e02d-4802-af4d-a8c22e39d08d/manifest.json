@@ -1,0 +1,16 @@
+{
+  "id": "89bc366f-e02d-4802-af4d-a8c22e39d08d",
+  "name": "God Of War",
+  "fileName": "256_GodOfWar",
+  "categoryIds": [
+    1005
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/89bc366f-e02d-4802-af4d-a8c22e39d08d/cover.png",
+  "package": "sources/keyboards/themes/89bc366f-e02d-4802-af4d-a8c22e39d08d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

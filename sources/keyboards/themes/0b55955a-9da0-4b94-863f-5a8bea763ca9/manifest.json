@@ -1,0 +1,17 @@
+{
+  "id": "0b55955a-9da0-4b94-863f-5a8bea763ca9",
+  "name": "Bougainvillea",
+  "fileName": "176_Bougainvillea",
+  "categoryIds": [
+    1007,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/0b55955a-9da0-4b94-863f-5a8bea763ca9/cover.png",
+  "package": "sources/keyboards/themes/0b55955a-9da0-4b94-863f-5a8bea763ca9/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

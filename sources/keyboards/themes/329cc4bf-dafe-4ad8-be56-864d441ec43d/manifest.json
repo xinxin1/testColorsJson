@@ -1,0 +1,17 @@
+{
+  "id": "329cc4bf-dafe-4ad8-be56-864d441ec43d",
+  "name": "Rainwater",
+  "fileName": "175_Rainwater",
+  "categoryIds": [
+    1007,
+    1012
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/329cc4bf-dafe-4ad8-be56-864d441ec43d/cover.png",
+  "package": "sources/keyboards/themes/329cc4bf-dafe-4ad8-be56-864d441ec43d/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "3041cf40-6970-47db-a8c2-92ec9a33af17",
+  "name": "Cheer 2026",
+  "fileName": "394_Cheer2026",
+  "categoryIds": [
+    1011
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/3041cf40-6970-47db-a8c2-92ec9a33af17/cover.png",
+  "package": "sources/keyboards/themes/3041cf40-6970-47db-a8c2-92ec9a33af17/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

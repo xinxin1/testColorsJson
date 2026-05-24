@@ -1,0 +1,16 @@
+{
+  "id": "cc98645d-dbe4-4c08-b9ba-0b3e698dad95",
+  "name": "Peony",
+  "fileName": "245_Peony",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/cc98645d-dbe4-4c08-b9ba-0b3e698dad95/cover.png",
+  "package": "sources/keyboards/themes/cc98645d-dbe4-4c08-b9ba-0b3e698dad95/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

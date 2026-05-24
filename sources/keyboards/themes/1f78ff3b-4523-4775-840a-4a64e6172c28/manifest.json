@@ -1,0 +1,16 @@
+{
+  "id": "1f78ff3b-4523-4775-840a-4a64e6172c28",
+  "name": "Blue Purple",
+  "fileName": "4_BluePurple",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/1f78ff3b-4523-4775-840a-4a64e6172c28/cover.png",
+  "package": "sources/keyboards/themes/1f78ff3b-4523-4775-840a-4a64e6172c28/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

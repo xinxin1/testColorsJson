@@ -1,0 +1,637 @@
+{
+  "schemaVersion": 2,
+  "themeId": "0c9a66c4-5174-497b-a369-1bdcce61f57c",
+  "themeName": "Pink Button",
+  "fileName": "1_PinkButton",
+  "preview": {
+    "full": "assets/images/0027_preview_01@2x.png",
+    "icon": "assets/images/0028_preview_02@2x.png"
+  },
+  "background": {
+    "fileName": "1_PinkButton",
+    "preview": {
+      "icon_01": "assets/images/0026_cover_small@2x.png",
+      "icon_02": "assets/images/0025_cover_big@2x.png"
+    },
+    "background": {
+      "bgImage": "assets/images/0001_keyboardBgImage@2x.png",
+      "bgColor": ""
+    }
+  },
+  "keys": {
+    "fileName": "1_PinkButton",
+    "preview": {
+      "icon": "assets/images/0001_keyboardBgImage@2x.png"
+    },
+    "keys": {
+      "keysEffect": "",
+      "keyAnimation": 0,
+      "keyScale": 0.8,
+      "letter_keys": {
+        "common": {
+          "keyNormal": "assets/images/0005_letter_key_Q_bg_normal@2x.png",
+          "keyLight": "assets/images/0004_letter_key_Q_bg_light@2x.png",
+          "keyFont": "Arial",
+          "keyFontSize": "21",
+          "keyFontColor": "#965076",
+          "keyFontSelectedColor": "#965076",
+          "keyFontOffsetY": 0.45,
+          "keyFontOffsetX": 0.5,
+          "keyTextHidden": 0,
+          "gradientStartPoint": [],
+          "gradientEndPoint": [],
+          "gradientColors": [],
+          "gradientColorsScale": [],
+          "padKeyFont": "Arial",
+          "padFontSize": "9",
+          "padFontColor": "#965076",
+          "padFontSelectedColor": "#965076",
+          "padOffsetY": 0.3,
+          "padOffsetX": 0.5,
+          "singlePopBgImage": "assets/images/0011_pop_small_bg@2x.png",
+          "singlePopFont": "Arial",
+          "singlePopFontSize": "21",
+          "singlePopFontColor": "#965076",
+          "singlePopOffsetY": 0.45,
+          "singlePopOffsetX": 0.5,
+          "groupPopFont": "Arial",
+          "groupPopFontSize": "20",
+          "groupPopFontColor": "#965076",
+          "groupPopBgColor": "#F6DAE9",
+          "groupPopSelectedColor": "#E8C3D5",
+          "groupPopBorderColor": "#785968",
+          "groupPopBorderWidth": 1
+        },
+        "special": 0,
+        "specialKey": []
+      },
+      "number_keys": {
+        "common": {
+          "keyNormal": "assets/images/0005_letter_key_Q_bg_normal@2x.png",
+          "keyLight": "assets/images/0004_letter_key_Q_bg_light@2x.png",
+          "keyFont": "Arial",
+          "keyFontSize": "21",
+          "keyFontColor": "#965076",
+          "keyFontSelectedColor": "#965076",
+          "keyFontOffsetY": 0.45,
+          "keyFontOffsetX": 0.5,
+          "keyTextHidden": 0,
+          "gradientStartPoint": [],
+          "gradientEndPoint": [],
+          "gradientColors": [],
+          "gradientColorsScale": [],
+          "singlePopBgImage": "assets/images/0011_pop_small_bg@2x.png",
+          "singlePopFont": "Arial",
+          "singlePopFontSize": "23",
+          "singlePopFontColor": "#965076",
+          "singlePopOffsetY": 0.45,
+          "singlePopOffsetX": 0.5
+        },
+        "special": 0,
+        "specialKey": []
+      },
+      "symbol_keys": {
+        "common": {
+          "keyNormal": "assets/images/0009_number_key_120_bg_normal@2x.png",
+          "keyLight": "assets/images/0008_number_key_120_bg_light@2x.png",
+          "keyFont": "Arial",
+          "keyFontSize": "21",
+          "keyFontColor": "#965076",
+          "keyFontSelectedColor": "#965076",
+          "keyFontOffsetY": 0.45,
+          "keyFontOffsetX": 0.5,
+          "keyTextHidden": 0,
+          "gradientStartPoint": [],
+          "gradientEndPoint": [],
+          "gradientColors": [],
+          "gradientColorsScale": [],
+          "singlePopBgImage": "assets/images/0010_pop_big_bg@2x.png",
+          "singlePopFont": "Arial",
+          "singlePopFontSize": "23",
+          "singlePopFontColor": "#965076",
+          "singlePopOffsetY": 0.45,
+          "singlePopOffsetX": 0.5
+        },
+        "special": 0,
+        "specialKey": []
+      },
+      "shift": {
+        "bg": {
+          "normal": "assets/images/0015_shift_bg_normal@2x.png",
+          "light": "assets/images/0014_shift_bg_light@2x.png"
+        },
+        "icon": {
+          "shift_lower": "assets/images/0021_sym_shift_lower@2x.png",
+          "shift_upper_lockfirst": "assets/images/0023_sym_shift_upper_lockfirst@2x.png",
+          "shift_upper_lockall": "assets/images/0022_sym_shift_upper_lockall@2x.png"
+        }
+      },
+      "moreSymbol": {
+        "bg": {
+          "normal": "assets/images/0015_shift_bg_normal@2x.png",
+          "light": "assets/images/0014_shift_bg_light@2x.png"
+        },
+        "icon": {
+          "normal": "",
+          "selected": ""
+        },
+        "text": {
+          "keyFont": "Arial",
+          "keyFontSize": "13",
+          "keyFontColor": "#968250",
+          "keyOffsetY": 0.45,
+          "keyOffsetX": 0.5
+        }
+      },
+      "delete": {
+        "bg": {
+          "normal": "assets/images/0003_delete_bg_normal@2x.png",
+          "light": "assets/images/0002_delete_bg_light@2x.png"
+        },
+        "icon": {
+          "normal": "assets/images/0020_sym_delete@2x.png"
+        }
+      },
+      "letter_number": {
+        "bg": {
+          "normal": "assets/images/0007_letter_number_bg_normal@2x.png",
+          "light": "assets/images/0006_letter_number_bg_light@2x.png"
+        },
+        "icon": {
+          "normal": "",
+          "selected": ""
+        },
+        "text": {
+          "keyFont": "Arial",
+          "keyFontSize": "16",
+          "keyFontColor": "#6E857D",
+          "keyOffsetY": 0.5,
+          "keyOffsetX": 0.5
+        }
+      },
+      "switch": {
+        "bg": {
+          "normal": "assets/images/0019_switch_bg_normal@2x.png",
+          "light": "assets/images/0018_switch_bg_light@2x.png"
+        },
+        "icon": {
+          "normal": "assets/images/0024_sym_switch@2x.png",
+          "url": "",
+          "email": ""
+        }
+      },
+      "space": {
+        "bg": {
+          "normal": "assets/images/0017_space_bg_normal@2x.png",
+          "light": "assets/images/0016_space_bg_light@2x.png"
+        },
+        "text": {
+          "keyFont": "Arial",
+          "keyFontSize": "16",
+          "keyFontColor": "#968250",
+          "keyOffsetY": 0.5,
+          "keyOffsetX": 0.5
+        },
+        "icon": {
+          "normal": "",
+          "url": ""
+        }
+      },
+      "dot": {
+        "bg": {
+          "normal": "",
+          "light": ""
+        },
+        "icon": {
+          "normal": ""
+        },
+        "text": {
+          "keyFont": "Arial",
+          "keyFontSize": "40",
+          "keyFontColor": "#6E857D",
+          "keyOffsetY": 0.5,
+          "keyOffsetX": 0.5
+        }
+      },
+      "return": {
+        "bg": {
+          "normal": "assets/images/0013_return_bg_normal@2x.png",
+          "light": "assets/images/0012_return_bg_light@2x.png"
+        },
+        "text": {
+          "keyFont": "Arial",
+          "keyFontSize": "16",
+          "keyFontColor": "#6E857D",
+          "keyOffsetY": 0.5,
+          "keyOffsetX": 0.5
+        },
+        "icon": {
+          "normal": ""
+        }
+      }
+    },
+    "global": {
+      "images": [
+        "",
+        "",
+        ""
+      ],
+      "font": "Arial",
+      "fontSize": "9",
+      "fontColor": "#6E857D",
+      "selectedColor": "#C4EEE4",
+      "bgColor": "#DCFBF3",
+      "dividerColor": "#785968",
+      "borderColor": "#785968",
+      "borderWidth": 1
+    }
+  },
+  "toolsBar": {
+    "fileName": "1_PinkButton",
+    "font": {
+      "image": "",
+      "bgColor": "#D1D3D8",
+      "barImage": "",
+      "barBgColor": "#D1D3D8",
+      "iconColor": "#000000",
+      "dividerColor": "#FFFFFF",
+      "fontBgColor": "#FFFFFF",
+      "fontSize": "14",
+      "fontColor": "#000000",
+      "selectedFontColor": "#FFFFFF",
+      "selectedFontBgColor": "#828892",
+      "selectedBorderColor": "#FFFFFF",
+      "selectedBorderWidth": 1,
+      "delete": {
+        "bgColor": "#828892",
+        "iconColor": "#FFFFFF",
+        "borderColor": "",
+        "borderWidth": 0,
+        "shadowColor": "#FFFFFF"
+      }
+    },
+    "theme": {
+      "image": "",
+      "bgColor": "#EDC7E3",
+      "iconColor": "#965076",
+      "fontColor": "#965076"
+    },
+    "voice": {
+      "image": "",
+      "bgColor": "#EDC7E3",
+      "iconColor": "#965076",
+      "fontColor": "#FFFFFF",
+      "effectColor": "#828892"
+    },
+    "more": {
+      "image": "",
+      "bgColor": "#EDC7E3",
+      "iconColor": "#828892",
+      "fontColor": "#8B8B8B",
+      "iconbgColor": "#ABB0BA",
+      "iconSelectedColor": "#FFFFFF",
+      "fontSelectedColor": "#FFFFFF",
+      "fontSelectedBorderColor": "#FFFFFF",
+      "fontSelectedBorderWidth": 1
+    },
+    "nonsense": {
+      "image": "",
+      "bgColor": "#EDC7E3",
+      "iconColor": "#965076",
+      "delete_icon_normal_color": "#965076",
+      "delete_icon_selected_color": "#FFFFFF",
+      "add_icon_color": "#965076",
+      "cell_delete_icon_color": "#965076",
+      "cell_fontColor": "#FFFFFF",
+      "cell_normal_bg_Color": "#D1A0BF",
+      "cell_highlight_bg_Color": "#B87EA0",
+      "bar": {
+        "fisrt": {
+          "bgColor": "#DCB7D3",
+          "icon_color_normal": "#965076",
+          "text_color_normal": "#FFFFFF",
+          "text_color_selected": "#FFFFFF",
+          "text_color_selected_bg": "#965076",
+          "text_color_selected_borderColor": "#965076",
+          "text_color_selected_borderWidth": 0
+        }
+      }
+    },
+    "art": {
+      "image": "",
+      "bgColor": "#EDC7E3",
+      "cell_fontColor": "#FFFFFF",
+      "cell_normal_bg_Color": "#D1A0BF",
+      "cell_highlight_bg_Color": "#B87EA0",
+      "bar": {
+        "fisrt": {
+          "bgColor": "#DCB7D3",
+          "icon_color_normal": "#965076",
+          "cell_color_normal": "#FFFFFF",
+          "cell_color_selected": "#965076"
+        },
+        "second": {
+          "bgColor": "#DCB7D3",
+          "icon_color_normal": "#FFFFFF",
+          "icon_color_selected": "#FFFFFF",
+          "text_color_normal": "#FFFFFF",
+          "text_color_selected": "#FFFFFF",
+          "text_color_selected_bg": "#965076",
+          "text_color_selected_borderColor": "#965076",
+          "text_color_selected_borderWidth": 0
+        }
+      }
+    },
+    "tool_bar": {
+      "toolsBarBgImage": "",
+      "toolsBarBgColor": "#FFFFFF",
+      "toolsBarAlpha": 0,
+      "toolsBarTextColor": "#965076",
+      "icons": {
+        "more": {
+          "normal_image": "",
+          "selected_image": "",
+          "normal_color": "#965076",
+          "selected_color": "#968250"
+        },
+        "theme": {
+          "normal_image": "",
+          "selected_image": "",
+          "normal_color": "#965076",
+          "selected_color": "#968250"
+        },
+        "voice": {
+          "normal_image": "",
+          "selected_image": "",
+          "normal_color": "#965076",
+          "selected_color": "#968250"
+        },
+        "textart": {
+          "normal_image": "",
+          "selected_image": "",
+          "normal_color": "#965076",
+          "selected_color": "#968250"
+        },
+        "fonts": {
+          "normal_image": "",
+          "selected_image": "",
+          "normal_color": "#965076",
+          "selected_color": "#968250"
+        },
+        "nonsense": {
+          "normal_image": "",
+          "selected_image": "",
+          "normal_color": "#965076",
+          "selected_color": "#968250"
+        },
+        "close": {
+          "normal_image": "",
+          "normal_color": "#965076"
+        }
+      }
+    }
+  },
+  "effect": {
+    "fileName": "1_PinkButton",
+    "backgroundEffect": {
+      "bgEffect": 0,
+      "bgEffectIndex": 0,
+      "bgEffectCount": 0
+    },
+    "shift": {
+      "bgEffect": 0,
+      "bgEffectIndex": 0,
+      "bgEffectCount": 0
+    },
+    "moreSymbol": {
+      "bgEffect": 0,
+      "bgEffectIndex": 0,
+      "bgEffectCount": 0
+    },
+    "delete": {
+      "bgEffect": 0,
+      "bgEffectIndex": 0,
+      "bgEffectCount": 0
+    },
+    "letter_number": {
+      "bgEffect": 0,
+      "bgEffectIndex": 0,
+      "bgEffectCount": 0
+    },
+    "switch": {
+      "bgEffect": 0,
+      "bgEffectIndex": 0,
+      "bgEffectCount": 0
+    },
+    "space": {
+      "bgEffect": 0,
+      "bgEffectIndex": 0,
+      "bgEffectCount": 0
+    },
+    "dot": {
+      "bgEffect": 0,
+      "bgEffectIndex": 0,
+      "bgEffectCount": 0
+    },
+    "return": {
+      "bgEffect": 0,
+      "bgEffectIndex": 0,
+      "bgEffectCount": 0
+    }
+  },
+  "assets": [
+    {
+      "path": "assets/images/0001_keyboardBgImage@2x.png",
+      "originalPath": "background/keyboardBgImage@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0002_delete_bg_light@2x.png",
+      "originalPath": "keys/delete_bg_light@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0003_delete_bg_normal@2x.png",
+      "originalPath": "keys/delete_bg_normal@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0004_letter_key_Q_bg_light@2x.png",
+      "originalPath": "keys/letter_key_Q_bg_light@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0005_letter_key_Q_bg_normal@2x.png",
+      "originalPath": "keys/letter_key_Q_bg_normal@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0006_letter_number_bg_light@2x.png",
+      "originalPath": "keys/letter_number_bg_light@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0007_letter_number_bg_normal@2x.png",
+      "originalPath": "keys/letter_number_bg_normal@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0008_number_key_120_bg_light@2x.png",
+      "originalPath": "keys/number_key_120_bg_light@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0009_number_key_120_bg_normal@2x.png",
+      "originalPath": "keys/number_key_120_bg_normal@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0010_pop_big_bg@2x.png",
+      "originalPath": "keys/pop_big_bg@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0011_pop_small_bg@2x.png",
+      "originalPath": "keys/pop_small_bg@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0012_return_bg_light@2x.png",
+      "originalPath": "keys/return_bg_light@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0013_return_bg_normal@2x.png",
+      "originalPath": "keys/return_bg_normal@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0014_shift_bg_light@2x.png",
+      "originalPath": "keys/shift_bg_light@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0015_shift_bg_normal@2x.png",
+      "originalPath": "keys/shift_bg_normal@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0016_space_bg_light@2x.png",
+      "originalPath": "keys/space_bg_light@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0017_space_bg_normal@2x.png",
+      "originalPath": "keys/space_bg_normal@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0018_switch_bg_light@2x.png",
+      "originalPath": "keys/switch_bg_light@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0019_switch_bg_normal@2x.png",
+      "originalPath": "keys/switch_bg_normal@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0020_sym_delete@2x.png",
+      "originalPath": "keys/sym_delete@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0021_sym_shift_lower@2x.png",
+      "originalPath": "keys/sym_shift_lower@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0022_sym_shift_upper_lockall@2x.png",
+      "originalPath": "keys/sym_shift_upper_lockall@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0023_sym_shift_upper_lockfirst@2x.png",
+      "originalPath": "keys/sym_shift_upper_lockfirst@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0024_sym_switch@2x.png",
+      "originalPath": "keys/sym_switch@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0025_cover_big@2x.png",
+      "originalPath": "preview/cover_big@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0026_cover_small@2x.png",
+      "originalPath": "preview/cover_small@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0027_preview_01@2x.png",
+      "originalPath": "preview/preview_01@2x.png",
+      "type": "png"
+    },
+    {
+      "path": "assets/images/0028_preview_02@2x.png",
+      "originalPath": "preview/preview_02@2x.png",
+      "type": "png"
+    }
+  ],
+  "assetPathMap": {
+    "background/keyboardBgImage@2x.png": "assets/images/0001_keyboardBgImage@2x.png",
+    "keys/delete_bg_light@2x.png": "assets/images/0002_delete_bg_light@2x.png",
+    "keys/delete_bg_normal@2x.png": "assets/images/0003_delete_bg_normal@2x.png",
+    "keys/letter_key_Q_bg_light@2x.png": "assets/images/0004_letter_key_Q_bg_light@2x.png",
+    "keys/letter_key_Q_bg_normal@2x.png": "assets/images/0005_letter_key_Q_bg_normal@2x.png",
+    "keys/letter_number_bg_light@2x.png": "assets/images/0006_letter_number_bg_light@2x.png",
+    "keys/letter_number_bg_normal@2x.png": "assets/images/0007_letter_number_bg_normal@2x.png",
+    "keys/number_key_120_bg_light@2x.png": "assets/images/0008_number_key_120_bg_light@2x.png",
+    "keys/number_key_120_bg_normal@2x.png": "assets/images/0009_number_key_120_bg_normal@2x.png",
+    "keys/pop_big_bg@2x.png": "assets/images/0010_pop_big_bg@2x.png",
+    "keys/pop_small_bg@2x.png": "assets/images/0011_pop_small_bg@2x.png",
+    "keys/return_bg_light@2x.png": "assets/images/0012_return_bg_light@2x.png",
+    "keys/return_bg_normal@2x.png": "assets/images/0013_return_bg_normal@2x.png",
+    "keys/shift_bg_light@2x.png": "assets/images/0014_shift_bg_light@2x.png",
+    "keys/shift_bg_normal@2x.png": "assets/images/0015_shift_bg_normal@2x.png",
+    "keys/space_bg_light@2x.png": "assets/images/0016_space_bg_light@2x.png",
+    "keys/space_bg_normal@2x.png": "assets/images/0017_space_bg_normal@2x.png",
+    "keys/switch_bg_light@2x.png": "assets/images/0018_switch_bg_light@2x.png",
+    "keys/switch_bg_normal@2x.png": "assets/images/0019_switch_bg_normal@2x.png",
+    "keys/sym_delete@2x.png": "assets/images/0020_sym_delete@2x.png",
+    "keys/sym_shift_lower@2x.png": "assets/images/0021_sym_shift_lower@2x.png",
+    "keys/sym_shift_upper_lockall@2x.png": "assets/images/0022_sym_shift_upper_lockall@2x.png",
+    "keys/sym_shift_upper_lockfirst@2x.png": "assets/images/0023_sym_shift_upper_lockfirst@2x.png",
+    "keys/sym_switch@2x.png": "assets/images/0024_sym_switch@2x.png",
+    "preview/cover_big@2x.png": "assets/images/0025_cover_big@2x.png",
+    "preview/cover_small@2x.png": "assets/images/0026_cover_small@2x.png",
+    "preview/preview_01@2x.png": "assets/images/0027_preview_01@2x.png",
+    "preview/preview_02@2x.png": "assets/images/0028_preview_02@2x.png"
+  },
+  "unresolvedOriginalRefs": [
+    "diy_popup_icon@2x.png",
+    "dot_bg_light@2x.png",
+    "dot_bg_normal@2x.png",
+    "emoji_popup_icon@2x.png",
+    "global_popup_icon@2x.png",
+    "sym_switch_email@2x.png",
+    "sym_switch_url@2x.png",
+    "toolbar_icon_close_normal@2x.png",
+    "toolbar_icon_fonts_light@2x.png",
+    "toolbar_icon_fonts_normal@2x.png",
+    "toolbar_icon_more_light@2x.png",
+    "toolbar_icon_more_normal@2x.png",
+    "toolbar_icon_nonsense_light@2x.png",
+    "toolbar_icon_nonsense_normal@2x.png",
+    "toolbar_icon_textart_light@2x.png",
+    "toolbar_icon_textart_normal@2x.png",
+    "toolbar_icon_theme_light@2x.png",
+    "toolbar_icon_theme_normal@2x.png",
+    "toolbar_icon_voice_light@2x.png",
+    "toolbar_icon_voice_normal@2x.png"
+  ],
+  "level": 2
+}

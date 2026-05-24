@@ -1,0 +1,16 @@
+{
+  "id": "8ccd3804-9bb8-40e9-91d1-021b56aa90ca",
+  "name": "Board",
+  "fileName": "22_Board",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/8ccd3804-9bb8-40e9-91d1-021b56aa90ca/cover.png",
+  "package": "sources/keyboards/themes/8ccd3804-9bb8-40e9-91d1-021b56aa90ca/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

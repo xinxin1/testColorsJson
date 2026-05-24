@@ -1,0 +1,16 @@
+{
+  "id": "28f91160-cfb9-4315-883a-3734bc4afb9d",
+  "name": "Lionel Messi",
+  "fileName": "233_LionelMessi",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/28f91160-cfb9-4315-883a-3734bc4afb9d/cover.png",
+  "package": "sources/keyboards/themes/28f91160-cfb9-4315-883a-3734bc4afb9d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

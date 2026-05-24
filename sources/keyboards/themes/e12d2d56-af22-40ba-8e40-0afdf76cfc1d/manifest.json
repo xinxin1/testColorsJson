@@ -1,0 +1,16 @@
+{
+  "id": "e12d2d56-af22-40ba-8e40-0afdf76cfc1d",
+  "name": "Agatsuma Zenitsu",
+  "fileName": "269_AgatsumaZenitsu",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e12d2d56-af22-40ba-8e40-0afdf76cfc1d/cover.png",
+  "package": "sources/keyboards/themes/e12d2d56-af22-40ba-8e40-0afdf76cfc1d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

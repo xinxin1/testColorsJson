@@ -1,0 +1,18 @@
+{
+  "id": "85837191-df34-4343-b92b-96941e5b3f58",
+  "name": "Black Myth：Wukong",
+  "fileName": "360_BlackMythWukong",
+  "categoryIds": [
+    1005,
+    1008,
+    1013
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/85837191-df34-4343-b92b-96941e5b3f58/cover.png",
+  "package": "sources/keyboards/themes/85837191-df34-4343-b92b-96941e5b3f58/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

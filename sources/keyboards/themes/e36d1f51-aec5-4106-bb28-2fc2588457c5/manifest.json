@@ -1,0 +1,17 @@
+{
+  "id": "e36d1f51-aec5-4106-bb28-2fc2588457c5",
+  "name": "Dark Souls",
+  "fileName": "111_DarkSouls",
+  "categoryIds": [
+    1005,
+    1013
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e36d1f51-aec5-4106-bb28-2fc2588457c5/cover.png",
+  "package": "sources/keyboards/themes/e36d1f51-aec5-4106-bb28-2fc2588457c5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

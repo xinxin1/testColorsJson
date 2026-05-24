@@ -1,0 +1,16 @@
+{
+  "id": "d2bcda6b-f714-4659-908d-33db61bb9a69",
+  "name": "Chopper",
+  "fileName": "313_Chopper",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/d2bcda6b-f714-4659-908d-33db61bb9a69/cover.png",
+  "package": "sources/keyboards/themes/d2bcda6b-f714-4659-908d-33db61bb9a69/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

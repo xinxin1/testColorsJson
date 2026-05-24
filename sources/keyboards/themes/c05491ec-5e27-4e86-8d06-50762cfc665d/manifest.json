@@ -1,0 +1,17 @@
+{
+  "id": "c05491ec-5e27-4e86-8d06-50762cfc665d",
+  "name": "Pink Bling",
+  "fileName": "81_PinkBling",
+  "categoryIds": [
+    1001,
+    1003
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/c05491ec-5e27-4e86-8d06-50762cfc665d/cover.png",
+  "package": "sources/keyboards/themes/c05491ec-5e27-4e86-8d06-50762cfc665d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

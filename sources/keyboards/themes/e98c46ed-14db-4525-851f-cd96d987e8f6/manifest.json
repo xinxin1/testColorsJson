@@ -1,0 +1,16 @@
+{
+  "id": "e98c46ed-14db-4525-851f-cd96d987e8f6",
+  "name": "Neon Light",
+  "fileName": "137_NeonLight",
+  "categoryIds": [
+    1003
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/e98c46ed-14db-4525-851f-cd96d987e8f6/cover.png",
+  "package": "sources/keyboards/themes/e98c46ed-14db-4525-851f-cd96d987e8f6/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

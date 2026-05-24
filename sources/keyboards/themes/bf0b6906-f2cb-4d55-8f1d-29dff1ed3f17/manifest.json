@@ -1,0 +1,16 @@
+{
+  "id": "bf0b6906-f2cb-4d55-8f1d-29dff1ed3f17",
+  "name": "Fish",
+  "fileName": "11_Fish",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/bf0b6906-f2cb-4d55-8f1d-29dff1ed3f17/cover.png",
+  "package": "sources/keyboards/themes/bf0b6906-f2cb-4d55-8f1d-29dff1ed3f17/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

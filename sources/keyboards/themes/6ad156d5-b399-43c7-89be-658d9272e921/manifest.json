@@ -1,0 +1,16 @@
+{
+  "id": "6ad156d5-b399-43c7-89be-658d9272e921",
+  "name": "Mint Green",
+  "fileName": "211_MintGreen",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/6ad156d5-b399-43c7-89be-658d9272e921/cover.png",
+  "package": "sources/keyboards/themes/6ad156d5-b399-43c7-89be-658d9272e921/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

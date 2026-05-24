@@ -1,0 +1,16 @@
+{
+  "id": "fdad5e0e-01f1-4703-adeb-3a1921b85841",
+  "name": "Tokyo Ghoul",
+  "fileName": "87_TokyoGhoul",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/fdad5e0e-01f1-4703-adeb-3a1921b85841/cover.png",
+  "package": "sources/keyboards/themes/fdad5e0e-01f1-4703-adeb-3a1921b85841/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

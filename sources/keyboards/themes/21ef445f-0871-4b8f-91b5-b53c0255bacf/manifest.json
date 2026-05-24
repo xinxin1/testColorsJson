@@ -1,0 +1,16 @@
+{
+  "id": "21ef445f-0871-4b8f-91b5-b53c0255bacf",
+  "name": "Fat Cat",
+  "fileName": "156_FatCat",
+  "categoryIds": [
+    1001
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/21ef445f-0871-4b8f-91b5-b53c0255bacf/cover.png",
+  "package": "sources/keyboards/themes/21ef445f-0871-4b8f-91b5-b53c0255bacf/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

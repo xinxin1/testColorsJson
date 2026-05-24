@@ -1,0 +1,16 @@
+{
+  "id": "3ce37c22-4c4c-498c-858b-333c4ebfa285",
+  "name": "Cosmic Sky",
+  "fileName": "127_CosmicSky",
+  "categoryIds": [
+    1006
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/3ce37c22-4c4c-498c-858b-333c4ebfa285/cover.png",
+  "package": "sources/keyboards/themes/3ce37c22-4c4c-498c-858b-333c4ebfa285/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

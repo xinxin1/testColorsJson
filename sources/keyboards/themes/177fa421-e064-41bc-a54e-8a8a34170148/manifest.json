@@ -1,0 +1,16 @@
+{
+  "id": "177fa421-e064-41bc-a54e-8a8a34170148",
+  "name": "Love Letter",
+  "fileName": "141_LoveLetter",
+  "categoryIds": [
+    1002
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/177fa421-e064-41bc-a54e-8a8a34170148/cover.png",
+  "package": "sources/keyboards/themes/177fa421-e064-41bc-a54e-8a8a34170148/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

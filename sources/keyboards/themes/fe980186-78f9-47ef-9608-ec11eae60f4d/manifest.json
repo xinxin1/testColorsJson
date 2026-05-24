@@ -1,0 +1,16 @@
+{
+  "id": "fe980186-78f9-47ef-9608-ec11eae60f4d",
+  "name": "Cookie Run",
+  "fileName": "115_CookieRun",
+  "categoryIds": [
+    1005
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/fe980186-78f9-47ef-9608-ec11eae60f4d/cover.png",
+  "package": "sources/keyboards/themes/fe980186-78f9-47ef-9608-ec11eae60f4d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

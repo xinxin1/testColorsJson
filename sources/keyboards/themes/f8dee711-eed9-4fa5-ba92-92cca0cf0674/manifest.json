@@ -1,0 +1,16 @@
+{
+  "id": "f8dee711-eed9-4fa5-ba92-92cca0cf0674",
+  "name": "Cute Meet",
+  "fileName": "51_CuteMeet",
+  "categoryIds": [
+    1001
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/f8dee711-eed9-4fa5-ba92-92cca0cf0674/cover.png",
+  "package": "sources/keyboards/themes/f8dee711-eed9-4fa5-ba92-92cca0cf0674/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

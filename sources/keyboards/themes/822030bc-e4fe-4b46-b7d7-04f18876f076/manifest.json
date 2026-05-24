@@ -1,0 +1,16 @@
+{
+  "id": "822030bc-e4fe-4b46-b7d7-04f18876f076",
+  "name": "One Love",
+  "fileName": "42_OneLove",
+  "categoryIds": [
+    1002
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/822030bc-e4fe-4b46-b7d7-04f18876f076/cover.png",
+  "package": "sources/keyboards/themes/822030bc-e4fe-4b46-b7d7-04f18876f076/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

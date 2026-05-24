@@ -1,0 +1,16 @@
+{
+  "id": "1a9ae22a-607f-48f5-a25b-6c796971cb79",
+  "name": "Bubble Symphony",
+  "fileName": "309_BubbleSymphony",
+  "categoryIds": [
+    1010
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/1a9ae22a-607f-48f5-a25b-6c796971cb79/cover.png",
+  "package": "sources/keyboards/themes/1a9ae22a-607f-48f5-a25b-6c796971cb79/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

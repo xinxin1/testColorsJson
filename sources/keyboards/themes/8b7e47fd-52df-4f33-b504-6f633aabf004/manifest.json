@@ -1,0 +1,17 @@
+{
+  "id": "8b7e47fd-52df-4f33-b504-6f633aabf004",
+  "name": "Shining Queen",
+  "fileName": "275_ShiningQueen",
+  "categoryIds": [
+    1003,
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/8b7e47fd-52df-4f33-b504-6f633aabf004/cover.png",
+  "package": "sources/keyboards/themes/8b7e47fd-52df-4f33-b504-6f633aabf004/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

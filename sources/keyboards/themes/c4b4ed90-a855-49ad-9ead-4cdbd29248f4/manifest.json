@@ -1,0 +1,16 @@
+{
+  "id": "c4b4ed90-a855-49ad-9ead-4cdbd29248f4",
+  "name": "Fear House",
+  "fileName": "20_FearHouse",
+  "categoryIds": [
+    1013
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/c4b4ed90-a855-49ad-9ead-4cdbd29248f4/cover.png",
+  "package": "sources/keyboards/themes/c4b4ed90-a855-49ad-9ead-4cdbd29248f4/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

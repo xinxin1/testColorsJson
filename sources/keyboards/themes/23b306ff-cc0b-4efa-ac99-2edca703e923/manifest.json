@@ -1,0 +1,16 @@
+{
+  "id": "23b306ff-cc0b-4efa-ac99-2edca703e923",
+  "name": "Fantastic Sky",
+  "fileName": "64_FantasticSky",
+  "categoryIds": [
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/23b306ff-cc0b-4efa-ac99-2edca703e923/cover.mp4",
+  "package": "sources/keyboards/themes/23b306ff-cc0b-4efa-ac99-2edca703e923/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

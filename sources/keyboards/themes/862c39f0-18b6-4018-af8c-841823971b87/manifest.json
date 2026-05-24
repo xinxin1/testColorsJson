@@ -1,0 +1,16 @@
+{
+  "id": "862c39f0-18b6-4018-af8c-841823971b87",
+  "name": "Elfin",
+  "fileName": "149_Elfin",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/862c39f0-18b6-4018-af8c-841823971b87/cover.png",
+  "package": "sources/keyboards/themes/862c39f0-18b6-4018-af8c-841823971b87/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

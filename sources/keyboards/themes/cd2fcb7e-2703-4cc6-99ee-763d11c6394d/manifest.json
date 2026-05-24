@@ -1,0 +1,16 @@
+{
+  "id": "cd2fcb7e-2703-4cc6-99ee-763d11c6394d",
+  "name": "Love Deeply",
+  "fileName": "377_LoveDeeply",
+  "categoryIds": [
+    1002
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/cd2fcb7e-2703-4cc6-99ee-763d11c6394d/cover.png",
+  "package": "sources/keyboards/themes/cd2fcb7e-2703-4cc6-99ee-763d11c6394d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

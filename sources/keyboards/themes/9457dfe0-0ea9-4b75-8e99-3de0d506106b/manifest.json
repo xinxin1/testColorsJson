@@ -1,0 +1,16 @@
+{
+  "id": "9457dfe0-0ea9-4b75-8e99-3de0d506106b",
+  "name": "Default",
+  "fileName": "43_Default",
+  "categoryIds": [
+    1008
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/9457dfe0-0ea9-4b75-8e99-3de0d506106b/cover.png",
+  "package": "sources/keyboards/themes/9457dfe0-0ea9-4b75-8e99-3de0d506106b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

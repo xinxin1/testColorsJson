@@ -1,0 +1,17 @@
+{
+  "id": "de8bc0df-9b29-40a0-b636-c3d01db542f4",
+  "name": "Heart beats",
+  "fileName": "61_Heartbeats",
+  "categoryIds": [
+    1002,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/de8bc0df-9b29-40a0-b636-c3d01db542f4/cover.gif",
+  "package": "sources/keyboards/themes/de8bc0df-9b29-40a0-b636-c3d01db542f4/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

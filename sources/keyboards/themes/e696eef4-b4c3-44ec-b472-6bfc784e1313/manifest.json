@@ -1,0 +1,16 @@
+{
+  "id": "e696eef4-b4c3-44ec-b472-6bfc784e1313",
+  "name": "Super Happy",
+  "fileName": "301_SuperHappy",
+  "categoryIds": [
+    1012
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/e696eef4-b4c3-44ec-b472-6bfc784e1313/cover.png",
+  "package": "sources/keyboards/themes/e696eef4-b4c3-44ec-b472-6bfc784e1313/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "8b7af5b6-2d58-4873-9f8b-5397580bf8be",
+  "name": "Pink Garden",
+  "fileName": "297_PinkGarden",
+  "categoryIds": [
+    1001,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/8b7af5b6-2d58-4873-9f8b-5397580bf8be/cover.png",
+  "package": "sources/keyboards/themes/8b7af5b6-2d58-4873-9f8b-5397580bf8be/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

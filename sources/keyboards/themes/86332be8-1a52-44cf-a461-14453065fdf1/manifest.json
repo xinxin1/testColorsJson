@@ -1,0 +1,17 @@
+{
+  "id": "86332be8-1a52-44cf-a461-14453065fdf1",
+  "name": "Starry Whirlpool",
+  "fileName": "311_StarryWhirlpool",
+  "categoryIds": [
+    1006,
+    1010
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/86332be8-1a52-44cf-a461-14453065fdf1/cover.png",
+  "package": "sources/keyboards/themes/86332be8-1a52-44cf-a461-14453065fdf1/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "05427d71-62bb-4567-a5b4-cf9410260b2e",
+  "name": "Autumn Sunset",
+  "fileName": "295_AutumnSunset",
+  "categoryIds": [
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/05427d71-62bb-4567-a5b4-cf9410260b2e/cover.png",
+  "package": "sources/keyboards/themes/05427d71-62bb-4567-a5b4-cf9410260b2e/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

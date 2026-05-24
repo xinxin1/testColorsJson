@@ -1,0 +1,17 @@
+{
+  "id": "96ddbe28-6fe7-435e-b18c-fbdfc7acd363",
+  "name": "Sailor Moon",
+  "fileName": "120_SailorMoon",
+  "categoryIds": [
+    1004,
+    1006
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/96ddbe28-6fe7-435e-b18c-fbdfc7acd363/cover.png",
+  "package": "sources/keyboards/themes/96ddbe28-6fe7-435e-b18c-fbdfc7acd363/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

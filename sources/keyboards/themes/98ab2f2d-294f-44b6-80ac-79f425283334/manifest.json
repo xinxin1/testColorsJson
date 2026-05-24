@@ -1,0 +1,16 @@
+{
+  "id": "98ab2f2d-294f-44b6-80ac-79f425283334",
+  "name": "Embrace 2025",
+  "fileName": "299_Embrace2025",
+  "categoryIds": [
+    1011
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/98ab2f2d-294f-44b6-80ac-79f425283334/cover.png",
+  "package": "sources/keyboards/themes/98ab2f2d-294f-44b6-80ac-79f425283334/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "6de32aa2-e6ba-414d-816c-6d897326f00f",
+  "name": "Mermaid",
+  "fileName": "144_Mermaid",
+  "categoryIds": [
+    1007
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/6de32aa2-e6ba-414d-816c-6d897326f00f/cover.png",
+  "package": "sources/keyboards/themes/6de32aa2-e6ba-414d-816c-6d897326f00f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

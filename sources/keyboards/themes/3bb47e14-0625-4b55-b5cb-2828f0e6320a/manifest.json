@@ -1,0 +1,16 @@
+{
+  "id": "3bb47e14-0625-4b55-b5cb-2828f0e6320a",
+  "name": "Bright",
+  "fileName": "80_Bright",
+  "categoryIds": [
+    1003
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/3bb47e14-0625-4b55-b5cb-2828f0e6320a/cover.png",
+  "package": "sources/keyboards/themes/3bb47e14-0625-4b55-b5cb-2828f0e6320a/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "7be50d89-ac6a-424c-b2d5-886f0cc1691a",
+  "name": "Summer Paradise",
+  "fileName": "286_SummerParadise",
+  "categoryIds": [
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/7be50d89-ac6a-424c-b2d5-886f0cc1691a/cover.png",
+  "package": "sources/keyboards/themes/7be50d89-ac6a-424c-b2d5-886f0cc1691a/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

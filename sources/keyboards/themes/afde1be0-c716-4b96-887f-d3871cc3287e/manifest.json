@@ -1,0 +1,16 @@
+{
+  "id": "afde1be0-c716-4b96-887f-d3871cc3287e",
+  "name": "Metal Material",
+  "fileName": "28_MetalMaterial",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/afde1be0-c716-4b96-887f-d3871cc3287e/cover.png",
+  "package": "sources/keyboards/themes/afde1be0-c716-4b96-887f-d3871cc3287e/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

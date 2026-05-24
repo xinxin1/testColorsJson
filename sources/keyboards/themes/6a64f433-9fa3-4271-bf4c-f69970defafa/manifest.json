@@ -1,0 +1,16 @@
+{
+  "id": "6a64f433-9fa3-4271-bf4c-f69970defafa",
+  "name": "Technology",
+  "fileName": "15_Technology",
+  "categoryIds": [
+    1010
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/6a64f433-9fa3-4271-bf4c-f69970defafa/cover.png",
+  "package": "sources/keyboards/themes/6a64f433-9fa3-4271-bf4c-f69970defafa/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

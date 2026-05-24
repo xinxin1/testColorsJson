@@ -1,0 +1,16 @@
+{
+  "id": "96729743-dbf1-4948-86cf-03c4afa10b06",
+  "name": "Pink Panther",
+  "fileName": "52_PinkPanther",
+  "categoryIds": [
+    1001
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/96729743-dbf1-4948-86cf-03c4afa10b06/cover.png",
+  "package": "sources/keyboards/themes/96729743-dbf1-4948-86cf-03c4afa10b06/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

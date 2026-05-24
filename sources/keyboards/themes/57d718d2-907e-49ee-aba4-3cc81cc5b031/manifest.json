@@ -1,0 +1,16 @@
+{
+  "id": "57d718d2-907e-49ee-aba4-3cc81cc5b031",
+  "name": "Happy Birthday",
+  "fileName": "300_HappyBirthday",
+  "categoryIds": [
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/57d718d2-907e-49ee-aba4-3cc81cc5b031/cover.png",
+  "package": "sources/keyboards/themes/57d718d2-907e-49ee-aba4-3cc81cc5b031/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "db68fac6-d754-4074-bc6d-3cb47420f69c",
+  "name": "Neon Car",
+  "fileName": "63_NeonCar",
+  "categoryIds": [
+    1003,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/db68fac6-d754-4074-bc6d-3cb47420f69c/cover.gif",
+  "package": "sources/keyboards/themes/db68fac6-d754-4074-bc6d-3cb47420f69c/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

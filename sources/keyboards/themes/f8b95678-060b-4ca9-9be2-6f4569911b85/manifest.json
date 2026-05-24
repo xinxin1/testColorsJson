@@ -1,0 +1,16 @@
+{
+  "id": "f8b95678-060b-4ca9-9be2-6f4569911b85",
+  "name": "Blue Rose",
+  "fileName": "92_BlueRose",
+  "categoryIds": [
+    1002
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/f8b95678-060b-4ca9-9be2-6f4569911b85/cover.png",
+  "package": "sources/keyboards/themes/f8b95678-060b-4ca9-9be2-6f4569911b85/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

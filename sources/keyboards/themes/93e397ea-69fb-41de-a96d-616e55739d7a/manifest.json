@@ -1,0 +1,16 @@
+{
+  "id": "93e397ea-69fb-41de-a96d-616e55739d7a",
+  "name": "Strange",
+  "fileName": "48_Strange",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/93e397ea-69fb-41de-a96d-616e55739d7a/cover.png",
+  "package": "sources/keyboards/themes/93e397ea-69fb-41de-a96d-616e55739d7a/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

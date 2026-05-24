@@ -1,0 +1,17 @@
+{
+  "id": "8238aa2e-b856-40aa-8f5a-1babb3484aa5",
+  "name": "Rosekiss",
+  "fileName": "74_Rosekiss",
+  "categoryIds": [
+    1002,
+    1009
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/8238aa2e-b856-40aa-8f5a-1babb3484aa5/cover.png",
+  "package": "sources/keyboards/themes/8238aa2e-b856-40aa-8f5a-1babb3484aa5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

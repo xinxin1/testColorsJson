@@ -1,0 +1,16 @@
+{
+  "id": "95f82851-810c-4e9c-b398-7b86ead95385",
+  "name": "Game",
+  "fileName": "59_Game",
+  "categoryIds": [
+    1005
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/95f82851-810c-4e9c-b398-7b86ead95385/cover.png",
+  "package": "sources/keyboards/themes/95f82851-810c-4e9c-b398-7b86ead95385/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

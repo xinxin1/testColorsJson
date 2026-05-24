@@ -1,0 +1,18 @@
+{
+  "id": "c03f5755-6c84-4c6e-8591-69520fc6c7d6",
+  "name": "Glowing Stars",
+  "fileName": "94_GlowingStars",
+  "categoryIds": [
+    1003,
+    1006,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/c03f5755-6c84-4c6e-8591-69520fc6c7d6/cover.gif",
+  "package": "sources/keyboards/themes/c03f5755-6c84-4c6e-8591-69520fc6c7d6/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

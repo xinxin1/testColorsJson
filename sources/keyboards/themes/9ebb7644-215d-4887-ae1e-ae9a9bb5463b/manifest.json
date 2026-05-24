@@ -1,0 +1,16 @@
+{
+  "id": "9ebb7644-215d-4887-ae1e-ae9a9bb5463b",
+  "name": "Spirited Away",
+  "fileName": "70_SpiritedAway",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/9ebb7644-215d-4887-ae1e-ae9a9bb5463b/cover.png",
+  "package": "sources/keyboards/themes/9ebb7644-215d-4887-ae1e-ae9a9bb5463b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

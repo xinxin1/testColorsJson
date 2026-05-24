@@ -1,0 +1,16 @@
+{
+  "id": "8287f5d1-c885-44bb-b56c-76498be11a46",
+  "name": "Cyberpunk",
+  "fileName": "96_Cyberpunk",
+  "categoryIds": [
+    1010
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/8287f5d1-c885-44bb-b56c-76498be11a46/cover.png",
+  "package": "sources/keyboards/themes/8287f5d1-c885-44bb-b56c-76498be11a46/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

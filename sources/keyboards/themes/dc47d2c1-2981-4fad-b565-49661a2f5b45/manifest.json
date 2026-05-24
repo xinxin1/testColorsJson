@@ -1,0 +1,16 @@
+{
+  "id": "dc47d2c1-2981-4fad-b565-49661a2f5b45",
+  "name": "Romance",
+  "fileName": "138_Romance",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/dc47d2c1-2981-4fad-b565-49661a2f5b45/cover.png",
+  "package": "sources/keyboards/themes/dc47d2c1-2981-4fad-b565-49661a2f5b45/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "d4e334f4-3962-4f53-bc0d-ea3a71c2c400",
+  "name": "Kochou Shinobu",
+  "fileName": "83_KochouShinobu",
+  "categoryIds": [
+    1004,
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/d4e334f4-3962-4f53-bc0d-ea3a71c2c400/cover.png",
+  "package": "sources/keyboards/themes/d4e334f4-3962-4f53-bc0d-ea3a71c2c400/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

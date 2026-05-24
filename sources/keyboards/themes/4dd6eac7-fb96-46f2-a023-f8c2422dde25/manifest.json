@@ -1,0 +1,16 @@
+{
+  "id": "4dd6eac7-fb96-46f2-a023-f8c2422dde25",
+  "name": "Dream Fairies",
+  "fileName": "225_DreamFairies",
+  "categoryIds": [
+    1007
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/4dd6eac7-fb96-46f2-a023-f8c2422dde25/cover.png",
+  "package": "sources/keyboards/themes/4dd6eac7-fb96-46f2-a023-f8c2422dde25/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

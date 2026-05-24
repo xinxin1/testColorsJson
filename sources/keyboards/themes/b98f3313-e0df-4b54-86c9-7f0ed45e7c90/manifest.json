@@ -1,0 +1,16 @@
+{
+  "id": "b98f3313-e0df-4b54-86c9-7f0ed45e7c90",
+  "name": "Cat",
+  "fileName": "17_Cat",
+  "categoryIds": [
+    1001
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/b98f3313-e0df-4b54-86c9-7f0ed45e7c90/cover.png",
+  "package": "sources/keyboards/themes/b98f3313-e0df-4b54-86c9-7f0ed45e7c90/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

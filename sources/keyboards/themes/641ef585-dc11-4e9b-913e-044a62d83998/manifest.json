@@ -1,0 +1,16 @@
+{
+  "id": "641ef585-dc11-4e9b-913e-044a62d83998",
+  "name": "Vaporwave",
+  "fileName": "61_Vaporwave",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/641ef585-dc11-4e9b-913e-044a62d83998/cover.png",
+  "package": "sources/keyboards/themes/641ef585-dc11-4e9b-913e-044a62d83998/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

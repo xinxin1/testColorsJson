@@ -1,0 +1,16 @@
+{
+  "id": "fa8c83ef-a785-485b-9526-eee0a177d2e1",
+  "name": "JollyStag",
+  "fileName": "347_JollyStag",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/fa8c83ef-a785-485b-9526-eee0a177d2e1/cover.png",
+  "package": "sources/keyboards/themes/fa8c83ef-a785-485b-9526-eee0a177d2e1/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

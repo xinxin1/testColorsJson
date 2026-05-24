@@ -1,0 +1,16 @@
+{
+  "id": "e5de9e1b-1bfd-4283-9752-d317f9c03887",
+  "name": "Retro Christmas",
+  "fileName": "55_RetroChristmas",
+  "categoryIds": [
+    1011
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/e5de9e1b-1bfd-4283-9752-d317f9c03887/cover.png",
+  "package": "sources/keyboards/themes/e5de9e1b-1bfd-4283-9752-d317f9c03887/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "317dedd6-e1a3-457f-bef3-ff2b18f5387e",
+  "name": "Rainbow Neon",
+  "fileName": "233_RainbowNeon",
+  "categoryIds": [
+    1003
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/317dedd6-e1a3-457f-bef3-ff2b18f5387e/cover.png",
+  "package": "sources/keyboards/themes/317dedd6-e1a3-457f-bef3-ff2b18f5387e/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

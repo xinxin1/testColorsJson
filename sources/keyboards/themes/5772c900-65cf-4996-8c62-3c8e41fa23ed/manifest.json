@@ -1,0 +1,16 @@
+{
+  "id": "5772c900-65cf-4996-8c62-3c8e41fa23ed",
+  "name": "Maria",
+  "fileName": "195_Maria",
+  "categoryIds": [
+    1002
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/5772c900-65cf-4996-8c62-3c8e41fa23ed/cover.png",
+  "package": "sources/keyboards/themes/5772c900-65cf-4996-8c62-3c8e41fa23ed/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

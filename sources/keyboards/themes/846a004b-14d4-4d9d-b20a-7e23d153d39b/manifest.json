@@ -1,0 +1,16 @@
+{
+  "id": "846a004b-14d4-4d9d-b20a-7e23d153d39b",
+  "name": "GratitudeKeys",
+  "fileName": "346_GratitudeKeys",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/846a004b-14d4-4d9d-b20a-7e23d153d39b/cover.png",
+  "package": "sources/keyboards/themes/846a004b-14d4-4d9d-b20a-7e23d153d39b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

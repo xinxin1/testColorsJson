@@ -1,0 +1,17 @@
+{
+  "id": "96edc8f1-cc21-4407-96e2-847c0f4f7fa1",
+  "name": "SuperXmas",
+  "fileName": "95_SuperXmas",
+  "categoryIds": [
+    1011,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/96edc8f1-cc21-4407-96e2-847c0f4f7fa1/cover.gif",
+  "package": "sources/keyboards/themes/96edc8f1-cc21-4407-96e2-847c0f4f7fa1/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

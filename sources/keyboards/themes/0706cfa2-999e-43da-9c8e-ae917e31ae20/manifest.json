@@ -1,0 +1,16 @@
+{
+  "id": "0706cfa2-999e-43da-9c8e-ae917e31ae20",
+  "name": "Precious Ruby",
+  "fileName": "276_PreciousRuby",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/0706cfa2-999e-43da-9c8e-ae917e31ae20/cover.png",
+  "package": "sources/keyboards/themes/0706cfa2-999e-43da-9c8e-ae917e31ae20/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

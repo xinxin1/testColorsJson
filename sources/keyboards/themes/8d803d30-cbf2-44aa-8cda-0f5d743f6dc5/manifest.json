@@ -1,0 +1,16 @@
+{
+  "id": "8d803d30-cbf2-44aa-8cda-0f5d743f6dc5",
+  "name": "Marble Grey",
+  "fileName": "50_MarbleGrey",
+  "categoryIds": [
+    1008
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/8d803d30-cbf2-44aa-8cda-0f5d743f6dc5/cover.png",
+  "package": "sources/keyboards/themes/8d803d30-cbf2-44aa-8cda-0f5d743f6dc5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

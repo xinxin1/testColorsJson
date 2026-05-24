@@ -1,0 +1,18 @@
+{
+  "id": "3cefdbbe-2a7e-426e-bdce-ffb6c047c86f",
+  "name": "Black Magic",
+  "fileName": "318_BlackMagic",
+  "categoryIds": [
+    1007,
+    1008,
+    1013
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/3cefdbbe-2a7e-426e-bdce-ffb6c047c86f/cover.png",
+  "package": "sources/keyboards/themes/3cefdbbe-2a7e-426e-bdce-ffb6c047c86f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

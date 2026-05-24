@@ -1,0 +1,16 @@
+{
+  "id": "0856493a-7f1a-40ae-86c5-b39fd134b41c",
+  "name": "Sugar Rainbow",
+  "fileName": "20_SugarRainbow",
+  "categoryIds": [
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/0856493a-7f1a-40ae-86c5-b39fd134b41c/cover.png",
+  "package": "sources/keyboards/themes/0856493a-7f1a-40ae-86c5-b39fd134b41c/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

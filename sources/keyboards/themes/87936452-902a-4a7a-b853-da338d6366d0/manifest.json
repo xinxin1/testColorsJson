@@ -1,0 +1,16 @@
+{
+  "id": "87936452-902a-4a7a-b853-da338d6366d0",
+  "name": "Shiny Diamond",
+  "fileName": "278_ShinyDiamond",
+  "categoryIds": [
+    1003
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/87936452-902a-4a7a-b853-da338d6366d0/cover.png",
+  "package": "sources/keyboards/themes/87936452-902a-4a7a-b853-da338d6366d0/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

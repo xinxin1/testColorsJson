@@ -1,0 +1,16 @@
+{
+  "id": "e8824a2a-3de4-4b18-aa5e-04cdbb92279f",
+  "name": "Red & Blue",
+  "fileName": "60_Red&Blue",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e8824a2a-3de4-4b18-aa5e-04cdbb92279f/cover.png",
+  "package": "sources/keyboards/themes/e8824a2a-3de4-4b18-aa5e-04cdbb92279f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

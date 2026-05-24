@@ -1,0 +1,16 @@
+{
+  "id": "aa748419-f7d6-4482-b884-50d8f27aff45",
+  "name": "Pixel Style",
+  "fileName": "260_PixelStyle",
+  "categoryIds": [
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/aa748419-f7d6-4482-b884-50d8f27aff45/cover.png",
+  "package": "sources/keyboards/themes/aa748419-f7d6-4482-b884-50d8f27aff45/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

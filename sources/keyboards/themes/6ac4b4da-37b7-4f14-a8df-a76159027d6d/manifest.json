@@ -1,0 +1,16 @@
+{
+  "id": "6ac4b4da-37b7-4f14-a8df-a76159027d6d",
+  "name": "Rainbow Radiance",
+  "fileName": "49_RainbowRadiance",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/6ac4b4da-37b7-4f14-a8df-a76159027d6d/cover.png",
+  "package": "sources/keyboards/themes/6ac4b4da-37b7-4f14-a8df-a76159027d6d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

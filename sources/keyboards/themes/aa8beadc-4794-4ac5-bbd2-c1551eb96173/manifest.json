@@ -1,0 +1,16 @@
+{
+  "id": "aa8beadc-4794-4ac5-bbd2-c1551eb96173",
+  "name": "Serena Tsukino",
+  "fileName": "60_SerenaTsukino",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/aa8beadc-4794-4ac5-bbd2-c1551eb96173/cover.png",
+  "package": "sources/keyboards/themes/aa8beadc-4794-4ac5-bbd2-c1551eb96173/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

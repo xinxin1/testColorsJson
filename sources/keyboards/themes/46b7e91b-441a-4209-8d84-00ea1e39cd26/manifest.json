@@ -1,0 +1,20 @@
+{
+  "id": "46b7e91b-441a-4209-8d84-00ea1e39cd26",
+  "name": "Cuteghost",
+  "fileName": "204_Cuteghost",
+  "categoryIds": [
+    1001,
+    1007,
+    1011,
+    1012,
+    1013
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/46b7e91b-441a-4209-8d84-00ea1e39cd26/cover.gif",
+  "package": "sources/keyboards/themes/46b7e91b-441a-4209-8d84-00ea1e39cd26/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

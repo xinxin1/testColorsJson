@@ -1,0 +1,17 @@
+{
+  "id": "a9562149-f8c4-4c69-815e-7e59b8522616",
+  "name": "Pink Lady",
+  "fileName": "102_PinkLady",
+  "categoryIds": [
+    1001,
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/a9562149-f8c4-4c69-815e-7e59b8522616/cover.png",
+  "package": "sources/keyboards/themes/a9562149-f8c4-4c69-815e-7e59b8522616/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

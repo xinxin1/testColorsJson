@@ -1,0 +1,16 @@
+{
+  "id": "4e261538-2a97-47e4-8ac0-f0c21588b060",
+  "name": "Cute Bear",
+  "fileName": "2_CuteBear",
+  "categoryIds": [
+    1001
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/4e261538-2a97-47e4-8ac0-f0c21588b060/cover.png",
+  "package": "sources/keyboards/themes/4e261538-2a97-47e4-8ac0-f0c21588b060/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

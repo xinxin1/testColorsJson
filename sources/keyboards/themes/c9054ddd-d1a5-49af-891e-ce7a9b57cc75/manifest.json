@@ -1,0 +1,16 @@
+{
+  "id": "c9054ddd-d1a5-49af-891e-ce7a9b57cc75",
+  "name": "Kuroko Tetsuya",
+  "fileName": "90_KurokoTetsuya",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/c9054ddd-d1a5-49af-891e-ce7a9b57cc75/cover.png",
+  "package": "sources/keyboards/themes/c9054ddd-d1a5-49af-891e-ce7a9b57cc75/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

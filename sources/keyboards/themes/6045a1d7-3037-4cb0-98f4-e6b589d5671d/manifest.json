@@ -1,0 +1,16 @@
+{
+  "id": "6045a1d7-3037-4cb0-98f4-e6b589d5671d",
+  "name": "Lonely",
+  "fileName": "146_Lonely",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/6045a1d7-3037-4cb0-98f4-e6b589d5671d/cover.png",
+  "package": "sources/keyboards/themes/6045a1d7-3037-4cb0-98f4-e6b589d5671d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

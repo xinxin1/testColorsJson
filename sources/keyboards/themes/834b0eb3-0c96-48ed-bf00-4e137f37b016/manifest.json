@@ -1,0 +1,19 @@
+{
+  "id": "834b0eb3-0c96-48ed-bf00-4e137f37b016",
+  "name": "Ghostlyglow",
+  "fileName": "201_Ghostlyglow",
+  "categoryIds": [
+    1003,
+    1007,
+    1011,
+    1013
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/834b0eb3-0c96-48ed-bf00-4e137f37b016/cover.png",
+  "package": "sources/keyboards/themes/834b0eb3-0c96-48ed-bf00-4e137f37b016/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

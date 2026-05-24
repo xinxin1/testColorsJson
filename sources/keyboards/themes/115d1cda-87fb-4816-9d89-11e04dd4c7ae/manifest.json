@@ -1,0 +1,17 @@
+{
+  "id": "115d1cda-87fb-4816-9d89-11e04dd4c7ae",
+  "name": "Sweet Dreams",
+  "fileName": "122_SweetDreams",
+  "categoryIds": [
+    1007,
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/115d1cda-87fb-4816-9d89-11e04dd4c7ae/cover.png",
+  "package": "sources/keyboards/themes/115d1cda-87fb-4816-9d89-11e04dd4c7ae/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

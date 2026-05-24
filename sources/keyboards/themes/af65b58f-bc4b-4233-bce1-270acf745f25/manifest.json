@@ -1,0 +1,16 @@
+{
+  "id": "af65b58f-bc4b-4233-bce1-270acf745f25",
+  "name": "Wolf",
+  "fileName": "83_Wolf",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/af65b58f-bc4b-4233-bce1-270acf745f25/cover.png",
+  "package": "sources/keyboards/themes/af65b58f-bc4b-4233-bce1-270acf745f25/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

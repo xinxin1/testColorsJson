@@ -1,0 +1,16 @@
+{
+  "id": "c67d587a-b1a8-43b9-a505-5bfddd2a0497",
+  "name": "Embrace Love",
+  "fileName": "135_EmbraceLove",
+  "categoryIds": [
+    1002
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/c67d587a-b1a8-43b9-a505-5bfddd2a0497/cover.png",
+  "package": "sources/keyboards/themes/c67d587a-b1a8-43b9-a505-5bfddd2a0497/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "75f76d24-c54f-4025-8574-b7df2fe4acf2",
+  "name": "Sanemi",
+  "fileName": "44_Sanemi",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/75f76d24-c54f-4025-8574-b7df2fe4acf2/cover.png",
+  "package": "sources/keyboards/themes/75f76d24-c54f-4025-8574-b7df2fe4acf2/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

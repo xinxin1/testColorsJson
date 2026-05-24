@@ -1,0 +1,16 @@
+{
+  "id": "bafa883e-16ea-4a95-b5c2-2157bfb5acdd",
+  "name": "Romantic Plot",
+  "fileName": "303_RomanticPlot",
+  "categoryIds": [
+    1002
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/bafa883e-16ea-4a95-b5c2-2157bfb5acdd/cover.png",
+  "package": "sources/keyboards/themes/bafa883e-16ea-4a95-b5c2-2157bfb5acdd/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

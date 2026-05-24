@@ -1,0 +1,17 @@
+{
+  "id": "e144b302-7830-4d49-9081-0ed2f488e7ab",
+  "name": "DiwaliGlow",
+  "fileName": "345_DiwaliGlow",
+  "categoryIds": [
+    1003,
+    1011
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/e144b302-7830-4d49-9081-0ed2f488e7ab/cover.png",
+  "package": "sources/keyboards/themes/e144b302-7830-4d49-9081-0ed2f488e7ab/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

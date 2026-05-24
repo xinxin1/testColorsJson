@@ -1,0 +1,16 @@
+{
+  "id": "76c99a40-a764-432e-8d54-0d8f8e8cbf56",
+  "name": "Colorful Comics",
+  "fileName": "261_ColorfulComics",
+  "categoryIds": [
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/76c99a40-a764-432e-8d54-0d8f8e8cbf56/cover.png",
+  "package": "sources/keyboards/themes/76c99a40-a764-432e-8d54-0d8f8e8cbf56/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

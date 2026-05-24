@@ -1,0 +1,18 @@
+{
+  "id": "0c4cd127-d5b9-480e-8e80-e17cf1e93a81",
+  "name": "Red Black",
+  "fileName": "139_RedBlack",
+  "categoryIds": [
+    1003,
+    1008,
+    1013
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/0c4cd127-d5b9-480e-8e80-e17cf1e93a81/cover.png",
+  "package": "sources/keyboards/themes/0c4cd127-d5b9-480e-8e80-e17cf1e93a81/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

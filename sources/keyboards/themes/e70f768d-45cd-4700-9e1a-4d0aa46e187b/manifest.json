@@ -1,0 +1,16 @@
+{
+  "id": "e70f768d-45cd-4700-9e1a-4d0aa46e187b",
+  "name": "Mechanics",
+  "fileName": "47_Mechanics",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/e70f768d-45cd-4700-9e1a-4d0aa46e187b/cover.png",
+  "package": "sources/keyboards/themes/e70f768d-45cd-4700-9e1a-4d0aa46e187b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

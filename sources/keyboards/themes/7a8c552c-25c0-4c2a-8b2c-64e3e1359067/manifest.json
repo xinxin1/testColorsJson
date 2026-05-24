@@ -1,0 +1,16 @@
+{
+  "id": "7a8c552c-25c0-4c2a-8b2c-64e3e1359067",
+  "name": "Neon Lamp",
+  "fileName": "223_NeonLamp",
+  "categoryIds": [
+    1003
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/7a8c552c-25c0-4c2a-8b2c-64e3e1359067/cover.png",
+  "package": "sources/keyboards/themes/7a8c552c-25c0-4c2a-8b2c-64e3e1359067/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

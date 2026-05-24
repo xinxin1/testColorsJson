@@ -1,0 +1,18 @@
+{
+  "id": "1a0280c1-e563-4b38-af4a-d1d36f1c6c6b",
+  "name": "Kuromi",
+  "fileName": "200_Kuromi",
+  "categoryIds": [
+    1001,
+    1004,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/1a0280c1-e563-4b38-af4a-d1d36f1c6c6b/cover.gif",
+  "package": "sources/keyboards/themes/1a0280c1-e563-4b38-af4a-d1d36f1c6c6b/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

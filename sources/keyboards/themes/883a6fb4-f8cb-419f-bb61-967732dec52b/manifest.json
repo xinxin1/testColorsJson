@@ -1,0 +1,16 @@
+{
+  "id": "883a6fb4-f8cb-419f-bb61-967732dec52b",
+  "name": "Flowing Silk",
+  "fileName": "308_FlowingSilk",
+  "categoryIds": [
+    1010
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/883a6fb4-f8cb-419f-bb61-967732dec52b/cover.png",
+  "package": "sources/keyboards/themes/883a6fb4-f8cb-419f-bb61-967732dec52b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

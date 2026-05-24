@@ -1,0 +1,16 @@
+{
+  "id": "657ff0d9-b915-4775-87ac-ae8d6a270c39",
+  "name": "Unicorn",
+  "fileName": "105_Unicorn",
+  "categoryIds": [
+    1001
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/657ff0d9-b915-4775-87ac-ae8d6a270c39/cover.png",
+  "package": "sources/keyboards/themes/657ff0d9-b915-4775-87ac-ae8d6a270c39/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

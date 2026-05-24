@@ -1,0 +1,16 @@
+{
+  "id": "88071b42-a2a1-488b-85d7-34b37a7055eb",
+  "name": "Wood Grain",
+  "fileName": "9_WoodGrain",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/88071b42-a2a1-488b-85d7-34b37a7055eb/cover.png",
+  "package": "sources/keyboards/themes/88071b42-a2a1-488b-85d7-34b37a7055eb/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "b4375a86-711d-47e8-b8a3-ac7ee119d42b",
+  "name": "Spray",
+  "fileName": "183_Spray",
+  "categoryIds": [
+    1007,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/b4375a86-711d-47e8-b8a3-ac7ee119d42b/cover.png",
+  "package": "sources/keyboards/themes/b4375a86-711d-47e8-b8a3-ac7ee119d42b/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2c7cf0e6-c6c3-4edf-9435-cc5e2db05728",
+  "name": "Happy Crab",
+  "fileName": "69_HappyCrab",
+  "categoryIds": [
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/2c7cf0e6-c6c3-4edf-9435-cc5e2db05728/cover.gif",
+  "package": "sources/keyboards/themes/2c7cf0e6-c6c3-4edf-9435-cc5e2db05728/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

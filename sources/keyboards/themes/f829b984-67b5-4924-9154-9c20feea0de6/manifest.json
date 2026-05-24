@@ -1,0 +1,16 @@
+{
+  "id": "f829b984-67b5-4924-9154-9c20feea0de6",
+  "name": "Marilyn Monroe",
+  "fileName": "234_MarilynMonroe",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/f829b984-67b5-4924-9154-9c20feea0de6/cover.png",
+  "package": "sources/keyboards/themes/f829b984-67b5-4924-9154-9c20feea0de6/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

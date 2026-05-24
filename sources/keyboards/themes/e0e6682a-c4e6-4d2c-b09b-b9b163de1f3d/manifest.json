@@ -1,0 +1,16 @@
+{
+  "id": "e0e6682a-c4e6-4d2c-b09b-b9b163de1f3d",
+  "name": "Rilakkuma",
+  "fileName": "262_Rilakkuma",
+  "categoryIds": [
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e0e6682a-c4e6-4d2c-b09b-b9b163de1f3d/cover.png",
+  "package": "sources/keyboards/themes/e0e6682a-c4e6-4d2c-b09b-b9b163de1f3d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "aae7e189-5f5c-42b3-91a6-e3d199ee17b0",
+  "name": "Strawberry",
+  "fileName": "62_Strawberry",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/aae7e189-5f5c-42b3-91a6-e3d199ee17b0/cover.png",
+  "package": "sources/keyboards/themes/aae7e189-5f5c-42b3-91a6-e3d199ee17b0/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

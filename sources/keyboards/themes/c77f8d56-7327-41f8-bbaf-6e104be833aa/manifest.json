@@ -1,0 +1,16 @@
+{
+  "id": "c77f8d56-7327-41f8-bbaf-6e104be833aa",
+  "name": "Christmas",
+  "fileName": "49_Christmas",
+  "categoryIds": [
+    1011
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/c77f8d56-7327-41f8-bbaf-6e104be833aa/cover.png",
+  "package": "sources/keyboards/themes/c77f8d56-7327-41f8-bbaf-6e104be833aa/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

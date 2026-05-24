@@ -1,0 +1,16 @@
+{
+  "id": "93387a3b-d797-46b0-8116-077aace47151",
+  "name": "Arceus",
+  "fileName": "195_Arceus",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/93387a3b-d797-46b0-8116-077aace47151/cover.png",
+  "package": "sources/keyboards/themes/93387a3b-d797-46b0-8116-077aace47151/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

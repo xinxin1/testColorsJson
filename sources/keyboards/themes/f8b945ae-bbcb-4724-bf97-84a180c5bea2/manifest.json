@@ -1,0 +1,16 @@
+{
+  "id": "f8b945ae-bbcb-4724-bf97-84a180c5bea2",
+  "name": "Christmas Day",
+  "fileName": "289_ChristmasDay",
+  "categoryIds": [
+    1011
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/f8b945ae-bbcb-4724-bf97-84a180c5bea2/cover.png",
+  "package": "sources/keyboards/themes/f8b945ae-bbcb-4724-bf97-84a180c5bea2/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

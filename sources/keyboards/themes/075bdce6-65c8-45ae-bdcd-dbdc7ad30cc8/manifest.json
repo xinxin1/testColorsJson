@@ -1,0 +1,16 @@
+{
+  "id": "075bdce6-65c8-45ae-bdcd-dbdc7ad30cc8",
+  "name": "GINTAMA",
+  "fileName": "147_GINTAMA",
+  "categoryIds": [
+    1004
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/075bdce6-65c8-45ae-bdcd-dbdc7ad30cc8/cover.png",
+  "package": "sources/keyboards/themes/075bdce6-65c8-45ae-bdcd-dbdc7ad30cc8/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

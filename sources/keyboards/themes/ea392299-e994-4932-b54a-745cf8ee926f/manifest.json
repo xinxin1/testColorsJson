@@ -1,0 +1,16 @@
+{
+  "id": "ea392299-e994-4932-b54a-745cf8ee926f",
+  "name": "Sweet",
+  "fileName": "65_Sweet",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/ea392299-e994-4932-b54a-745cf8ee926f/cover.png",
+  "package": "sources/keyboards/themes/ea392299-e994-4932-b54a-745cf8ee926f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2c3f665a-648a-4393-b8f2-8d40d8d81209",
+  "name": "Gleaming",
+  "fileName": "230_Gleaming",
+  "categoryIds": [
+    1003
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/2c3f665a-648a-4393-b8f2-8d40d8d81209/cover.png",
+  "package": "sources/keyboards/themes/2c3f665a-648a-4393-b8f2-8d40d8d81209/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

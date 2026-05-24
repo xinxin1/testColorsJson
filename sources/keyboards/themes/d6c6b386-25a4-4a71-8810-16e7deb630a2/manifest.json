@@ -1,0 +1,16 @@
+{
+  "id": "d6c6b386-25a4-4a71-8810-16e7deb630a2",
+  "name": "Pumpkin Lantern",
+  "fileName": "264_PumpkinLantern",
+  "categoryIds": [
+    1011
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/d6c6b386-25a4-4a71-8810-16e7deb630a2/cover.png",
+  "package": "sources/keyboards/themes/d6c6b386-25a4-4a71-8810-16e7deb630a2/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

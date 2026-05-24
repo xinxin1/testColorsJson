@@ -1,0 +1,16 @@
+{
+  "id": "88eada85-937b-44df-ad3e-bd4d5d473a2d",
+  "name": "Shining",
+  "fileName": "83_Shining",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/88eada85-937b-44df-ad3e-bd4d5d473a2d/cover.png",
+  "package": "sources/keyboards/themes/88eada85-937b-44df-ad3e-bd4d5d473a2d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

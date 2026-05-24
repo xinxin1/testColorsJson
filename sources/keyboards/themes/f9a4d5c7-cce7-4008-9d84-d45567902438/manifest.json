@@ -1,0 +1,17 @@
+{
+  "id": "f9a4d5c7-cce7-4008-9d84-d45567902438",
+  "name": "Party Animals",
+  "fileName": "59_PartyAnimals",
+  "categoryIds": [
+    1001,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/f9a4d5c7-cce7-4008-9d84-d45567902438/cover.gif",
+  "package": "sources/keyboards/themes/f9a4d5c7-cce7-4008-9d84-d45567902438/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

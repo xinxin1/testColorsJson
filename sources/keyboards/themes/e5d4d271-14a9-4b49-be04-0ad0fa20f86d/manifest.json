@@ -1,0 +1,17 @@
+{
+  "id": "e5d4d271-14a9-4b49-be04-0ad0fa20f86d",
+  "name": "Rebirth Rose",
+  "fileName": "310_RebirthRose",
+  "categoryIds": [
+    1002,
+    1009
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/e5d4d271-14a9-4b49-be04-0ad0fa20f86d/cover.png",
+  "package": "sources/keyboards/themes/e5d4d271-14a9-4b49-be04-0ad0fa20f86d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

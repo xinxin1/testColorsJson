@@ -1,0 +1,17 @@
+{
+  "id": "712c1330-d220-4723-bc5f-5729ed2b5201",
+  "name": "Fairy Keys",
+  "fileName": "318_FairyKeys",
+  "categoryIds": [
+    1007,
+    1010
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/712c1330-d220-4723-bc5f-5729ed2b5201/cover.png",
+  "package": "sources/keyboards/themes/712c1330-d220-4723-bc5f-5729ed2b5201/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

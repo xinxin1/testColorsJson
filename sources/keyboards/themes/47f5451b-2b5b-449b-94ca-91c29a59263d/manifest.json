@@ -1,0 +1,16 @@
+{
+  "id": "47f5451b-2b5b-449b-94ca-91c29a59263d",
+  "name": "Facula",
+  "fileName": "136_Facula",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/47f5451b-2b5b-449b-94ca-91c29a59263d/cover.png",
+  "package": "sources/keyboards/themes/47f5451b-2b5b-449b-94ca-91c29a59263d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

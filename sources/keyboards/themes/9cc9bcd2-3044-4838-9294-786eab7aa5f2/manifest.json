@@ -1,0 +1,17 @@
+{
+  "id": "9cc9bcd2-3044-4838-9294-786eab7aa5f2",
+  "name": "Leaves",
+  "fileName": "188_Leaves",
+  "categoryIds": [
+    1007,
+    1012
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/9cc9bcd2-3044-4838-9294-786eab7aa5f2/cover.png",
+  "package": "sources/keyboards/themes/9cc9bcd2-3044-4838-9294-786eab7aa5f2/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

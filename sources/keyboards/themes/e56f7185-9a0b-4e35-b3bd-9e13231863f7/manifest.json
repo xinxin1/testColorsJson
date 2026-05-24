@@ -1,0 +1,16 @@
+{
+  "id": "e56f7185-9a0b-4e35-b3bd-9e13231863f7",
+  "name": "Higanbana",
+  "fileName": "247_Higanbana",
+  "categoryIds": [
+    1009
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/e56f7185-9a0b-4e35-b3bd-9e13231863f7/cover.png",
+  "package": "sources/keyboards/themes/e56f7185-9a0b-4e35-b3bd-9e13231863f7/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

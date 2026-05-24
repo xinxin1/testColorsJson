@@ -1,0 +1,16 @@
+{
+  "id": "23667583-db34-4f4d-8f30-d6700931ba9f",
+  "name": "Ryomen Sukuna",
+  "fileName": "85_RyomenSukuna",
+  "categoryIds": [
+    1004
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/23667583-db34-4f4d-8f30-d6700931ba9f/cover.png",
+  "package": "sources/keyboards/themes/23667583-db34-4f4d-8f30-d6700931ba9f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

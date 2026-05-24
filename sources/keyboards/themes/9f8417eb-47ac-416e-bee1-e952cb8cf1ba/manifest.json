@@ -1,0 +1,17 @@
+{
+  "id": "9f8417eb-47ac-416e-bee1-e952cb8cf1ba",
+  "name": "Unique Love",
+  "fileName": "242_UniqueLove",
+  "categoryIds": [
+    1002,
+    1003
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/9f8417eb-47ac-416e-bee1-e952cb8cf1ba/cover.png",
+  "package": "sources/keyboards/themes/9f8417eb-47ac-416e-bee1-e952cb8cf1ba/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

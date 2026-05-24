@@ -1,0 +1,16 @@
+{
+  "id": "ae88fe1a-d46b-4261-ae16-4b021d27d0f9",
+  "name": "Whale",
+  "fileName": "123_Whale",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/ae88fe1a-d46b-4261-ae16-4b021d27d0f9/cover.png",
+  "package": "sources/keyboards/themes/ae88fe1a-d46b-4261-ae16-4b021d27d0f9/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

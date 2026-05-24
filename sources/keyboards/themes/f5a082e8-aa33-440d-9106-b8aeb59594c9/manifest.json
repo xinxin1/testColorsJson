@@ -1,0 +1,17 @@
+{
+  "id": "f5a082e8-aa33-440d-9106-b8aeb59594c9",
+  "name": "Pink Bubble",
+  "fileName": "47_PinkBubble",
+  "categoryIds": [
+    1001,
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/f5a082e8-aa33-440d-9106-b8aeb59594c9/cover.png",
+  "package": "sources/keyboards/themes/f5a082e8-aa33-440d-9106-b8aeb59594c9/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

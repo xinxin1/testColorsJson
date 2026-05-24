@@ -1,0 +1,16 @@
+{
+  "id": "ae2fd1e0-1744-4a01-b0dd-fd10963e7f92",
+  "name": "Starry Sky",
+  "fileName": "3_StarrySky",
+  "categoryIds": [
+    1006
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/ae2fd1e0-1744-4a01-b0dd-fd10963e7f92/cover.png",
+  "package": "sources/keyboards/themes/ae2fd1e0-1744-4a01-b0dd-fd10963e7f92/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "f42bb4f0-5beb-4f57-8709-61a84f05c354",
+  "name": "Sailing Boat",
+  "fileName": "95_SailingBoat",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/f42bb4f0-5beb-4f57-8709-61a84f05c354/cover.png",
+  "package": "sources/keyboards/themes/f42bb4f0-5beb-4f57-8709-61a84f05c354/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

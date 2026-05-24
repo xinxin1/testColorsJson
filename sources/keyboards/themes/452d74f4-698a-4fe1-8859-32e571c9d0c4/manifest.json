@@ -1,0 +1,17 @@
+{
+  "id": "452d74f4-698a-4fe1-8859-32e571c9d0c4",
+  "name": "Starlight Surf",
+  "fileName": "34_StarlightSurf",
+  "categoryIds": [
+    1003,
+    1006
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/452d74f4-698a-4fe1-8859-32e571c9d0c4/cover.png",
+  "package": "sources/keyboards/themes/452d74f4-698a-4fe1-8859-32e571c9d0c4/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

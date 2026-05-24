@@ -1,0 +1,16 @@
+{
+  "id": "d95f61cd-1bc3-45c4-8bec-a2a4816d60fd",
+  "name": "Green Gem",
+  "fileName": "132_GreenGem",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/d95f61cd-1bc3-45c4-8bec-a2a4816d60fd/cover.png",
+  "package": "sources/keyboards/themes/d95f61cd-1bc3-45c4-8bec-a2a4816d60fd/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "3ca9e268-ab18-47ad-91d0-4eb058321960",
+  "name": "Wolf",
+  "fileName": "14_Wolf",
+  "categoryIds": [
+    1003
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/3ca9e268-ab18-47ad-91d0-4eb058321960/cover.png",
+  "package": "sources/keyboards/themes/3ca9e268-ab18-47ad-91d0-4eb058321960/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

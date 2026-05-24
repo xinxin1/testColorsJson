@@ -1,0 +1,16 @@
+{
+  "id": "5e43d5d9-7505-4e8d-b4dc-6d515feebbf2",
+  "name": "Light",
+  "fileName": "31_Light",
+  "categoryIds": [
+    1003
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/5e43d5d9-7505-4e8d-b4dc-6d515feebbf2/cover.png",
+  "package": "sources/keyboards/themes/5e43d5d9-7505-4e8d-b4dc-6d515feebbf2/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "563f4f5d-f8f5-4921-ac1f-67bc692b1021",
+  "name": "Taylor Swift",
+  "fileName": "216_TaylorSwift",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/563f4f5d-f8f5-4921-ac1f-67bc692b1021/cover.png",
+  "package": "sources/keyboards/themes/563f4f5d-f8f5-4921-ac1f-67bc692b1021/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

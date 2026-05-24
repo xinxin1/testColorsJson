@@ -1,0 +1,16 @@
+{
+  "id": "5660dab7-3aa1-4921-ae0d-3181e614e025",
+  "name": "Pac Man",
+  "fileName": "21_PacMan",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/5660dab7-3aa1-4921-ae0d-3181e614e025/cover.png",
+  "package": "sources/keyboards/themes/5660dab7-3aa1-4921-ae0d-3181e614e025/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2064f614-95a9-4dd2-a065-8633d8c19087",
+  "name": "Waves",
+  "fileName": "171_Waves",
+  "categoryIds": [
+    1007,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/2064f614-95a9-4dd2-a065-8633d8c19087/cover.png",
+  "package": "sources/keyboards/themes/2064f614-95a9-4dd2-a065-8633d8c19087/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

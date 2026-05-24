@@ -1,0 +1,17 @@
+{
+  "id": "cc4fa4e0-4ccb-4cad-acbb-f77a65ebc273",
+  "name": "Starry Keystrokes",
+  "fileName": "312_StarryKeystrokes",
+  "categoryIds": [
+    1006,
+    1010
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/cc4fa4e0-4ccb-4cad-acbb-f77a65ebc273/cover.png",
+  "package": "sources/keyboards/themes/cc4fa4e0-4ccb-4cad-acbb-f77a65ebc273/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

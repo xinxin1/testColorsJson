@@ -1,0 +1,16 @@
+{
+  "id": "cd4dee25-c8b0-4a78-96c0-040416920631",
+  "name": "Kaneki Ken",
+  "fileName": "33_KanekiKen",
+  "categoryIds": [
+    1004
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/cd4dee25-c8b0-4a78-96c0-040416920631/cover.png",
+  "package": "sources/keyboards/themes/cd4dee25-c8b0-4a78-96c0-040416920631/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

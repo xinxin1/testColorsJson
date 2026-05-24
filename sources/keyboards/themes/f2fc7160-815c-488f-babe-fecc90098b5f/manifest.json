@@ -1,0 +1,16 @@
+{
+  "id": "f2fc7160-815c-488f-babe-fecc90098b5f",
+  "name": "Imaginary",
+  "fileName": "227_Imaginary",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/f2fc7160-815c-488f-babe-fecc90098b5f/cover.png",
+  "package": "sources/keyboards/themes/f2fc7160-815c-488f-babe-fecc90098b5f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

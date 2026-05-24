@@ -1,0 +1,18 @@
+{
+  "id": "694c1687-2081-48c6-b52a-8ff4b45ff107",
+  "name": "Night Elf",
+  "fileName": "21_NightElf",
+  "categoryIds": [
+    1003,
+    1008,
+    1013
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/694c1687-2081-48c6-b52a-8ff4b45ff107/cover.png",
+  "package": "sources/keyboards/themes/694c1687-2081-48c6-b52a-8ff4b45ff107/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ef76c25f-91f9-4352-b5cc-cbabb7b3c4e2",
+  "name": "Mechanical Gear",
+  "fileName": "180_MechanicalGear",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/ef76c25f-91f9-4352-b5cc-cbabb7b3c4e2/cover.png",
+  "package": "sources/keyboards/themes/ef76c25f-91f9-4352-b5cc-cbabb7b3c4e2/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

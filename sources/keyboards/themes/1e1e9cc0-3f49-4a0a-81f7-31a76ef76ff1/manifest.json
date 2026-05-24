@@ -1,0 +1,16 @@
+{
+  "id": "1e1e9cc0-3f49-4a0a-81f7-31a76ef76ff1",
+  "name": "Little Kittens",
+  "fileName": "296_LittleKittens",
+  "categoryIds": [
+    1012
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/1e1e9cc0-3f49-4a0a-81f7-31a76ef76ff1/cover.png",
+  "package": "sources/keyboards/themes/1e1e9cc0-3f49-4a0a-81f7-31a76ef76ff1/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

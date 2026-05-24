@@ -1,0 +1,16 @@
+{
+  "id": "8dcd1907-e3ef-4a01-8ca9-87e793ade6aa",
+  "name": "Jelly Fish",
+  "fileName": "50_JellyFish",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/8dcd1907-e3ef-4a01-8ca9-87e793ade6aa/cover.png",
+  "package": "sources/keyboards/themes/8dcd1907-e3ef-4a01-8ca9-87e793ade6aa/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

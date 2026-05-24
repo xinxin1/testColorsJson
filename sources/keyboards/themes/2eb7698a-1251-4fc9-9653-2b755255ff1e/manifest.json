@@ -1,0 +1,17 @@
+{
+  "id": "2eb7698a-1251-4fc9-9653-2b755255ff1e",
+  "name": "Beating Heart",
+  "fileName": "66_BeatingHeart",
+  "categoryIds": [
+    1002,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/2eb7698a-1251-4fc9-9653-2b755255ff1e/cover.gif",
+  "package": "sources/keyboards/themes/2eb7698a-1251-4fc9-9653-2b755255ff1e/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

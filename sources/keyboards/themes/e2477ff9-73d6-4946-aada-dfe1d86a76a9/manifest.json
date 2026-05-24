@@ -1,0 +1,16 @@
+{
+  "id": "e2477ff9-73d6-4946-aada-dfe1d86a76a9",
+  "name": "Industry",
+  "fileName": "171_Industry",
+  "categoryIds": [
+    1010
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e2477ff9-73d6-4946-aada-dfe1d86a76a9/cover.png",
+  "package": "sources/keyboards/themes/e2477ff9-73d6-4946-aada-dfe1d86a76a9/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

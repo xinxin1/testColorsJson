@@ -1,0 +1,16 @@
+{
+  "id": "4364bac1-80d8-49cb-aac5-5fab2dfe0548",
+  "name": "FFXIV",
+  "fileName": "190_FFXIV",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/4364bac1-80d8-49cb-aac5-5fab2dfe0548/cover.png",
+  "package": "sources/keyboards/themes/4364bac1-80d8-49cb-aac5-5fab2dfe0548/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

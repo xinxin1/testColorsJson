@@ -1,0 +1,16 @@
+{
+  "id": "65e86a3b-5420-4530-84e2-535e6386ef31",
+  "name": "Greet 2025",
+  "fileName": "374_Greet2025",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/65e86a3b-5420-4530-84e2-535e6386ef31/cover.png",
+  "package": "sources/keyboards/themes/65e86a3b-5420-4530-84e2-535e6386ef31/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "4fab145a-5934-49ef-8c87-f11025cfe127",
+  "name": "Welcome",
+  "fileName": "179_Welcome",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/4fab145a-5934-49ef-8c87-f11025cfe127/cover.png",
+  "package": "sources/keyboards/themes/4fab145a-5934-49ef-8c87-f11025cfe127/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

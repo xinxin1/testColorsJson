@@ -1,0 +1,16 @@
+{
+  "id": "b4343834-9f61-42c2-a245-01a6dacc08af",
+  "name": "Crystal Pink",
+  "fileName": "213_CrystalPink",
+  "categoryIds": [
+    1001
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/b4343834-9f61-42c2-a245-01a6dacc08af/cover.png",
+  "package": "sources/keyboards/themes/b4343834-9f61-42c2-a245-01a6dacc08af/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

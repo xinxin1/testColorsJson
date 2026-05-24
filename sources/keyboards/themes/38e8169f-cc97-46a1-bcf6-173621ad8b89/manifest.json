@@ -1,0 +1,16 @@
+{
+  "id": "38e8169f-cc97-46a1-bcf6-173621ad8b89",
+  "name": "Meteor Shower",
+  "fileName": "67_MeteorShower",
+  "categoryIds": [
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/38e8169f-cc97-46a1-bcf6-173621ad8b89/cover.gif",
+  "package": "sources/keyboards/themes/38e8169f-cc97-46a1-bcf6-173621ad8b89/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

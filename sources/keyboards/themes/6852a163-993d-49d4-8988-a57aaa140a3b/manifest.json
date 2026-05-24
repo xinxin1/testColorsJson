@@ -1,0 +1,16 @@
+{
+  "id": "6852a163-993d-49d4-8988-a57aaa140a3b",
+  "name": "Nanami Kento",
+  "fileName": "81_NanamiKento",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/6852a163-993d-49d4-8988-a57aaa140a3b/cover.png",
+  "package": "sources/keyboards/themes/6852a163-993d-49d4-8988-a57aaa140a3b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

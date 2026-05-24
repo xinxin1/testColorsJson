@@ -1,0 +1,16 @@
+{
+  "id": "d6bbcbb9-4a2e-4d0c-baf9-e7e335d900d9",
+  "name": "Shiny",
+  "fileName": "134_Shiny",
+  "categoryIds": [
+    1003
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/d6bbcbb9-4a2e-4d0c-baf9-e7e335d900d9/cover.png",
+  "package": "sources/keyboards/themes/d6bbcbb9-4a2e-4d0c-baf9-e7e335d900d9/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

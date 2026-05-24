@@ -1,0 +1,16 @@
+{
+  "id": "f323c779-9d73-4705-b585-4d3f294ac09a",
+  "name": "SK8 the Infinity",
+  "fileName": "164_SK8TheInfinity",
+  "categoryIds": [
+    1012
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/f323c779-9d73-4705-b585-4d3f294ac09a/cover.png",
+  "package": "sources/keyboards/themes/f323c779-9d73-4705-b585-4d3f294ac09a/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

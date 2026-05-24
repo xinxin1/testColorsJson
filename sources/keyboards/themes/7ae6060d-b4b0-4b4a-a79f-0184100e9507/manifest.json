@@ -1,0 +1,17 @@
+{
+  "id": "7ae6060d-b4b0-4b4a-a79f-0184100e9507",
+  "name": "Thousand Sunny",
+  "fileName": "247_ThousandSunny",
+  "categoryIds": [
+    1004,
+    1012
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/7ae6060d-b4b0-4b4a-a79f-0184100e9507/cover.gif",
+  "package": "sources/keyboards/themes/7ae6060d-b4b0-4b4a-a79f-0184100e9507/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "a6b13e50-1ccb-4fc9-8a9d-56f2279b2bbc",
+  "name": "Naughty Kitty",
+  "fileName": "158_NaughtyKitty",
+  "categoryIds": [
+    1001
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/a6b13e50-1ccb-4fc9-8a9d-56f2279b2bbc/cover.png",
+  "package": "sources/keyboards/themes/a6b13e50-1ccb-4fc9-8a9d-56f2279b2bbc/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

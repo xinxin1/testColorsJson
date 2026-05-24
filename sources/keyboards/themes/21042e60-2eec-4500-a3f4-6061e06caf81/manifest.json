@@ -1,0 +1,16 @@
+{
+  "id": "21042e60-2eec-4500-a3f4-6061e06caf81",
+  "name": "Chainsaw Man",
+  "fileName": "148_ChainsawMan",
+  "categoryIds": [
+    1004
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/21042e60-2eec-4500-a3f4-6061e06caf81/cover.png",
+  "package": "sources/keyboards/themes/21042e60-2eec-4500-a3f4-6061e06caf81/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

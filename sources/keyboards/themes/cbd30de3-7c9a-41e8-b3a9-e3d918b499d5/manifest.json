@@ -1,0 +1,16 @@
+{
+  "id": "cbd30de3-7c9a-41e8-b3a9-e3d918b499d5",
+  "name": "Butterfly Orchid",
+  "fileName": "96_ButterflyOrchid",
+  "categoryIds": [
+    1009
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/cbd30de3-7c9a-41e8-b3a9-e3d918b499d5/cover.png",
+  "package": "sources/keyboards/themes/cbd30de3-7c9a-41e8-b3a9-e3d918b499d5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "69438808-2213-448a-aa95-9e6ced52914d",
+  "name": "Sunset Windmill",
+  "fileName": "385_SunsetWindmill",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/69438808-2213-448a-aa95-9e6ced52914d/cover.png",
+  "package": "sources/keyboards/themes/69438808-2213-448a-aa95-9e6ced52914d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

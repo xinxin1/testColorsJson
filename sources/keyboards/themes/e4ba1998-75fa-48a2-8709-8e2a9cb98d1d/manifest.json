@@ -1,0 +1,16 @@
+{
+  "id": "e4ba1998-75fa-48a2-8709-8e2a9cb98d1d",
+  "name": "Panda Game",
+  "fileName": "12_PandaGame",
+  "categoryIds": [
+    1005
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/e4ba1998-75fa-48a2-8709-8e2a9cb98d1d/cover.png",
+  "package": "sources/keyboards/themes/e4ba1998-75fa-48a2-8709-8e2a9cb98d1d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

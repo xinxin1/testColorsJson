@@ -1,0 +1,16 @@
+{
+  "id": "920e690d-9414-4014-b8fb-56813f5ee441",
+  "name": "Peach Blossom",
+  "fileName": "94_PeachBlossom",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/920e690d-9414-4014-b8fb-56813f5ee441/cover.png",
+  "package": "sources/keyboards/themes/920e690d-9414-4014-b8fb-56813f5ee441/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

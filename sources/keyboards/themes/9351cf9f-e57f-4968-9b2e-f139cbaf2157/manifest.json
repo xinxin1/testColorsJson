@@ -1,0 +1,16 @@
+{
+  "id": "9351cf9f-e57f-4968-9b2e-f139cbaf2157",
+  "name": "Love Token",
+  "fileName": "379_LoveToken",
+  "categoryIds": [
+    1002
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/9351cf9f-e57f-4968-9b2e-f139cbaf2157/cover.png",
+  "package": "sources/keyboards/themes/9351cf9f-e57f-4968-9b2e-f139cbaf2157/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

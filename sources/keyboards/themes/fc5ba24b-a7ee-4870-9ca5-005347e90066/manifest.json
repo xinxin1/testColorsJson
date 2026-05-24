@@ -1,0 +1,16 @@
+{
+  "id": "fc5ba24b-a7ee-4870-9ca5-005347e90066",
+  "name": "Sebastian",
+  "fileName": "350_Sebastian",
+  "categoryIds": [
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/fc5ba24b-a7ee-4870-9ca5-005347e90066/cover.png",
+  "package": "sources/keyboards/themes/fc5ba24b-a7ee-4870-9ca5-005347e90066/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

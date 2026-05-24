@@ -1,0 +1,16 @@
+{
+  "id": "04acaf04-0a8c-4d22-9f09-b99156ef03d6",
+  "name": "Amusement Park",
+  "fileName": "38_AmusementPark",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/04acaf04-0a8c-4d22-9f09-b99156ef03d6/cover.png",
+  "package": "sources/keyboards/themes/04acaf04-0a8c-4d22-9f09-b99156ef03d6/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

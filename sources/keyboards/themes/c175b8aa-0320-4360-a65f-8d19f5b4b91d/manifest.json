@@ -1,0 +1,16 @@
+{
+  "id": "c175b8aa-0320-4360-a65f-8d19f5b4b91d",
+  "name": "Klein Blue",
+  "fileName": "225_KleinBlue",
+  "categoryIds": [
+    1008
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/c175b8aa-0320-4360-a65f-8d19f5b4b91d/cover.png",
+  "package": "sources/keyboards/themes/c175b8aa-0320-4360-a65f-8d19f5b4b91d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

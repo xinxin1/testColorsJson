@@ -1,0 +1,18 @@
+{
+  "id": "d9f5677a-319d-4d4a-b07a-e745e02813e8",
+  "name": "Galaxy",
+  "fileName": "186_Galaxy",
+  "categoryIds": [
+    1006,
+    1007,
+    1012
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/d9f5677a-319d-4d4a-b07a-e745e02813e8/cover.png",
+  "package": "sources/keyboards/themes/d9f5677a-319d-4d4a-b07a-e745e02813e8/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

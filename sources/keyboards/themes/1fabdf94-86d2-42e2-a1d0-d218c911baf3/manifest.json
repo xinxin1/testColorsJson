@@ -1,0 +1,16 @@
+{
+  "id": "1fabdf94-86d2-42e2-a1d0-d218c911baf3",
+  "name": "Moving Castle",
+  "fileName": "268_MovingCastle",
+  "categoryIds": [
+    1007
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/1fabdf94-86d2-42e2-a1d0-d218c911baf3/cover.png",
+  "package": "sources/keyboards/themes/1fabdf94-86d2-42e2-a1d0-d218c911baf3/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

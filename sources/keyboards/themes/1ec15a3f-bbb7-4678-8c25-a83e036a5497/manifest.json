@@ -1,0 +1,17 @@
+{
+  "id": "1ec15a3f-bbb7-4678-8c25-a83e036a5497",
+  "name": "MerryKeys",
+  "fileName": "207_MerryKeys",
+  "categoryIds": [
+    1001,
+    1012
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/1ec15a3f-bbb7-4678-8c25-a83e036a5497/cover.gif",
+  "package": "sources/keyboards/themes/1ec15a3f-bbb7-4678-8c25-a83e036a5497/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

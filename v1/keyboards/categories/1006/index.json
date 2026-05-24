@@ -1,0 +1,509 @@
+{
+  "version": 1,
+  "category": {
+    "id": 1006,
+    "key": "galaxy",
+    "name": "Galaxy",
+    "themeCount": 79
+  },
+  "pagination": {
+    "limit": 30,
+    "next": "v1/keyboards/categories/1006/fa62e778-77e8-4e9d-8627-b2219f30abb9.json"
+  },
+  "themes": [
+    {
+      "id": "d3d68de4-4bec-4ebc-9b5f-a080abca840a",
+      "name": "Aurora Falls",
+      "fileName": "16_AuroraFalls",
+      "categoryIds": [
+        1006
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/d3d68de4-4bec-4ebc-9b5f-a080abca840a/cover.png",
+      "package": "sources/keyboards/themes/d3d68de4-4bec-4ebc-9b5f-a080abca840a/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "87abed3d-66ab-4b54-927c-02dca9979242",
+      "name": "Space Planet",
+      "fileName": "19_SpacePlanet",
+      "categoryIds": [
+        1006
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/87abed3d-66ab-4b54-927c-02dca9979242/cover.png",
+      "package": "sources/keyboards/themes/87abed3d-66ab-4b54-927c-02dca9979242/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "06015bd2-4b05-4c9b-b59b-3c777674356d",
+      "name": "Vast Star",
+      "fileName": "26_VastStar",
+      "categoryIds": [
+        1006
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/06015bd2-4b05-4c9b-b59b-3c777674356d/cover.png",
+      "package": "sources/keyboards/themes/06015bd2-4b05-4c9b-b59b-3c777674356d/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "ae2fd1e0-1744-4a01-b0dd-fd10963e7f92",
+      "name": "Starry Sky",
+      "fileName": "3_StarrySky",
+      "categoryIds": [
+        1006
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/ae2fd1e0-1744-4a01-b0dd-fd10963e7f92/cover.png",
+      "package": "sources/keyboards/themes/ae2fd1e0-1744-4a01-b0dd-fd10963e7f92/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "fafaf72a-d1a3-4bad-aeed-c6ae25d09f82",
+      "name": "Lucky Star",
+      "fileName": "32_LuckyStar",
+      "categoryIds": [
+        1006
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/fafaf72a-d1a3-4bad-aeed-c6ae25d09f82/cover.png",
+      "package": "sources/keyboards/themes/fafaf72a-d1a3-4bad-aeed-c6ae25d09f82/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "452d74f4-698a-4fe1-8859-32e571c9d0c4",
+      "name": "Starlight Surf",
+      "fileName": "34_StarlightSurf",
+      "categoryIds": [
+        1003,
+        1006
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/452d74f4-698a-4fe1-8859-32e571c9d0c4/cover.png",
+      "package": "sources/keyboards/themes/452d74f4-698a-4fe1-8859-32e571c9d0c4/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "6a1858f8-fb5d-4b89-b9ad-14bd7fd37f20",
+      "name": "Fantasy Planet",
+      "fileName": "37_FantasyPlanet",
+      "categoryIds": [
+        1006,
+        1007
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/6a1858f8-fb5d-4b89-b9ad-14bd7fd37f20/cover.png",
+      "package": "sources/keyboards/themes/6a1858f8-fb5d-4b89-b9ad-14bd7fd37f20/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "8c82c2a9-d896-4313-8558-37b8de9e60a5",
+      "name": "Sailor Moon",
+      "fileName": "39_SailorMoon",
+      "categoryIds": [
+        1004,
+        1006
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/8c82c2a9-d896-4313-8558-37b8de9e60a5/cover.png",
+      "package": "sources/keyboards/themes/8c82c2a9-d896-4313-8558-37b8de9e60a5/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "7af26fa2-42b2-49d1-9169-d832f24a66bf",
+      "name": "Blue Starlight",
+      "fileName": "87_BlueStarlight",
+      "categoryIds": [
+        1003,
+        1006,
+        1012
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/7af26fa2-42b2-49d1-9169-d832f24a66bf/cover.mp4",
+      "package": "sources/keyboards/themes/7af26fa2-42b2-49d1-9169-d832f24a66bf/package.zip",
+      "features": {
+        "dynamic": true,
+        "hasGif": false,
+        "hasMp4": true
+      }
+    },
+    {
+      "id": "c03f5755-6c84-4c6e-8591-69520fc6c7d6",
+      "name": "Glowing Stars",
+      "fileName": "94_GlowingStars",
+      "categoryIds": [
+        1003,
+        1006,
+        1012
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/c03f5755-6c84-4c6e-8591-69520fc6c7d6/cover.gif",
+      "package": "sources/keyboards/themes/c03f5755-6c84-4c6e-8591-69520fc6c7d6/package.zip",
+      "features": {
+        "dynamic": true,
+        "hasGif": true,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "476edce0-312f-4727-9786-c190369effb5",
+      "name": "Lonely Planet",
+      "fileName": "108_LonelyPlanet",
+      "categoryIds": [
+        1006
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/476edce0-312f-4727-9786-c190369effb5/cover.png",
+      "package": "sources/keyboards/themes/476edce0-312f-4727-9786-c190369effb5/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "628be56f-5259-41eb-b390-f48fe3fd1b0d",
+      "name": "Starry Night",
+      "fileName": "109_StarryNight",
+      "categoryIds": [
+        1006,
+        1013
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/628be56f-5259-41eb-b390-f48fe3fd1b0d/cover.png",
+      "package": "sources/keyboards/themes/628be56f-5259-41eb-b390-f48fe3fd1b0d/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "e1812c19-5c5e-4365-a025-0189c454b7b0",
+      "name": "Sagittarius",
+      "fileName": "122_Sagittarius",
+      "categoryIds": [
+        1006
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/e1812c19-5c5e-4365-a025-0189c454b7b0/cover.png",
+      "package": "sources/keyboards/themes/e1812c19-5c5e-4365-a025-0189c454b7b0/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "7f1183e7-3aed-49c7-9cf2-3f3cdfbd939b",
+      "name": "Starry",
+      "fileName": "124_Starry",
+      "categoryIds": [
+        1006
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/7f1183e7-3aed-49c7-9cf2-3f3cdfbd939b/cover.png",
+      "package": "sources/keyboards/themes/7f1183e7-3aed-49c7-9cf2-3f3cdfbd939b/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "4853c140-2e1e-4c54-b218-9215728602ca",
+      "name": "Milky Way",
+      "fileName": "125_MilkyWay",
+      "categoryIds": [
+        1006
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/4853c140-2e1e-4c54-b218-9215728602ca/cover.png",
+      "package": "sources/keyboards/themes/4853c140-2e1e-4c54-b218-9215728602ca/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "ca652cc6-0c6f-4a09-bc43-552f35b6bf15",
+      "name": "Blue Planet",
+      "fileName": "159_BluePlanet",
+      "categoryIds": [
+        1006
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/ca652cc6-0c6f-4a09-bc43-552f35b6bf15/cover.png",
+      "package": "sources/keyboards/themes/ca652cc6-0c6f-4a09-bc43-552f35b6bf15/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "4d19fce0-899c-41dd-8f9d-48558e78dbd2",
+      "name": "Nebula",
+      "fileName": "160_Nebula",
+      "categoryIds": [
+        1006
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/4d19fce0-899c-41dd-8f9d-48558e78dbd2/cover.png",
+      "package": "sources/keyboards/themes/4d19fce0-899c-41dd-8f9d-48558e78dbd2/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "2e2e9ffa-0191-4d44-859c-55300f9805c0",
+      "name": "Vast Universe",
+      "fileName": "161_VastUniverse",
+      "categoryIds": [
+        1006
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/2e2e9ffa-0191-4d44-859c-55300f9805c0/cover.png",
+      "package": "sources/keyboards/themes/2e2e9ffa-0191-4d44-859c-55300f9805c0/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "400baa2a-ce33-40e6-b3b0-5e277cdf1f71",
+      "name": "Space Travelling",
+      "fileName": "255_SpaceTravelling",
+      "categoryIds": [
+        1006
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/400baa2a-ce33-40e6-b3b0-5e277cdf1f71/cover.png",
+      "package": "sources/keyboards/themes/400baa2a-ce33-40e6-b3b0-5e277cdf1f71/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "d1eddef0-8e0a-431f-84a7-bf32b0dba343",
+      "name": "Super Galaxy",
+      "fileName": "305_SuperGalaxy",
+      "categoryIds": [
+        1006
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/d1eddef0-8e0a-431f-84a7-bf32b0dba343/cover.png",
+      "package": "sources/keyboards/themes/d1eddef0-8e0a-431f-84a7-bf32b0dba343/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "6c42aae9-4152-436a-93b7-746d68e61b11",
+      "name": "Space Station",
+      "fileName": "23_SpaceStation",
+      "categoryIds": [
+        1006,
+        1010
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/6c42aae9-4152-436a-93b7-746d68e61b11/cover.png",
+      "package": "sources/keyboards/themes/6c42aae9-4152-436a-93b7-746d68e61b11/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "c5603bcf-3935-4c00-98a2-4ecf7d815d2c",
+      "name": "BrawlStars",
+      "fileName": "321_BrawlStars",
+      "categoryIds": [
+        1005,
+        1006
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/c5603bcf-3935-4c00-98a2-4ecf7d815d2c/cover.png",
+      "package": "sources/keyboards/themes/c5603bcf-3935-4c00-98a2-4ecf7d815d2c/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "e73fac77-01fa-4a27-9850-78f8e3148c7c",
+      "name": "Interstellar",
+      "fileName": "104_Interstellar",
+      "categoryIds": [
+        1006
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/e73fac77-01fa-4a27-9850-78f8e3148c7c/cover.png",
+      "package": "sources/keyboards/themes/e73fac77-01fa-4a27-9850-78f8e3148c7c/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "a1205a67-a0c9-4470-990c-8c3af0e1cfc8",
+      "name": "Space",
+      "fileName": "106_Space",
+      "categoryIds": [
+        1006
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/a1205a67-a0c9-4470-990c-8c3af0e1cfc8/cover.png",
+      "package": "sources/keyboards/themes/a1205a67-a0c9-4470-990c-8c3af0e1cfc8/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "ca27096d-0aa5-4b01-9bd5-e7024cfbad5f",
+      "name": "Parallel Universe",
+      "fileName": "71_ParallelUniverse",
+      "categoryIds": [
+        1003,
+        1006
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/ca27096d-0aa5-4b01-9bd5-e7024cfbad5f/cover.png",
+      "package": "sources/keyboards/themes/ca27096d-0aa5-4b01-9bd5-e7024cfbad5f/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "a9cf4dc6-1a06-455e-99e4-9a8ab84e8bae",
+      "name": "Lonely Planet",
+      "fileName": "108_LonelyPlanet",
+      "categoryIds": [
+        1006
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/a9cf4dc6-1a06-455e-99e4-9a8ab84e8bae/cover.png",
+      "package": "sources/keyboards/themes/a9cf4dc6-1a06-455e-99e4-9a8ab84e8bae/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "a09843ad-a5d7-4a0c-b213-aaab78587180",
+      "name": "Moonlight",
+      "fileName": "8_Moonlight",
+      "categoryIds": [
+        1003,
+        1006
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/a09843ad-a5d7-4a0c-b213-aaab78587180/cover.png",
+      "package": "sources/keyboards/themes/a09843ad-a5d7-4a0c-b213-aaab78587180/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "d95e27e4-9b6e-4053-b551-0af20e460888",
+      "name": "Starry Night",
+      "fileName": "109_StarryNight",
+      "categoryIds": [
+        1006,
+        1013
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/d95e27e4-9b6e-4053-b551-0af20e460888/cover.png",
+      "package": "sources/keyboards/themes/d95e27e4-9b6e-4053-b551-0af20e460888/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "96ddbe28-6fe7-435e-b18c-fbdfc7acd363",
+      "name": "Sailor Moon",
+      "fileName": "120_SailorMoon",
+      "categoryIds": [
+        1004,
+        1006
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/96ddbe28-6fe7-435e-b18c-fbdfc7acd363/cover.png",
+      "package": "sources/keyboards/themes/96ddbe28-6fe7-435e-b18c-fbdfc7acd363/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "037cf197-b83c-4d0d-882c-e23b2976c6ee",
+      "name": "Sagittarius",
+      "fileName": "122_Sagittarius",
+      "categoryIds": [
+        1006
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/037cf197-b83c-4d0d-882c-e23b2976c6ee/cover.png",
+      "package": "sources/keyboards/themes/037cf197-b83c-4d0d-882c-e23b2976c6ee/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "4b30b455-f714-4f30-b973-e81e0163000e",
+  "name": "Lovelykuromiforyou",
+  "fileName": "199_Lovelykuromiforyou",
+  "categoryIds": [
+    1001,
+    1002,
+    1004,
+    1012
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/4b30b455-f714-4f30-b973-e81e0163000e/cover.gif",
+  "package": "sources/keyboards/themes/4b30b455-f714-4f30-b973-e81e0163000e/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

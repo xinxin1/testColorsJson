@@ -1,0 +1,18 @@
+{
+  "id": "fea56f36-9eb4-4e87-b98a-26f0a93c6149",
+  "name": "Multi Color",
+  "fileName": "18_MultiColor",
+  "categoryIds": [
+    1003,
+    1008,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/fea56f36-9eb4-4e87-b98a-26f0a93c6149/cover.png",
+  "package": "sources/keyboards/themes/fea56f36-9eb4-4e87-b98a-26f0a93c6149/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

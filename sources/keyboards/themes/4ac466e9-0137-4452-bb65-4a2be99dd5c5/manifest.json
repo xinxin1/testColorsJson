@@ -1,0 +1,16 @@
+{
+  "id": "4ac466e9-0137-4452-bb65-4a2be99dd5c5",
+  "name": "SpongeBob",
+  "fileName": "317_SpongeBob",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/4ac466e9-0137-4452-bb65-4a2be99dd5c5/cover.png",
+  "package": "sources/keyboards/themes/4ac466e9-0137-4452-bb65-4a2be99dd5c5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

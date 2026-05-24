@@ -1,0 +1,17 @@
+{
+  "id": "3cf02d21-0d2e-4acb-b475-1313bb589271",
+  "name": "Neon Car",
+  "fileName": "352_NeonCar",
+  "categoryIds": [
+    1003,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/3cf02d21-0d2e-4acb-b475-1313bb589271/cover.png",
+  "package": "sources/keyboards/themes/3cf02d21-0d2e-4acb-b475-1313bb589271/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

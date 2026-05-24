@@ -1,0 +1,17 @@
+{
+  "id": "942d511a-2a74-408c-a47f-ff15adcc20d0",
+  "name": "Black",
+  "fileName": "5_Black",
+  "categoryIds": [
+    1008,
+    1013
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/942d511a-2a74-408c-a47f-ff15adcc20d0/cover.png",
+  "package": "sources/keyboards/themes/942d511a-2a74-408c-a47f-ff15adcc20d0/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

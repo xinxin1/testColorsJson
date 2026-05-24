@@ -1,0 +1,16 @@
+{
+  "id": "28c85853-7999-4fa9-bb7a-4f1cb33b765f",
+  "name": "Embrace 2026",
+  "fileName": "321_Embrace2026",
+  "categoryIds": [
+    1011
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/28c85853-7999-4fa9-bb7a-4f1cb33b765f/cover.png",
+  "package": "sources/keyboards/themes/28c85853-7999-4fa9-bb7a-4f1cb33b765f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

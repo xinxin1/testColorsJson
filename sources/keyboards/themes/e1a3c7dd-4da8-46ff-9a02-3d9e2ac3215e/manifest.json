@@ -1,0 +1,16 @@
+{
+  "id": "e1a3c7dd-4da8-46ff-9a02-3d9e2ac3215e",
+  "name": "Gold Gild",
+  "fileName": "46_GoldGild",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/e1a3c7dd-4da8-46ff-9a02-3d9e2ac3215e/cover.png",
+  "package": "sources/keyboards/themes/e1a3c7dd-4da8-46ff-9a02-3d9e2ac3215e/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

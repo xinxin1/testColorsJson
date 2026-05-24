@@ -1,0 +1,16 @@
+{
+  "id": "e4a2c25d-87b1-493f-8c1c-61b2ce790f1f",
+  "name": "AdAstra",
+  "fileName": "72_AdAstra",
+  "categoryIds": [
+    1006
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e4a2c25d-87b1-493f-8c1c-61b2ce790f1f/cover.png",
+  "package": "sources/keyboards/themes/e4a2c25d-87b1-493f-8c1c-61b2ce790f1f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

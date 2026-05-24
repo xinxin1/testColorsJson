@@ -1,0 +1,17 @@
+{
+  "id": "0e2a3bbd-ec25-46a6-beb2-b10d4e301650",
+  "name": "Coral",
+  "fileName": "187_Coral",
+  "categoryIds": [
+    1007,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/0e2a3bbd-ec25-46a6-beb2-b10d4e301650/cover.png",
+  "package": "sources/keyboards/themes/0e2a3bbd-ec25-46a6-beb2-b10d4e301650/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

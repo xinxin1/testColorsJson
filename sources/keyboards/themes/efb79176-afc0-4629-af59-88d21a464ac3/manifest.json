@@ -1,0 +1,17 @@
+{
+  "id": "efb79176-afc0-4629-af59-88d21a464ac3",
+  "name": "Red-black",
+  "fileName": "220_RedBlack",
+  "categoryIds": [
+    1008,
+    1013
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/efb79176-afc0-4629-af59-88d21a464ac3/cover.png",
+  "package": "sources/keyboards/themes/efb79176-afc0-4629-af59-88d21a464ac3/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

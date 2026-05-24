@@ -1,0 +1,16 @@
+{
+  "id": "884c3340-b11d-46f8-8eae-e1c2ee163c87",
+  "name": "Space Odyssey",
+  "fileName": "279_SpaceOdyssey",
+  "categoryIds": [
+    1006
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/884c3340-b11d-46f8-8eae-e1c2ee163c87/cover.png",
+  "package": "sources/keyboards/themes/884c3340-b11d-46f8-8eae-e1c2ee163c87/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

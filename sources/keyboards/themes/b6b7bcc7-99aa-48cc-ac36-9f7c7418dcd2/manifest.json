@@ -1,0 +1,16 @@
+{
+  "id": "b6b7bcc7-99aa-48cc-ac36-9f7c7418dcd2",
+  "name": "Shining Heart",
+  "fileName": "41_ShiningHeart",
+  "categoryIds": [
+    1002
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/b6b7bcc7-99aa-48cc-ac36-9f7c7418dcd2/cover.png",
+  "package": "sources/keyboards/themes/b6b7bcc7-99aa-48cc-ac36-9f7c7418dcd2/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

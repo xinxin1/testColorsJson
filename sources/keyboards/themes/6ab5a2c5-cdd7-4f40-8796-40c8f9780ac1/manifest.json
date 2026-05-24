@@ -1,0 +1,16 @@
+{
+  "id": "6ab5a2c5-cdd7-4f40-8796-40c8f9780ac1",
+  "name": "CapyKeys",
+  "fileName": "343_CapyKeys",
+  "categoryIds": [
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/6ab5a2c5-cdd7-4f40-8796-40c8f9780ac1/cover.png",
+  "package": "sources/keyboards/themes/6ab5a2c5-cdd7-4f40-8796-40c8f9780ac1/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

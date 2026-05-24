@@ -1,0 +1,16 @@
+{
+  "id": "aa632393-03ae-4032-aa48-818ff7725a95",
+  "name": "Timberwolf",
+  "fileName": "234_Timberwolf",
+  "categoryIds": [
+    1003
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/aa632393-03ae-4032-aa48-818ff7725a95/cover.png",
+  "package": "sources/keyboards/themes/aa632393-03ae-4032-aa48-818ff7725a95/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

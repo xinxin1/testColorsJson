@@ -1,0 +1,1080 @@
+{
+  "version": 1,
+  "category": {
+    "id": 1011,
+    "key": "festival",
+    "name": "Festival",
+    "themeCount": 65
+  },
+  "themes": [
+    {
+      "id": "e144b302-7830-4d49-9081-0ed2f488e7ab",
+      "name": "DiwaliGlow",
+      "fileName": "345_DiwaliGlow",
+      "categoryIds": [
+        1003,
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/e144b302-7830-4d49-9081-0ed2f488e7ab/cover.png",
+      "package": "sources/keyboards/themes/e144b302-7830-4d49-9081-0ed2f488e7ab/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "0f66b2dc-ecd7-408e-a038-5b3c74e2b7c7",
+      "name": "Merry Christmas",
+      "fileName": "24_MerryChristmas",
+      "categoryIds": [
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/0f66b2dc-ecd7-408e-a038-5b3c74e2b7c7/cover.png",
+      "package": "sources/keyboards/themes/0f66b2dc-ecd7-408e-a038-5b3c74e2b7c7/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "cecb4bc3-d851-41e5-82c7-ccc21050ef76",
+      "name": "Halloween",
+      "fileName": "341_Halloween",
+      "categoryIds": [
+        1011,
+        1012
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/cecb4bc3-d851-41e5-82c7-ccc21050ef76/cover.gif",
+      "package": "sources/keyboards/themes/cecb4bc3-d851-41e5-82c7-ccc21050ef76/package.zip",
+      "features": {
+        "dynamic": true,
+        "hasGif": true,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "b98cbe59-e94d-47c4-9cca-a49a06909e4a",
+      "name": "DiwaliGlow",
+      "fileName": "345_DiwaliGlow",
+      "categoryIds": [
+        1003,
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/b98cbe59-e94d-47c4-9cca-a49a06909e4a/cover.png",
+      "package": "sources/keyboards/themes/b98cbe59-e94d-47c4-9cca-a49a06909e4a/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "d798dff1-7d3f-4ca0-8333-984cf3b235a5",
+      "name": "Christmas Time",
+      "fileName": "367_ChristmasTime",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/d798dff1-7d3f-4ca0-8333-984cf3b235a5/cover.png",
+      "package": "sources/keyboards/themes/d798dff1-7d3f-4ca0-8333-984cf3b235a5/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "84f21aed-b5bc-4e48-aebb-03ec5b94e5a9",
+      "name": "Colorful Christmas",
+      "fileName": "368_ColorfulChristmas",
+      "categoryIds": [
+        1011
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/84f21aed-b5bc-4e48-aebb-03ec5b94e5a9/cover.png",
+      "package": "sources/keyboards/themes/84f21aed-b5bc-4e48-aebb-03ec5b94e5a9/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "f8df489f-74fd-4671-8802-0634011c5f64",
+      "name": "Christmas Party",
+      "fileName": "370_ChristmasParty",
+      "categoryIds": [
+        1011,
+        1012
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/f8df489f-74fd-4671-8802-0634011c5f64/cover.png",
+      "package": "sources/keyboards/themes/f8df489f-74fd-4671-8802-0634011c5f64/package.zip",
+      "features": {
+        "dynamic": true,
+        "hasGif": true,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "da874e8f-2633-4747-80bb-c256a1a996d0",
+      "name": "Christmas Day",
+      "fileName": "371_ChristmasDay",
+      "categoryIds": [
+        1011,
+        1012
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/da874e8f-2633-4747-80bb-c256a1a996d0/cover.png",
+      "package": "sources/keyboards/themes/da874e8f-2633-4747-80bb-c256a1a996d0/package.zip",
+      "features": {
+        "dynamic": true,
+        "hasGif": true,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "7c769610-6d94-4806-b363-b45facd04c6b",
+      "name": "Christmas Eve",
+      "fileName": "372_ChristmasEve",
+      "categoryIds": [
+        1011,
+        1012
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/7c769610-6d94-4806-b363-b45facd04c6b/cover.png",
+      "package": "sources/keyboards/themes/7c769610-6d94-4806-b363-b45facd04c6b/package.zip",
+      "features": {
+        "dynamic": true,
+        "hasGif": true,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "67b53563-6684-4fef-9f7b-cf6c2eaef118",
+      "name": "Christmas Surprise",
+      "fileName": "373_ChristmasSurprise",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/67b53563-6684-4fef-9f7b-cf6c2eaef118/cover.png",
+      "package": "sources/keyboards/themes/67b53563-6684-4fef-9f7b-cf6c2eaef118/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "3041cf40-6970-47db-a8c2-92ec9a33af17",
+      "name": "Cheer 2026",
+      "fileName": "394_Cheer2026",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/3041cf40-6970-47db-a8c2-92ec9a33af17/cover.png",
+      "package": "sources/keyboards/themes/3041cf40-6970-47db-a8c2-92ec9a33af17/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "35fe9fd3-4b30-4f89-bf04-9ad8fab13c44",
+      "name": "Celebrate 2026",
+      "fileName": "395_Celebrate2026",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/35fe9fd3-4b30-4f89-bf04-9ad8fab13c44/cover.png",
+      "package": "sources/keyboards/themes/35fe9fd3-4b30-4f89-bf04-9ad8fab13c44/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "ae22a58b-9465-46d8-8ee9-f0fc14e4deaa",
+      "name": "Welcome 2026",
+      "fileName": "396_Welcome2026",
+      "categoryIds": [
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/ae22a58b-9465-46d8-8ee9-f0fc14e4deaa/cover.png",
+      "package": "sources/keyboards/themes/ae22a58b-9465-46d8-8ee9-f0fc14e4deaa/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "be0bf856-da83-424d-870c-433559948def",
+      "name": "Ignite 2026",
+      "fileName": "397_Ignite2026",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/be0bf856-da83-424d-870c-433559948def/cover.png",
+      "package": "sources/keyboards/themes/be0bf856-da83-424d-870c-433559948def/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "c77f8d56-7327-41f8-bbaf-6e104be833aa",
+      "name": "Christmas",
+      "fileName": "49_Christmas",
+      "categoryIds": [
+        1011
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/c77f8d56-7327-41f8-bbaf-6e104be833aa/cover.png",
+      "package": "sources/keyboards/themes/c77f8d56-7327-41f8-bbaf-6e104be833aa/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "e5de9e1b-1bfd-4283-9752-d317f9c03887",
+      "name": "Retro Christmas",
+      "fileName": "55_RetroChristmas",
+      "categoryIds": [
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/e5de9e1b-1bfd-4283-9752-d317f9c03887/cover.png",
+      "package": "sources/keyboards/themes/e5de9e1b-1bfd-4283-9752-d317f9c03887/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "70004fc6-d87f-48b4-9396-c51132663192",
+      "name": "Christmas Tree",
+      "fileName": "56_ChristmasTree",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/70004fc6-d87f-48b4-9396-c51132663192/cover.png",
+      "package": "sources/keyboards/themes/70004fc6-d87f-48b4-9396-c51132663192/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "b92eb261-9253-44b3-9260-0052a13bbe03",
+      "name": "Santa Claus",
+      "fileName": "96_SantaClaus",
+      "categoryIds": [
+        1011,
+        1012
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/b92eb261-9253-44b3-9260-0052a13bbe03/cover.gif",
+      "package": "sources/keyboards/themes/b92eb261-9253-44b3-9260-0052a13bbe03/package.zip",
+      "features": {
+        "dynamic": true,
+        "hasGif": true,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "5992e98b-79bd-46f3-b6d2-947bdc264e24",
+      "name": "Crystal Ball",
+      "fileName": "97_CrystalBall",
+      "categoryIds": [
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/5992e98b-79bd-46f3-b6d2-947bdc264e24/cover.png",
+      "package": "sources/keyboards/themes/5992e98b-79bd-46f3-b6d2-947bdc264e24/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "f0628239-b23c-445b-b940-7a8174f1600b",
+      "name": "Christmas",
+      "fileName": "98_Christmas",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/f0628239-b23c-445b-b940-7a8174f1600b/cover.png",
+      "package": "sources/keyboards/themes/f0628239-b23c-445b-b940-7a8174f1600b/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "e3d5974a-d5ab-4f32-ba19-4e03c3fb6290",
+      "name": "Cheerful Christmas",
+      "fileName": "99_CheerfulChristmas",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/e3d5974a-d5ab-4f32-ba19-4e03c3fb6290/cover.png",
+      "package": "sources/keyboards/themes/e3d5974a-d5ab-4f32-ba19-4e03c3fb6290/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "834b0eb3-0c96-48ed-bf00-4e137f37b016",
+      "name": "Ghostlyglow",
+      "fileName": "201_Ghostlyglow",
+      "categoryIds": [
+        1003,
+        1007,
+        1011,
+        1013
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/834b0eb3-0c96-48ed-bf00-4e137f37b016/cover.png",
+      "package": "sources/keyboards/themes/834b0eb3-0c96-48ed-bf00-4e137f37b016/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "348876b6-1548-4dcf-a9c2-4377fce43cab",
+      "name": "Pumpkinpals",
+      "fileName": "202_Pumpkinpals",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/348876b6-1548-4dcf-a9c2-4377fce43cab/cover.png",
+      "package": "sources/keyboards/themes/348876b6-1548-4dcf-a9c2-4377fce43cab/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "9adf4b30-5f2c-462f-886e-233e3ebeca4e",
+      "name": "Skull",
+      "fileName": "203_Skull",
+      "categoryIds": [
+        1003,
+        1011,
+        1012
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/9adf4b30-5f2c-462f-886e-233e3ebeca4e/cover.gif",
+      "package": "sources/keyboards/themes/9adf4b30-5f2c-462f-886e-233e3ebeca4e/package.zip",
+      "features": {
+        "dynamic": true,
+        "hasGif": true,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "46b7e91b-441a-4209-8d84-00ea1e39cd26",
+      "name": "Cuteghost",
+      "fileName": "204_Cuteghost",
+      "categoryIds": [
+        1001,
+        1007,
+        1011,
+        1012,
+        1013
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/46b7e91b-441a-4209-8d84-00ea1e39cd26/cover.gif",
+      "package": "sources/keyboards/themes/46b7e91b-441a-4209-8d84-00ea1e39cd26/package.zip",
+      "features": {
+        "dynamic": true,
+        "hasGif": true,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "e81c8760-c0cf-43e2-b20e-3548ba69c87f",
+      "name": "FeastPress",
+      "fileName": "206_FeastPress",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/e81c8760-c0cf-43e2-b20e-3548ba69c87f/cover.png",
+      "package": "sources/keyboards/themes/e81c8760-c0cf-43e2-b20e-3548ba69c87f/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "e0eb4e9e-a6d2-40b6-b105-12404121800d",
+      "name": "MerryRomi",
+      "fileName": "208_MerryRomi",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/e0eb4e9e-a6d2-40b6-b105-12404121800d/cover.png",
+      "package": "sources/keyboards/themes/e0eb4e9e-a6d2-40b6-b105-12404121800d/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "8642bcf1-d325-489f-bb46-827e9170b607",
+      "name": "XmasIsAmongUs",
+      "fileName": "209_XmasIsAmongUs",
+      "categoryIds": [
+        1005,
+        1011
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/8642bcf1-d325-489f-bb46-827e9170b607/cover.png",
+      "package": "sources/keyboards/themes/8642bcf1-d325-489f-bb46-827e9170b607/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "61cb4936-ec1d-4e22-8054-a6da6c9786c5",
+      "name": "CelestialBliss",
+      "fileName": "210_CelestialBliss",
+      "categoryIds": [
+        1011,
+        1012
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/61cb4936-ec1d-4e22-8054-a6da6c9786c5/cover.gif",
+      "package": "sources/keyboards/themes/61cb4936-ec1d-4e22-8054-a6da6c9786c5/package.zip",
+      "features": {
+        "dynamic": true,
+        "hasGif": true,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "222940aa-3506-443a-a963-80ea64617841",
+      "name": "MerryChrismas",
+      "fileName": "213_MerryChrismas",
+      "categoryIds": [
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/222940aa-3506-443a-a963-80ea64617841/cover.png",
+      "package": "sources/keyboards/themes/222940aa-3506-443a-a963-80ea64617841/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "d6c6b386-25a4-4a71-8810-16e7deb630a2",
+      "name": "Pumpkin Lantern",
+      "fileName": "264_PumpkinLantern",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/d6c6b386-25a4-4a71-8810-16e7deb630a2/cover.png",
+      "package": "sources/keyboards/themes/d6c6b386-25a4-4a71-8810-16e7deb630a2/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "77461ce2-55ff-4dc5-ae09-5423e3a1e865",
+      "name": "Halloween Events",
+      "fileName": "265_HalloweenEvents",
+      "categoryIds": [
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/77461ce2-55ff-4dc5-ae09-5423e3a1e865/cover.png",
+      "package": "sources/keyboards/themes/77461ce2-55ff-4dc5-ae09-5423e3a1e865/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "054bf083-8530-407e-ab03-a5747aaca02c",
+      "name": "Warm Christmas",
+      "fileName": "280_WarmChristmas",
+      "categoryIds": [
+        1011
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/054bf083-8530-407e-ab03-a5747aaca02c/cover.png",
+      "package": "sources/keyboards/themes/054bf083-8530-407e-ab03-a5747aaca02c/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "c9544f28-e227-4e84-a012-5a3c3af7b164",
+      "name": "Children Christmas",
+      "fileName": "281_ChildrenChristmas",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/c9544f28-e227-4e84-a012-5a3c3af7b164/cover.png",
+      "package": "sources/keyboards/themes/c9544f28-e227-4e84-a012-5a3c3af7b164/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "8ce6e8c9-f530-4c97-bb52-4b236b5dd72b",
+      "name": "Colorful Christmas",
+      "fileName": "282_ColorfulChristmas",
+      "categoryIds": [
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/8ce6e8c9-f530-4c97-bb52-4b236b5dd72b/cover.png",
+      "package": "sources/keyboards/themes/8ce6e8c9-f530-4c97-bb52-4b236b5dd72b/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "67b1e1e3-4e67-4d44-bf59-cac06a3f198c",
+      "name": "Jingle Presents",
+      "fileName": "283_JinglePresents",
+      "categoryIds": [
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/67b1e1e3-4e67-4d44-bf59-cac06a3f198c/cover.png",
+      "package": "sources/keyboards/themes/67b1e1e3-4e67-4d44-bf59-cac06a3f198c/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "541d2ac8-9ae9-4360-9ea5-8ba6a0a5199f",
+      "name": "Christmas Tree",
+      "fileName": "284_ChristmasTree",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/541d2ac8-9ae9-4360-9ea5-8ba6a0a5199f/cover.png",
+      "package": "sources/keyboards/themes/541d2ac8-9ae9-4360-9ea5-8ba6a0a5199f/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "2b986d67-f16e-4843-8c40-b0accf498ea8",
+      "name": "Snow Gifts",
+      "fileName": "285_SnowGifts",
+      "categoryIds": [
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/2b986d67-f16e-4843-8c40-b0accf498ea8/cover.png",
+      "package": "sources/keyboards/themes/2b986d67-f16e-4843-8c40-b0accf498ea8/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "2c491fa0-fd3a-4447-9393-011c07c46498",
+      "name": "Christmas Surprise",
+      "fileName": "286_ChristmasSurprise",
+      "categoryIds": [
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/2c491fa0-fd3a-4447-9393-011c07c46498/cover.png",
+      "package": "sources/keyboards/themes/2c491fa0-fd3a-4447-9393-011c07c46498/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "f39c45f8-bd47-4537-9778-c7b7a0d363f8",
+      "name": "Snow Globe",
+      "fileName": "287_SnowGlobe",
+      "categoryIds": [
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/f39c45f8-bd47-4537-9778-c7b7a0d363f8/cover.png",
+      "package": "sources/keyboards/themes/f39c45f8-bd47-4537-9778-c7b7a0d363f8/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "33cbde12-45a5-4f2d-992d-ce7d4a6ac352",
+      "name": "Christmas Eve",
+      "fileName": "288_ChristmasEve",
+      "categoryIds": [
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/33cbde12-45a5-4f2d-992d-ce7d4a6ac352/cover.png",
+      "package": "sources/keyboards/themes/33cbde12-45a5-4f2d-992d-ce7d4a6ac352/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "f8b945ae-bbcb-4724-bf97-84a180c5bea2",
+      "name": "Christmas Day",
+      "fileName": "289_ChristmasDay",
+      "categoryIds": [
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/f8b945ae-bbcb-4724-bf97-84a180c5bea2/cover.png",
+      "package": "sources/keyboards/themes/f8b945ae-bbcb-4724-bf97-84a180c5bea2/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "febcb891-2425-4092-8bc5-7c3b5fe261ab",
+      "name": "Christmas Time",
+      "fileName": "290_ChristmasTime",
+      "categoryIds": [
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/febcb891-2425-4092-8bc5-7c3b5fe261ab/cover.png",
+      "package": "sources/keyboards/themes/febcb891-2425-4092-8bc5-7c3b5fe261ab/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "88ac5df5-6565-41bc-8918-383bb87bfaf5",
+      "name": "White Christmas",
+      "fileName": "291_WhiteChristmas",
+      "categoryIds": [
+        1008,
+        1010,
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/88ac5df5-6565-41bc-8918-383bb87bfaf5/cover.png",
+      "package": "sources/keyboards/themes/88ac5df5-6565-41bc-8918-383bb87bfaf5/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "a65a77b0-d4a7-47d8-a40b-24276450c605",
+      "name": "Christmas Greetings",
+      "fileName": "292_ChristmasGreetings",
+      "categoryIds": [
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/a65a77b0-d4a7-47d8-a40b-24276450c605/cover.png",
+      "package": "sources/keyboards/themes/a65a77b0-d4a7-47d8-a40b-24276450c605/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "0b6be757-b8d2-4dca-ad40-b3c67bad5ec6",
+      "name": "Christmas Hymn",
+      "fileName": "293_ChristmasHymn",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/0b6be757-b8d2-4dca-ad40-b3c67bad5ec6/cover.png",
+      "package": "sources/keyboards/themes/0b6be757-b8d2-4dca-ad40-b3c67bad5ec6/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "8fe164be-fab8-4f6d-a449-abe974f309dd",
+      "name": "Jingle Bells",
+      "fileName": "294_JingleBells",
+      "categoryIds": [
+        1011,
+        1012
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/8fe164be-fab8-4f6d-a449-abe974f309dd/cover.gif",
+      "package": "sources/keyboards/themes/8fe164be-fab8-4f6d-a449-abe974f309dd/package.zip",
+      "features": {
+        "dynamic": true,
+        "hasGif": true,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "76ea7fc1-5d58-4542-b0b4-5feecb6c57f0",
+      "name": "Celebrate Christmas",
+      "fileName": "295_CelebrateChristmas",
+      "categoryIds": [
+        1010,
+        1011,
+        1012
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/76ea7fc1-5d58-4542-b0b4-5feecb6c57f0/cover.gif",
+      "package": "sources/keyboards/themes/76ea7fc1-5d58-4542-b0b4-5feecb6c57f0/package.zip",
+      "features": {
+        "dynamic": true,
+        "hasGif": true,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "6c76ae8d-e1f8-4bc7-8c74-61ee4a40276d",
+      "name": "Christmas Party",
+      "fileName": "296_ChristmasParty",
+      "categoryIds": [
+        1011,
+        1012
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/6c76ae8d-e1f8-4bc7-8c74-61ee4a40276d/cover.gif",
+      "package": "sources/keyboards/themes/6c76ae8d-e1f8-4bc7-8c74-61ee4a40276d/package.zip",
+      "features": {
+        "dynamic": true,
+        "hasGif": true,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "2a27b66c-3c1d-4f53-822a-459046b915fb",
+      "name": "Christmas Opener",
+      "fileName": "297_ChristmasOpener",
+      "categoryIds": [
+        1011,
+        1012
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/2a27b66c-3c1d-4f53-822a-459046b915fb/cover.gif",
+      "package": "sources/keyboards/themes/2a27b66c-3c1d-4f53-822a-459046b915fb/package.zip",
+      "features": {
+        "dynamic": true,
+        "hasGif": true,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "a104785b-b5b6-40fb-a748-acc4d55b1a07",
+      "name": "Welcome 2025",
+      "fileName": "298_Welcome2025",
+      "categoryIds": [
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/a104785b-b5b6-40fb-a748-acc4d55b1a07/cover.png",
+      "package": "sources/keyboards/themes/a104785b-b5b6-40fb-a748-acc4d55b1a07/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "98ab2f2d-294f-44b6-80ac-79f425283334",
+      "name": "Embrace 2025",
+      "fileName": "299_Embrace2025",
+      "categoryIds": [
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/98ab2f2d-294f-44b6-80ac-79f425283334/cover.png",
+      "package": "sources/keyboards/themes/98ab2f2d-294f-44b6-80ac-79f425283334/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "6fd99740-e924-4723-9767-5f7886cf4d61",
+      "name": "Hail 2025",
+      "fileName": "300_Hail2025",
+      "categoryIds": [
+        1011
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/6fd99740-e924-4723-9767-5f7886cf4d61/cover.png",
+      "package": "sources/keyboards/themes/6fd99740-e924-4723-9767-5f7886cf4d61/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "86210db0-435f-4c58-935a-831f50040983",
+      "name": "Lovers Day",
+      "fileName": "301_LoversDay",
+      "categoryIds": [
+        1002,
+        1011
+      ],
+      "level": 0,
+      "cover": "sources/keyboards/themes/86210db0-435f-4c58-935a-831f50040983/cover.png",
+      "package": "sources/keyboards/themes/86210db0-435f-4c58-935a-831f50040983/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "10e7e0d5-71e2-4759-a8f7-da877f93e8f4",
+      "name": "Mutual Love",
+      "fileName": "304_MutualLove",
+      "categoryIds": [
+        1002,
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/10e7e0d5-71e2-4759-a8f7-da877f93e8f4/cover.png",
+      "package": "sources/keyboards/themes/10e7e0d5-71e2-4759-a8f7-da877f93e8f4/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "e4cd92a9-a65f-4ee8-9baa-2e7f9dce4a38",
+      "name": "Love Birds",
+      "fileName": "305_LoveBirds",
+      "categoryIds": [
+        1002,
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/e4cd92a9-a65f-4ee8-9baa-2e7f9dce4a38/cover.png",
+      "package": "sources/keyboards/themes/e4cd92a9-a65f-4ee8-9baa-2e7f9dce4a38/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "f7db30a3-ce89-4526-bfbf-d6046e74bdea",
+      "name": "Welcome 2026",
+      "fileName": "320_Welcome2026",
+      "categoryIds": [
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/f7db30a3-ce89-4526-bfbf-d6046e74bdea/cover.png",
+      "package": "sources/keyboards/themes/f7db30a3-ce89-4526-bfbf-d6046e74bdea/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "28c85853-7999-4fa9-bb7a-4f1cb33b765f",
+      "name": "Embrace 2026",
+      "fileName": "321_Embrace2026",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/28c85853-7999-4fa9-bb7a-4f1cb33b765f/cover.png",
+      "package": "sources/keyboards/themes/28c85853-7999-4fa9-bb7a-4f1cb33b765f/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "4c4f9a60-f4e1-4c88-920a-ec1c6304062f",
+      "name": "Hello 2026",
+      "fileName": "322_Hello2026",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/4c4f9a60-f4e1-4c88-920a-ec1c6304062f/cover.png",
+      "package": "sources/keyboards/themes/4c4f9a60-f4e1-4c88-920a-ec1c6304062f/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "dcf9d180-3416-4f80-88c9-b79912dfd1cd",
+      "name": "2026 Arrives",
+      "fileName": "323_2026Arrives",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/dcf9d180-3416-4f80-88c9-b79912dfd1cd/cover.png",
+      "package": "sources/keyboards/themes/dcf9d180-3416-4f80-88c9-b79912dfd1cd/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "c8dcf8ca-0b15-4243-9a91-52dd3469c24f",
+      "name": "Merry Christmas",
+      "fileName": "32_MerryChristmas",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/c8dcf8ca-0b15-4243-9a91-52dd3469c24f/cover.png",
+      "package": "sources/keyboards/themes/c8dcf8ca-0b15-4243-9a91-52dd3469c24f/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "0c29b5cc-f1da-4a54-bade-363191311fe7",
+      "name": "Christmas Gift",
+      "fileName": "33_ChristmasGift",
+      "categoryIds": [
+        1011
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/0c29b5cc-f1da-4a54-bade-363191311fe7/cover.png",
+      "package": "sources/keyboards/themes/0c29b5cc-f1da-4a54-bade-363191311fe7/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "54f922a7-d039-4cd4-bceb-860827271645",
+      "name": "Merry Xmas",
+      "fileName": "93_MerryXmas",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/54f922a7-d039-4cd4-bceb-860827271645/cover.png",
+      "package": "sources/keyboards/themes/54f922a7-d039-4cd4-bceb-860827271645/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "d8d132f2-89ef-433a-ab2e-22dc226afb56",
+      "name": "Christmas Atmosphere",
+      "fileName": "94_ChristmasAtmosphere",
+      "categoryIds": [
+        1011
+      ],
+      "level": 2,
+      "cover": "sources/keyboards/themes/d8d132f2-89ef-433a-ab2e-22dc226afb56/cover.png",
+      "package": "sources/keyboards/themes/d8d132f2-89ef-433a-ab2e-22dc226afb56/package.zip",
+      "features": {
+        "dynamic": false,
+        "hasGif": false,
+        "hasMp4": false
+      }
+    },
+    {
+      "id": "96edc8f1-cc21-4407-96e2-847c0f4f7fa1",
+      "name": "SuperXmas",
+      "fileName": "95_SuperXmas",
+      "categoryIds": [
+        1011,
+        1012
+      ],
+      "level": 1,
+      "cover": "sources/keyboards/themes/96edc8f1-cc21-4407-96e2-847c0f4f7fa1/cover.gif",
+      "package": "sources/keyboards/themes/96edc8f1-cc21-4407-96e2-847c0f4f7fa1/package.zip",
+      "features": {
+        "dynamic": true,
+        "hasGif": true,
+        "hasMp4": false
+      }
+    }
+  ]
+}

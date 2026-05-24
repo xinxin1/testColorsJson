@@ -1,0 +1,16 @@
+{
+  "id": "accb790c-88bb-4a37-841a-3022a13939bb",
+  "name": "Time",
+  "fileName": "148_Time",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/accb790c-88bb-4a37-841a-3022a13939bb/cover.png",
+  "package": "sources/keyboards/themes/accb790c-88bb-4a37-841a-3022a13939bb/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

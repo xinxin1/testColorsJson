@@ -1,0 +1,17 @@
+{
+  "id": "7124ad29-3bce-43e4-bb7e-de529a9f986e",
+  "name": "Twinkle Whale",
+  "fileName": "46_TwinkleWhale",
+  "categoryIds": [
+    1006,
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/7124ad29-3bce-43e4-bb7e-de529a9f986e/cover.png",
+  "package": "sources/keyboards/themes/7124ad29-3bce-43e4-bb7e-de529a9f986e/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

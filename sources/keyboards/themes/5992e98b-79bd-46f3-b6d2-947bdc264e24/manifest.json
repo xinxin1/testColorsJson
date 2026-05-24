@@ -1,0 +1,16 @@
+{
+  "id": "5992e98b-79bd-46f3-b6d2-947bdc264e24",
+  "name": "Crystal Ball",
+  "fileName": "97_CrystalBall",
+  "categoryIds": [
+    1011
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/5992e98b-79bd-46f3-b6d2-947bdc264e24/cover.png",
+  "package": "sources/keyboards/themes/5992e98b-79bd-46f3-b6d2-947bdc264e24/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

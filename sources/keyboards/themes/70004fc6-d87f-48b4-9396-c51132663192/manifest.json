@@ -1,0 +1,16 @@
+{
+  "id": "70004fc6-d87f-48b4-9396-c51132663192",
+  "name": "Christmas Tree",
+  "fileName": "56_ChristmasTree",
+  "categoryIds": [
+    1011
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/70004fc6-d87f-48b4-9396-c51132663192/cover.png",
+  "package": "sources/keyboards/themes/70004fc6-d87f-48b4-9396-c51132663192/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

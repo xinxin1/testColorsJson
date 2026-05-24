@@ -1,0 +1,16 @@
+{
+  "id": "febcb891-2425-4092-8bc5-7c3b5fe261ab",
+  "name": "Christmas Time",
+  "fileName": "290_ChristmasTime",
+  "categoryIds": [
+    1011
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/febcb891-2425-4092-8bc5-7c3b5fe261ab/cover.png",
+  "package": "sources/keyboards/themes/febcb891-2425-4092-8bc5-7c3b5fe261ab/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

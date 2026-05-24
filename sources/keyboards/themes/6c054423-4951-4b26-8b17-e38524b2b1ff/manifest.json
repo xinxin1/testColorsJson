@@ -1,0 +1,16 @@
+{
+  "id": "6c054423-4951-4b26-8b17-e38524b2b1ff",
+  "name": "Lunar Lullaby",
+  "fileName": "392_LunarLullaby",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/6c054423-4951-4b26-8b17-e38524b2b1ff/cover.png",
+  "package": "sources/keyboards/themes/6c054423-4951-4b26-8b17-e38524b2b1ff/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

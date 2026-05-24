@@ -1,0 +1,17 @@
+{
+  "id": "bb8b6dbe-5864-43e3-9133-b69cfb36977e",
+  "name": "Twinkling Stars",
+  "fileName": "235_TwinklingStars",
+  "categoryIds": [
+    1003,
+    1006
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/bb8b6dbe-5864-43e3-9133-b69cfb36977e/cover.png",
+  "package": "sources/keyboards/themes/bb8b6dbe-5864-43e3-9133-b69cfb36977e/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "1fcafaff-a17a-4b6e-8674-1038312494c5",
+  "name": "Mountain Mirrors",
+  "fileName": "389_MountainMirrors",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/1fcafaff-a17a-4b6e-8674-1038312494c5/cover.png",
+  "package": "sources/keyboards/themes/1fcafaff-a17a-4b6e-8674-1038312494c5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

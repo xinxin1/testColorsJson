@@ -1,0 +1,16 @@
+{
+  "id": "6cea9e52-7144-4314-99ab-9682e3d19966",
+  "name": "Sea Beach",
+  "fileName": "31_SeaBeach",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/6cea9e52-7144-4314-99ab-9682e3d19966/cover.png",
+  "package": "sources/keyboards/themes/6cea9e52-7144-4314-99ab-9682e3d19966/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "3af24657-5b10-4581-8023-1885e940af22",
+  "name": "Streliteela",
+  "fileName": "264_Streliteela",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/3af24657-5b10-4581-8023-1885e940af22/cover.png",
+  "package": "sources/keyboards/themes/3af24657-5b10-4581-8023-1885e940af22/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

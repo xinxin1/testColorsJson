@@ -1,0 +1,16 @@
+{
+  "id": "f39c45f8-bd47-4537-9778-c7b7a0d363f8",
+  "name": "Snow Globe",
+  "fileName": "287_SnowGlobe",
+  "categoryIds": [
+    1011
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/f39c45f8-bd47-4537-9778-c7b7a0d363f8/cover.png",
+  "package": "sources/keyboards/themes/f39c45f8-bd47-4537-9778-c7b7a0d363f8/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

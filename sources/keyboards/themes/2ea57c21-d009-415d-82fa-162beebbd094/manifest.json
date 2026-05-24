@@ -1,0 +1,17 @@
+{
+  "id": "2ea57c21-d009-415d-82fa-162beebbd094",
+  "name": "Pink Machinery",
+  "fileName": "227_PinkMachinery",
+  "categoryIds": [
+    1001,
+    1008
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/2ea57c21-d009-415d-82fa-162beebbd094/cover.png",
+  "package": "sources/keyboards/themes/2ea57c21-d009-415d-82fa-162beebbd094/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "5eb422b9-65b8-4b3a-920b-148b01bcc565",
+  "name": "DoNot Starve",
+  "fileName": "167_DoNotStarve",
+  "categoryIds": [
+    1005,
+    1006
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/5eb422b9-65b8-4b3a-920b-148b01bcc565/cover.png",
+  "package": "sources/keyboards/themes/5eb422b9-65b8-4b3a-920b-148b01bcc565/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

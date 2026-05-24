@@ -1,0 +1,16 @@
+{
+  "id": "1e10ed04-04ee-4def-9a30-a4d3f690a814",
+  "name": "Misty Peaks",
+  "fileName": "383_MistyPeaks",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/1e10ed04-04ee-4def-9a30-a4d3f690a814/cover.png",
+  "package": "sources/keyboards/themes/1e10ed04-04ee-4def-9a30-a4d3f690a814/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

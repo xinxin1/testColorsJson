@@ -1,0 +1,17 @@
+{
+  "id": "2bf1f5b8-4cfc-4766-ad2a-3933eb138311",
+  "name": "Future Light",
+  "fileName": "174_FutureLight",
+  "categoryIds": [
+    1003,
+    1010
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/2bf1f5b8-4cfc-4766-ad2a-3933eb138311/cover.png",
+  "package": "sources/keyboards/themes/2bf1f5b8-4cfc-4766-ad2a-3933eb138311/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

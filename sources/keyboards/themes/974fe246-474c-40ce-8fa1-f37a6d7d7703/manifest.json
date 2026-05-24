@@ -1,0 +1,16 @@
+{
+  "id": "974fe246-474c-40ce-8fa1-f37a6d7d7703",
+  "name": "Lelouch",
+  "fileName": "356_Lelouch",
+  "categoryIds": [
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/974fe246-474c-40ce-8fa1-f37a6d7d7703/cover.png",
+  "package": "sources/keyboards/themes/974fe246-474c-40ce-8fa1-f37a6d7d7703/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

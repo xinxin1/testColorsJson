@@ -1,0 +1,16 @@
+{
+  "id": "c4acf6ca-e3f5-459c-aeac-776bb9c9400b",
+  "name": "Simple Blue",
+  "fileName": "93_SimpleBlue",
+  "categoryIds": [
+    1008
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/c4acf6ca-e3f5-459c-aeac-776bb9c9400b/cover.png",
+  "package": "sources/keyboards/themes/c4acf6ca-e3f5-459c-aeac-776bb9c9400b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

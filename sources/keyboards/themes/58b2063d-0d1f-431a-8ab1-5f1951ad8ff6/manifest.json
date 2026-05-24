@@ -1,0 +1,16 @@
+{
+  "id": "58b2063d-0d1f-431a-8ab1-5f1951ad8ff6",
+  "name": "Pixel",
+  "fileName": "70_Pixel",
+  "categoryIds": [
+    1005
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/58b2063d-0d1f-431a-8ab1-5f1951ad8ff6/cover.png",
+  "package": "sources/keyboards/themes/58b2063d-0d1f-431a-8ab1-5f1951ad8ff6/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

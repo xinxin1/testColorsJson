@@ -1,0 +1,16 @@
+{
+  "id": "d53d081d-16b0-43c2-9a55-ceffaa7fad19",
+  "name": "Kobe Bryant",
+  "fileName": "205_KobeBryant",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/d53d081d-16b0-43c2-9a55-ceffaa7fad19/cover.png",
+  "package": "sources/keyboards/themes/d53d081d-16b0-43c2-9a55-ceffaa7fad19/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

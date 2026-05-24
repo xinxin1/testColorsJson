@@ -1,0 +1,17 @@
+{
+  "id": "4734cafe-5e82-4206-a68c-5f627937b2ca",
+  "name": "Shining Love",
+  "fileName": "131_ShiningLove",
+  "categoryIds": [
+    1002,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/4734cafe-5e82-4206-a68c-5f627937b2ca/cover.gif",
+  "package": "sources/keyboards/themes/4734cafe-5e82-4206-a68c-5f627937b2ca/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

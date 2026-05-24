@@ -1,0 +1,16 @@
+{
+  "id": "dbf29220-4448-4979-a35a-fc6dd772dc36",
+  "name": "Default",
+  "fileName": "0_Default",
+  "categoryIds": [
+    1008
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/dbf29220-4448-4979-a35a-fc6dd772dc36/cover.png",
+  "package": "sources/keyboards/themes/dbf29220-4448-4979-a35a-fc6dd772dc36/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "63d9796f-6d6e-415c-bbb2-2aa75a94df1a",
+  "name": "Black Pink",
+  "fileName": "4_BlackPink",
+  "categoryIds": [
+    1001,
+    1008,
+    1013
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/63d9796f-6d6e-415c-bbb2-2aa75a94df1a/cover.png",
+  "package": "sources/keyboards/themes/63d9796f-6d6e-415c-bbb2-2aa75a94df1a/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

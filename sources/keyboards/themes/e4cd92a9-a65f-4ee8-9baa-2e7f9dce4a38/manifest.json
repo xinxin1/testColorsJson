@@ -1,0 +1,17 @@
+{
+  "id": "e4cd92a9-a65f-4ee8-9baa-2e7f9dce4a38",
+  "name": "Love Birds",
+  "fileName": "305_LoveBirds",
+  "categoryIds": [
+    1002,
+    1011
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e4cd92a9-a65f-4ee8-9baa-2e7f9dce4a38/cover.png",
+  "package": "sources/keyboards/themes/e4cd92a9-a65f-4ee8-9baa-2e7f9dce4a38/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "c5603bcf-3935-4c00-98a2-4ecf7d815d2c",
+  "name": "BrawlStars",
+  "fileName": "321_BrawlStars",
+  "categoryIds": [
+    1005,
+    1006
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/c5603bcf-3935-4c00-98a2-4ecf7d815d2c/cover.png",
+  "package": "sources/keyboards/themes/c5603bcf-3935-4c00-98a2-4ecf7d815d2c/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

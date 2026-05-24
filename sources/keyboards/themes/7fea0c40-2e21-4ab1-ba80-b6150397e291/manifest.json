@@ -1,0 +1,17 @@
+{
+  "id": "7fea0c40-2e21-4ab1-ba80-b6150397e291",
+  "name": "182_SnowMountain",
+  "fileName": "182_SnowMountain",
+  "categoryIds": [
+    1007,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/7fea0c40-2e21-4ab1-ba80-b6150397e291/cover.png",
+  "package": "sources/keyboards/themes/7fea0c40-2e21-4ab1-ba80-b6150397e291/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

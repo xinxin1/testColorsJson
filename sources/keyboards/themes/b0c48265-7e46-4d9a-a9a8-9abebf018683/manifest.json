@@ -1,0 +1,16 @@
+{
+  "id": "b0c48265-7e46-4d9a-a9a8-9abebf018683",
+  "name": "Phalaenopsis",
+  "fileName": "155_Phalaenopsis",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/b0c48265-7e46-4d9a-a9a8-9abebf018683/cover.png",
+  "package": "sources/keyboards/themes/b0c48265-7e46-4d9a-a9a8-9abebf018683/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

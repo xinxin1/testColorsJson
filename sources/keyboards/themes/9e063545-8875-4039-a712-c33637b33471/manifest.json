@@ -1,0 +1,16 @@
+{
+  "id": "9e063545-8875-4039-a712-c33637b33471",
+  "name": "CookieRun",
+  "fileName": "320_CookieRun",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/9e063545-8875-4039-a712-c33637b33471/cover.png",
+  "package": "sources/keyboards/themes/9e063545-8875-4039-a712-c33637b33471/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

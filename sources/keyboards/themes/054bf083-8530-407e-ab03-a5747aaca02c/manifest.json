@@ -1,0 +1,16 @@
+{
+  "id": "054bf083-8530-407e-ab03-a5747aaca02c",
+  "name": "Warm Christmas",
+  "fileName": "280_WarmChristmas",
+  "categoryIds": [
+    1011
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/054bf083-8530-407e-ab03-a5747aaca02c/cover.png",
+  "package": "sources/keyboards/themes/054bf083-8530-407e-ab03-a5747aaca02c/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

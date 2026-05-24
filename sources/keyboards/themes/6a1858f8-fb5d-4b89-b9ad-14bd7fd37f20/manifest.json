@@ -1,0 +1,17 @@
+{
+  "id": "6a1858f8-fb5d-4b89-b9ad-14bd7fd37f20",
+  "name": "Fantasy Planet",
+  "fileName": "37_FantasyPlanet",
+  "categoryIds": [
+    1006,
+    1007
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/6a1858f8-fb5d-4b89-b9ad-14bd7fd37f20/cover.png",
+  "package": "sources/keyboards/themes/6a1858f8-fb5d-4b89-b9ad-14bd7fd37f20/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

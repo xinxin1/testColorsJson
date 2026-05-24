@@ -1,0 +1,16 @@
+{
+  "id": "ba15d851-c3f2-4743-b22e-a38015fd14a1",
+  "name": "Bleach",
+  "fileName": "163_Bleach",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/ba15d851-c3f2-4743-b22e-a38015fd14a1/cover.png",
+  "package": "sources/keyboards/themes/ba15d851-c3f2-4743-b22e-a38015fd14a1/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

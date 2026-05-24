@@ -1,0 +1,16 @@
+{
+  "id": "bb2db6cc-441f-449d-bbc8-fc80fa97499e",
+  "name": "Graceful",
+  "fileName": "326_Graceful",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/bb2db6cc-441f-449d-bbc8-fc80fa97499e/cover.png",
+  "package": "sources/keyboards/themes/bb2db6cc-441f-449d-bbc8-fc80fa97499e/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

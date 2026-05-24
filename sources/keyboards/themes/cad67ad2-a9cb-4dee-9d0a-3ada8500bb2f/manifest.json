@@ -1,0 +1,17 @@
+{
+  "id": "cad67ad2-a9cb-4dee-9d0a-3ada8500bb2f",
+  "name": "Pink Dawn",
+  "fileName": "48_PinkDawn",
+  "categoryIds": [
+    1001,
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/cad67ad2-a9cb-4dee-9d0a-3ada8500bb2f/cover.png",
+  "package": "sources/keyboards/themes/cad67ad2-a9cb-4dee-9d0a-3ada8500bb2f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "c43e3853-48d7-48a5-ac58-aa0c592d4b67",
+  "name": "Mario",
+  "fileName": "165_Mario",
+  "categoryIds": [
+    1005
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/c43e3853-48d7-48a5-ac58-aa0c592d4b67/cover.png",
+  "package": "sources/keyboards/themes/c43e3853-48d7-48a5-ac58-aa0c592d4b67/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

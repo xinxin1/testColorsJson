@@ -1,0 +1,16 @@
+{
+  "id": "7ff9b58f-ac58-43b7-afc1-7fa73c9d93f8",
+  "name": "Blue Planet",
+  "fileName": "159_BluePlanet",
+  "categoryIds": [
+    1006
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/7ff9b58f-ac58-43b7-afc1-7fa73c9d93f8/cover.png",
+  "package": "sources/keyboards/themes/7ff9b58f-ac58-43b7-afc1-7fa73c9d93f8/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

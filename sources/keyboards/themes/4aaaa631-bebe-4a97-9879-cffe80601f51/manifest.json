@@ -1,0 +1,17 @@
+{
+  "id": "4aaaa631-bebe-4a97-9879-cffe80601f51",
+  "name": "Lucky Bear",
+  "fileName": "58_LuckyBear",
+  "categoryIds": [
+    1001,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/4aaaa631-bebe-4a97-9879-cffe80601f51/cover.gif",
+  "package": "sources/keyboards/themes/4aaaa631-bebe-4a97-9879-cffe80601f51/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

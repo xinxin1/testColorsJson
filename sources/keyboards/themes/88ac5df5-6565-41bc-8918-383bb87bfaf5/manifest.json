@@ -1,0 +1,18 @@
+{
+  "id": "88ac5df5-6565-41bc-8918-383bb87bfaf5",
+  "name": "White Christmas",
+  "fileName": "291_WhiteChristmas",
+  "categoryIds": [
+    1008,
+    1010,
+    1011
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/88ac5df5-6565-41bc-8918-383bb87bfaf5/cover.png",
+  "package": "sources/keyboards/themes/88ac5df5-6565-41bc-8918-383bb87bfaf5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

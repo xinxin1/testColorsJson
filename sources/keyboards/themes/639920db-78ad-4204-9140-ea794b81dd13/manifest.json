@@ -1,0 +1,16 @@
+{
+  "id": "639920db-78ad-4204-9140-ea794b81dd13",
+  "name": "Cherish Always",
+  "fileName": "378_CherishAlways",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/639920db-78ad-4204-9140-ea794b81dd13/cover.png",
+  "package": "sources/keyboards/themes/639920db-78ad-4204-9140-ea794b81dd13/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

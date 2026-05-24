@@ -1,0 +1,16 @@
+{
+  "id": "1b8bff7f-786e-473e-8713-4e2477e140cd",
+  "name": "Graceful",
+  "fileName": "13_Graceful",
+  "categoryIds": [
+    1008
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/1b8bff7f-786e-473e-8713-4e2477e140cd/cover.png",
+  "package": "sources/keyboards/themes/1b8bff7f-786e-473e-8713-4e2477e140cd/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

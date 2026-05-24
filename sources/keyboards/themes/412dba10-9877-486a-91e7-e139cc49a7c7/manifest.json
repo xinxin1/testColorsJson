@@ -1,0 +1,16 @@
+{
+  "id": "412dba10-9877-486a-91e7-e139cc49a7c7",
+  "name": "Burning Flame",
+  "fileName": "75_BurningFlame",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/412dba10-9877-486a-91e7-e139cc49a7c7/cover.png",
+  "package": "sources/keyboards/themes/412dba10-9877-486a-91e7-e139cc49a7c7/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

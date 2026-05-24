@@ -1,0 +1,16 @@
+{
+  "id": "476edce0-312f-4727-9786-c190369effb5",
+  "name": "Lonely Planet",
+  "fileName": "108_LonelyPlanet",
+  "categoryIds": [
+    1006
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/476edce0-312f-4727-9786-c190369effb5/cover.png",
+  "package": "sources/keyboards/themes/476edce0-312f-4727-9786-c190369effb5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

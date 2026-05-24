@@ -1,0 +1,16 @@
+{
+  "id": "cbc25668-051e-4e03-9495-93bc60a63b83",
+  "name": "Free Chicken",
+  "fileName": "298_FreeChicken",
+  "categoryIds": [
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/cbc25668-051e-4e03-9495-93bc60a63b83/cover.png",
+  "package": "sources/keyboards/themes/cbc25668-051e-4e03-9495-93bc60a63b83/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

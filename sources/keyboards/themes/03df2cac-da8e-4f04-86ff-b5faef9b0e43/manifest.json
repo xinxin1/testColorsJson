@@ -1,0 +1,18 @@
+{
+  "id": "03df2cac-da8e-4f04-86ff-b5faef9b0e43",
+  "name": "Aurora",
+  "fileName": "185_Aurora",
+  "categoryIds": [
+    1006,
+    1007,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/03df2cac-da8e-4f04-86ff-b5faef9b0e43/cover.png",
+  "package": "sources/keyboards/themes/03df2cac-da8e-4f04-86ff-b5faef9b0e43/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

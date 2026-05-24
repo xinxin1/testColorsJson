@@ -1,0 +1,16 @@
+{
+  "id": "fcedef7a-0f6d-4845-ab2c-4562d0faa9e7",
+  "name": "RDR2",
+  "fileName": "274_RDR2",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/fcedef7a-0f6d-4845-ab2c-4562d0faa9e7/cover.png",
+  "package": "sources/keyboards/themes/fcedef7a-0f6d-4845-ab2c-4562d0faa9e7/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

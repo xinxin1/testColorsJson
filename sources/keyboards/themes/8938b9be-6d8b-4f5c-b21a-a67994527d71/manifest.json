@@ -1,0 +1,19 @@
+{
+  "id": "8938b9be-6d8b-4f5c-b21a-a67994527d71",
+  "name": "Lovely Ghost",
+  "fileName": "29_LovelyGhost",
+  "categoryIds": [
+    1001,
+    1002,
+    1007,
+    1013
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/8938b9be-6d8b-4f5c-b21a-a67994527d71/cover.png",
+  "package": "sources/keyboards/themes/8938b9be-6d8b-4f5c-b21a-a67994527d71/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

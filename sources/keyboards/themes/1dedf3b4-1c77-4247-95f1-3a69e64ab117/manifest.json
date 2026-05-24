@@ -1,0 +1,17 @@
+{
+  "id": "1dedf3b4-1c77-4247-95f1-3a69e64ab117",
+  "name": "Dream Blast",
+  "fileName": "112_DreamBlast",
+  "categoryIds": [
+    1005,
+    1007
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/1dedf3b4-1c77-4247-95f1-3a69e64ab117/cover.png",
+  "package": "sources/keyboards/themes/1dedf3b4-1c77-4247-95f1-3a69e64ab117/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

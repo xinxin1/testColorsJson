@@ -1,0 +1,16 @@
+{
+  "id": "9ffbdbcb-725c-42bd-85e5-8cc2a8ce983f",
+  "name": "Unbreakable Love",
+  "fileName": "302_UnbreakableLove",
+  "categoryIds": [
+    1002
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/9ffbdbcb-725c-42bd-85e5-8cc2a8ce983f/cover.png",
+  "package": "sources/keyboards/themes/9ffbdbcb-725c-42bd-85e5-8cc2a8ce983f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "e42a6df4-5e22-460d-a5b1-2cc7a5587d10",
+  "name": "Fatal Rose",
+  "fileName": "283_FatalRose",
+  "categoryIds": [
+    1002
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/e42a6df4-5e22-460d-a5b1-2cc7a5587d10/cover.png",
+  "package": "sources/keyboards/themes/e42a6df4-5e22-460d-a5b1-2cc7a5587d10/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "a84f7444-92d5-4e9d-89dc-5c0b696ba16f",
+  "name": "Ōsama Rankingu",
+  "fileName": "189_OsamaRankingu",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/a84f7444-92d5-4e9d-89dc-5c0b696ba16f/cover.png",
+  "package": "sources/keyboards/themes/a84f7444-92d5-4e9d-89dc-5c0b696ba16f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

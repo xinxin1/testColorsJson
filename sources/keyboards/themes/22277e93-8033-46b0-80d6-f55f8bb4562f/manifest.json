@@ -1,0 +1,17 @@
+{
+  "id": "22277e93-8033-46b0-80d6-f55f8bb4562f",
+  "name": "Lovely Cat",
+  "fileName": "63_LovelyCat",
+  "categoryIds": [
+    1001,
+    1002
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/22277e93-8033-46b0-80d6-f55f8bb4562f/cover.png",
+  "package": "sources/keyboards/themes/22277e93-8033-46b0-80d6-f55f8bb4562f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "28e01070-8614-492b-a422-a2905fd3919c",
+  "name": "Retro Neon",
+  "fileName": "319_RetroNeon",
+  "categoryIds": [
+    1003,
+    1010
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/28e01070-8614-492b-a422-a2905fd3919c/cover.png",
+  "package": "sources/keyboards/themes/28e01070-8614-492b-a422-a2905fd3919c/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

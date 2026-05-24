@@ -1,0 +1,17 @@
+{
+  "id": "458d390f-95cd-4841-9003-f782d08738df",
+  "name": "Space Station",
+  "fileName": "23_SpaceStation",
+  "categoryIds": [
+    1006,
+    1010
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/458d390f-95cd-4841-9003-f782d08738df/cover.png",
+  "package": "sources/keyboards/themes/458d390f-95cd-4841-9003-f782d08738df/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

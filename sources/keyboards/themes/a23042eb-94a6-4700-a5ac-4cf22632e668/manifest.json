@@ -1,0 +1,16 @@
+{
+  "id": "a23042eb-94a6-4700-a5ac-4cf22632e668",
+  "name": "REACTOR",
+  "fileName": "36_REACTOR",
+  "categoryIds": [
+    1010
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/a23042eb-94a6-4700-a5ac-4cf22632e668/cover.png",
+  "package": "sources/keyboards/themes/a23042eb-94a6-4700-a5ac-4cf22632e668/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

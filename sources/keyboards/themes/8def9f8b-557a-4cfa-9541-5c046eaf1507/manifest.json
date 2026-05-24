@@ -1,0 +1,16 @@
+{
+  "id": "8def9f8b-557a-4cfa-9541-5c046eaf1507",
+  "name": "Fluorescence",
+  "fileName": "219_Fluorescence",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/8def9f8b-557a-4cfa-9541-5c046eaf1507/cover.png",
+  "package": "sources/keyboards/themes/8def9f8b-557a-4cfa-9541-5c046eaf1507/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

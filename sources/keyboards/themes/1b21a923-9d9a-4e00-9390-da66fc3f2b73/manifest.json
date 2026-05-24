@@ -1,0 +1,16 @@
+{
+  "id": "1b21a923-9d9a-4e00-9390-da66fc3f2b73",
+  "name": "Diamond Crystal",
+  "fileName": "277_DiamondCrystal",
+  "categoryIds": [
+    1003
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/1b21a923-9d9a-4e00-9390-da66fc3f2b73/cover.png",
+  "package": "sources/keyboards/themes/1b21a923-9d9a-4e00-9390-da66fc3f2b73/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "8605425b-08bb-4b73-bd3f-56e2a7d82b5e",
+  "name": "Shining Rainbow",
+  "fileName": "3_ShiningRainbow",
+  "categoryIds": [
+    1008,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/8605425b-08bb-4b73-bd3f-56e2a7d82b5e/cover.png",
+  "package": "sources/keyboards/themes/8605425b-08bb-4b73-bd3f-56e2a7d82b5e/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

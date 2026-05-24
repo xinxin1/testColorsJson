@@ -1,0 +1,16 @@
+{
+  "id": "30c347a5-ef6b-46e2-bad8-d09eb30e7bd2",
+  "name": "Ice Cream",
+  "fileName": "184_IceCream",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/30c347a5-ef6b-46e2-bad8-d09eb30e7bd2/cover.png",
+  "package": "sources/keyboards/themes/30c347a5-ef6b-46e2-bad8-d09eb30e7bd2/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

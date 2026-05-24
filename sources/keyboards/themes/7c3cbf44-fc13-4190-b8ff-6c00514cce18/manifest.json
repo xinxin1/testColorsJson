@@ -1,0 +1,16 @@
+{
+  "id": "7c3cbf44-fc13-4190-b8ff-6c00514cce18",
+  "name": "Contrasting Colors",
+  "fileName": "34_ContrastingColors",
+  "categoryIds": [
+    1001
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/7c3cbf44-fc13-4190-b8ff-6c00514cce18/cover.png",
+  "package": "sources/keyboards/themes/7c3cbf44-fc13-4190-b8ff-6c00514cce18/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

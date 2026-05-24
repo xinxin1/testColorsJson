@@ -1,0 +1,16 @@
+{
+  "id": "288eda87-490a-4019-893e-7dd5f4c4d3a7",
+  "name": "Fresh",
+  "fileName": "22_Fresh",
+  "categoryIds": [
+    1008
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/288eda87-490a-4019-893e-7dd5f4c4d3a7/cover.png",
+  "package": "sources/keyboards/themes/288eda87-490a-4019-893e-7dd5f4c4d3a7/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

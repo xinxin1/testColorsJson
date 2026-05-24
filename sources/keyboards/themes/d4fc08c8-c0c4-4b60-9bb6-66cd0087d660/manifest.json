@@ -1,0 +1,16 @@
+{
+  "id": "d4fc08c8-c0c4-4b60-9bb6-66cd0087d660",
+  "name": "Nebula",
+  "fileName": "160_Nebula",
+  "categoryIds": [
+    1006
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/d4fc08c8-c0c4-4b60-9bb6-66cd0087d660/cover.png",
+  "package": "sources/keyboards/themes/d4fc08c8-c0c4-4b60-9bb6-66cd0087d660/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

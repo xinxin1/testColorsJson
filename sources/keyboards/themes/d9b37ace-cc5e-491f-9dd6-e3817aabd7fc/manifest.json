@@ -1,0 +1,16 @@
+{
+  "id": "d9b37ace-cc5e-491f-9dd6-e3817aabd7fc",
+  "name": "Burbujas Fondo",
+  "fileName": "80_BurbujasFondo",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/d9b37ace-cc5e-491f-9dd6-e3817aabd7fc/cover.png",
+  "package": "sources/keyboards/themes/d9b37ace-cc5e-491f-9dd6-e3817aabd7fc/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

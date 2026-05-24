@@ -1,0 +1,16 @@
+{
+  "id": "a20806a7-0156-4571-a34e-8222d82ac87e",
+  "name": "Warframe",
+  "fileName": "117_Warframe",
+  "categoryIds": [
+    1005
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/a20806a7-0156-4571-a34e-8222d82ac87e/cover.png",
+  "package": "sources/keyboards/themes/a20806a7-0156-4571-a34e-8222d82ac87e/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

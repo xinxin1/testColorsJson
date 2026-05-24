@@ -1,0 +1,16 @@
+{
+  "id": "0b6be757-b8d2-4dca-ad40-b3c67bad5ec6",
+  "name": "Christmas Hymn",
+  "fileName": "293_ChristmasHymn",
+  "categoryIds": [
+    1011
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/0b6be757-b8d2-4dca-ad40-b3c67bad5ec6/cover.png",
+  "package": "sources/keyboards/themes/0b6be757-b8d2-4dca-ad40-b3c67bad5ec6/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

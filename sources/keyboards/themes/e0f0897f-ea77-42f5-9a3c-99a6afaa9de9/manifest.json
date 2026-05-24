@@ -1,0 +1,18 @@
+{
+  "id": "e0f0897f-ea77-42f5-9a3c-99a6afaa9de9",
+  "name": "BlueNightshade",
+  "fileName": "177_BlueNightshade",
+  "categoryIds": [
+    1007,
+    1012,
+    1013
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e0f0897f-ea77-42f5-9a3c-99a6afaa9de9/cover.png",
+  "package": "sources/keyboards/themes/e0f0897f-ea77-42f5-9a3c-99a6afaa9de9/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "64921445-705d-4485-9cb9-b56e774cca62",
+  "name": "Red Roses",
+  "fileName": "380_RedRoses",
+  "categoryIds": [
+    1002
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/64921445-705d-4485-9cb9-b56e774cca62/cover.png",
+  "package": "sources/keyboards/themes/64921445-705d-4485-9cb9-b56e774cca62/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "f8df489f-74fd-4671-8802-0634011c5f64",
+  "name": "Christmas Party",
+  "fileName": "370_ChristmasParty",
+  "categoryIds": [
+    1011,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/f8df489f-74fd-4671-8802-0634011c5f64/cover.png",
+  "package": "sources/keyboards/themes/f8df489f-74fd-4671-8802-0634011c5f64/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

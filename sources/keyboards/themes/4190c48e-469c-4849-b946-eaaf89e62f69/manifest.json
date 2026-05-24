@@ -1,0 +1,16 @@
+{
+  "id": "4190c48e-469c-4849-b946-eaaf89e62f69",
+  "name": "Elden Ring",
+  "fileName": "192_EldenRing",
+  "categoryIds": [
+    1005
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/4190c48e-469c-4849-b946-eaaf89e62f69/cover.png",
+  "package": "sources/keyboards/themes/4190c48e-469c-4849-b946-eaaf89e62f69/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

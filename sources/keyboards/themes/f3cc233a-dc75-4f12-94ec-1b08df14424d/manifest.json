@@ -1,0 +1,17 @@
+{
+  "id": "f3cc233a-dc75-4f12-94ec-1b08df14424d",
+  "name": "Hatsune Miku",
+  "fileName": "224_HatsuneMiku",
+  "categoryIds": [
+    1004,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/f3cc233a-dc75-4f12-94ec-1b08df14424d/cover.png",
+  "package": "sources/keyboards/themes/f3cc233a-dc75-4f12-94ec-1b08df14424d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

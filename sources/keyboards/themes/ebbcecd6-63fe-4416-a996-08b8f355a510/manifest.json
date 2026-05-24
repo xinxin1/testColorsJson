@@ -1,0 +1,16 @@
+{
+  "id": "ebbcecd6-63fe-4416-a996-08b8f355a510",
+  "name": "Mob Psycho 100",
+  "fileName": "160_MobPsycho100",
+  "categoryIds": [
+    1004
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/ebbcecd6-63fe-4416-a996-08b8f355a510/cover.png",
+  "package": "sources/keyboards/themes/ebbcecd6-63fe-4416-a996-08b8f355a510/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

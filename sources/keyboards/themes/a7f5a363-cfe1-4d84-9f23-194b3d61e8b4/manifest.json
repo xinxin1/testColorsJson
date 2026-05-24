@@ -1,0 +1,17 @@
+{
+  "id": "a7f5a363-cfe1-4d84-9f23-194b3d61e8b4",
+  "name": "Sunset",
+  "fileName": "173_Sunset",
+  "categoryIds": [
+    1007,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/a7f5a363-cfe1-4d84-9f23-194b3d61e8b4/cover.png",
+  "package": "sources/keyboards/themes/a7f5a363-cfe1-4d84-9f23-194b3d61e8b4/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2a27b66c-3c1d-4f53-822a-459046b915fb",
+  "name": "Christmas Opener",
+  "fileName": "297_ChristmasOpener",
+  "categoryIds": [
+    1011,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/2a27b66c-3c1d-4f53-822a-459046b915fb/cover.gif",
+  "package": "sources/keyboards/themes/2a27b66c-3c1d-4f53-822a-459046b915fb/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

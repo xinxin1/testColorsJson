@@ -1,0 +1,16 @@
+{
+  "id": "275aa893-249f-4865-80ee-c56e4b9c5404",
+  "name": "Kugisaki Nobara",
+  "fileName": "267_KugisakiNobara",
+  "categoryIds": [
+    1004
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/275aa893-249f-4865-80ee-c56e4b9c5404/cover.png",
+  "package": "sources/keyboards/themes/275aa893-249f-4865-80ee-c56e4b9c5404/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "e76c729f-c448-42fe-bdd2-97f7683c5c10",
+  "name": "JOJO",
+  "fileName": "162_JOJO",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e76c729f-c448-42fe-bdd2-97f7683c5c10/cover.png",
+  "package": "sources/keyboards/themes/e76c729f-c448-42fe-bdd2-97f7683c5c10/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

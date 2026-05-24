@@ -1,0 +1,16 @@
+{
+  "id": "665efa65-8c17-4fd3-8c07-192a96e4d1ae",
+  "name": "Coffee Yellow",
+  "fileName": "8_CoffeeYellow",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/665efa65-8c17-4fd3-8c07-192a96e4d1ae/cover.png",
+  "package": "sources/keyboards/themes/665efa65-8c17-4fd3-8c07-192a96e4d1ae/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

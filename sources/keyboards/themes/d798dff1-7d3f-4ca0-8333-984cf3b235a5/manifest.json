@@ -1,0 +1,16 @@
+{
+  "id": "d798dff1-7d3f-4ca0-8333-984cf3b235a5",
+  "name": "Christmas Time",
+  "fileName": "367_ChristmasTime",
+  "categoryIds": [
+    1011
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/d798dff1-7d3f-4ca0-8333-984cf3b235a5/cover.png",
+  "package": "sources/keyboards/themes/d798dff1-7d3f-4ca0-8333-984cf3b235a5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bfcbe629-1495-431f-bb61-8a0f06e98297",
+  "name": "Foliage Forest",
+  "fileName": "386_FoliageForest",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/bfcbe629-1495-431f-bb61-8a0f06e98297/cover.png",
+  "package": "sources/keyboards/themes/bfcbe629-1495-431f-bb61-8a0f06e98297/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

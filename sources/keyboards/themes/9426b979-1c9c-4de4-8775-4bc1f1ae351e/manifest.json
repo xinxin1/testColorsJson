@@ -1,0 +1,16 @@
+{
+  "id": "9426b979-1c9c-4de4-8775-4bc1f1ae351e",
+  "name": "Ture Love",
+  "fileName": "302_TureLove",
+  "categoryIds": [
+    1002
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/9426b979-1c9c-4de4-8775-4bc1f1ae351e/cover.png",
+  "package": "sources/keyboards/themes/9426b979-1c9c-4de4-8775-4bc1f1ae351e/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

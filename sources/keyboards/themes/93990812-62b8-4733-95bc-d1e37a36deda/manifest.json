@@ -1,0 +1,16 @@
+{
+  "id": "93990812-62b8-4733-95bc-d1e37a36deda",
+  "name": "Tanjiro Kamado",
+  "fileName": "97_TanjiroKamado",
+  "categoryIds": [
+    1004
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/93990812-62b8-4733-95bc-d1e37a36deda/cover.png",
+  "package": "sources/keyboards/themes/93990812-62b8-4733-95bc-d1e37a36deda/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

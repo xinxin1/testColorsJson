@@ -1,0 +1,16 @@
+{
+  "id": "ce611bdd-f554-4049-b87a-274eed46d04a",
+  "name": "Sexy Lips",
+  "fileName": "137_SexyLips",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/ce611bdd-f554-4049-b87a-274eed46d04a/cover.png",
+  "package": "sources/keyboards/themes/ce611bdd-f554-4049-b87a-274eed46d04a/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

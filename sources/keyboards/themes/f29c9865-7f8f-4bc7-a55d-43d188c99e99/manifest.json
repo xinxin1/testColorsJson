@@ -1,0 +1,16 @@
+{
+  "id": "f29c9865-7f8f-4bc7-a55d-43d188c99e99",
+  "name": "Industry",
+  "fileName": "171_Industry",
+  "categoryIds": [
+    1010
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/f29c9865-7f8f-4bc7-a55d-43d188c99e99/cover.png",
+  "package": "sources/keyboards/themes/f29c9865-7f8f-4bc7-a55d-43d188c99e99/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

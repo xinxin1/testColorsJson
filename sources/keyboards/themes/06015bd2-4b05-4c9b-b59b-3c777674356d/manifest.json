@@ -1,0 +1,16 @@
+{
+  "id": "06015bd2-4b05-4c9b-b59b-3c777674356d",
+  "name": "Vast Star",
+  "fileName": "26_VastStar",
+  "categoryIds": [
+    1006
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/06015bd2-4b05-4c9b-b59b-3c777674356d/cover.png",
+  "package": "sources/keyboards/themes/06015bd2-4b05-4c9b-b59b-3c777674356d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

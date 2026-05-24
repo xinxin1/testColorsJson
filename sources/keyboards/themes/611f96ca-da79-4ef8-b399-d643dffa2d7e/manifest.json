@@ -1,0 +1,16 @@
+{
+  "id": "611f96ca-da79-4ef8-b399-d643dffa2d7e",
+  "name": "Hashibira Inosuke",
+  "fileName": "86_HashibiraInosuke",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/611f96ca-da79-4ef8-b399-d643dffa2d7e/cover.png",
+  "package": "sources/keyboards/themes/611f96ca-da79-4ef8-b399-d643dffa2d7e/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

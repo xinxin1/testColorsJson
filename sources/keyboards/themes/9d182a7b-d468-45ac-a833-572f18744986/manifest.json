@@ -1,0 +1,18 @@
+{
+  "id": "9d182a7b-d468-45ac-a833-572f18744986",
+  "name": "Starry Nights",
+  "fileName": "258_StarryNights",
+  "categoryIds": [
+    1006,
+    1012,
+    1013
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/9d182a7b-d468-45ac-a833-572f18744986/cover.png",
+  "package": "sources/keyboards/themes/9d182a7b-d468-45ac-a833-572f18744986/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

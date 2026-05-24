@@ -1,0 +1,16 @@
+{
+  "id": "110e3b9f-3454-4253-bf2a-92ac158bd835",
+  "name": "Lucky Purple",
+  "fileName": "229_LuckyPurple",
+  "categoryIds": [
+    1008
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/110e3b9f-3454-4253-bf2a-92ac158bd835/cover.png",
+  "package": "sources/keyboards/themes/110e3b9f-3454-4253-bf2a-92ac158bd835/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

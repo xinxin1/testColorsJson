@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": 1001,
+      "key": "cute",
+      "name": "Cute",
+      "themeCount": 89
+    },
+    {
+      "id": 1002,
+      "key": "love",
+      "name": "Love",
+      "themeCount": 104
+    },
+    {
+      "id": 1003,
+      "key": "neon",
+      "name": "Neon",
+      "themeCount": 87
+    },
+    {
+      "id": 1004,
+      "key": "cartoon",
+      "name": "Cartoon",
+      "themeCount": 74
+    },
+    {
+      "id": 1005,
+      "key": "game",
+      "name": "Game",
+      "themeCount": 55
+    },
+    {
+      "id": 1006,
+      "key": "galaxy",
+      "name": "Galaxy",
+      "themeCount": 79
+    },
+    {
+      "id": 1007,
+      "key": "fantasy",
+      "name": "Fantasy",
+      "themeCount": 73
+    },
+    {
+      "id": 1008,
+      "key": "simple",
+      "name": "Simple",
+      "themeCount": 56
+    },
+    {
+      "id": 1009,
+      "key": "flower",
+      "name": "Flower",
+      "themeCount": 20
+    },
+    {
+      "id": 1010,
+      "key": "technology",
+      "name": "Technology",
+      "themeCount": 40
+    },
+    {
+      "id": 1011,
+      "key": "festival",
+      "name": "Festival",
+      "themeCount": 65
+    },
+    {
+      "id": 1012,
+      "key": "dynamic",
+      "name": "Dynamic",
+      "themeCount": 151
+    },
+    {
+      "id": 1013,
+      "key": "dark",
+      "name": "Dark",
+      "themeCount": 44
+    },
+    {
+      "id": 1014,
+      "key": "classic",
+      "name": "Classic",
+      "themeCount": 224
+    }
+  ]
+}

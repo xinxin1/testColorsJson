@@ -1,0 +1,16 @@
+{
+  "id": "a6b65837-9797-4553-aa5e-88b4d4bc5123",
+  "name": "Phoenix Suns",
+  "fileName": "253_PhoenixSuns",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/a6b65837-9797-4553-aa5e-88b4d4bc5123/cover.png",
+  "package": "sources/keyboards/themes/a6b65837-9797-4553-aa5e-88b4d4bc5123/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

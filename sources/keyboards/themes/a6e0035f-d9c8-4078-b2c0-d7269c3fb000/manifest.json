@@ -1,0 +1,16 @@
+{
+  "id": "a6e0035f-d9c8-4078-b2c0-d7269c3fb000",
+  "name": "Spookytype",
+  "fileName": "338_Spookytype",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/a6e0035f-d9c8-4078-b2c0-d7269c3fb000/cover.png",
+  "package": "sources/keyboards/themes/a6e0035f-d9c8-4078-b2c0-d7269c3fb000/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

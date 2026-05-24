@@ -1,0 +1,17 @@
+{
+  "id": "86210db0-435f-4c58-935a-831f50040983",
+  "name": "Lovers Day",
+  "fileName": "301_LoversDay",
+  "categoryIds": [
+    1002,
+    1011
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/86210db0-435f-4c58-935a-831f50040983/cover.png",
+  "package": "sources/keyboards/themes/86210db0-435f-4c58-935a-831f50040983/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

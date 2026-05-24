@@ -1,0 +1,16 @@
+{
+  "id": "cc1c75ba-229c-4b96-b5c6-8a61a5178cc1",
+  "name": "Fairyland",
+  "fileName": "7_Fairyland",
+  "categoryIds": [
+    1007
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/cc1c75ba-229c-4b96-b5c6-8a61a5178cc1/cover.png",
+  "package": "sources/keyboards/themes/cc1c75ba-229c-4b96-b5c6-8a61a5178cc1/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

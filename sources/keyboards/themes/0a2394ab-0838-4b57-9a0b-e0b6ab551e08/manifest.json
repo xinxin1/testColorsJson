@@ -1,0 +1,16 @@
+{
+  "id": "0a2394ab-0838-4b57-9a0b-e0b6ab551e08",
+  "name": "Cupid",
+  "fileName": "143_Cupid",
+  "categoryIds": [
+    1002
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/0a2394ab-0838-4b57-9a0b-e0b6ab551e08/cover.png",
+  "package": "sources/keyboards/themes/0a2394ab-0838-4b57-9a0b-e0b6ab551e08/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

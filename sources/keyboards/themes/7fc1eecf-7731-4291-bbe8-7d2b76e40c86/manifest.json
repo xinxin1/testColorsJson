@@ -1,0 +1,16 @@
+{
+  "id": "7fc1eecf-7731-4291-bbe8-7d2b76e40c86",
+  "name": "Desert Traveler",
+  "fileName": "128_DesertTraveler",
+  "categoryIds": [
+    1005
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/7fc1eecf-7731-4291-bbe8-7d2b76e40c86/cover.png",
+  "package": "sources/keyboards/themes/7fc1eecf-7731-4291-bbe8-7d2b76e40c86/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cd366766-ed24-45eb-bb65-85dd92efb074",
+  "name": "Stray",
+  "fileName": "261_Stray",
+  "categoryIds": [
+    1005
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/cd366766-ed24-45eb-bb65-85dd92efb074/cover.png",
+  "package": "sources/keyboards/themes/cd366766-ed24-45eb-bb65-85dd92efb074/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

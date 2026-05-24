@@ -1,0 +1,17 @@
+{
+  "id": "575aa1e6-7853-41ab-8f7d-27aee4f720c4",
+  "name": "Cute Kirby",
+  "fileName": "251_CuteKirby",
+  "categoryIds": [
+    1001,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/575aa1e6-7853-41ab-8f7d-27aee4f720c4/cover.gif",
+  "package": "sources/keyboards/themes/575aa1e6-7853-41ab-8f7d-27aee4f720c4/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "6540efe3-54fb-4a60-9b61-962743003d1e",
+  "name": "Rose Flower",
+  "fileName": "39_RoseFlower",
+  "categoryIds": [
+    1002,
+    1009
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/6540efe3-54fb-4a60-9b61-962743003d1e/cover.png",
+  "package": "sources/keyboards/themes/6540efe3-54fb-4a60-9b61-962743003d1e/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

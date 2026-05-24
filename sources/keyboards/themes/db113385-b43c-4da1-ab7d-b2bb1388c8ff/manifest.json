@@ -1,0 +1,16 @@
+{
+  "id": "db113385-b43c-4da1-ab7d-b2bb1388c8ff",
+  "name": "Durant",
+  "fileName": "206_Durant",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/db113385-b43c-4da1-ab7d-b2bb1388c8ff/cover.png",
+  "package": "sources/keyboards/themes/db113385-b43c-4da1-ab7d-b2bb1388c8ff/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

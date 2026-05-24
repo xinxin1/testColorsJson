@@ -1,0 +1,16 @@
+{
+  "id": "cbd26506-122f-4861-9968-f7b4916f7b8b",
+  "name": "Baby Blue",
+  "fileName": "210_BabyBlue",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/cbd26506-122f-4861-9968-f7b4916f7b8b/cover.png",
+  "package": "sources/keyboards/themes/cbd26506-122f-4861-9968-f7b4916f7b8b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

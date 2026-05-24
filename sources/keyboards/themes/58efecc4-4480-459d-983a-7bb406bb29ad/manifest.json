@@ -1,0 +1,17 @@
+{
+  "id": "58efecc4-4480-459d-983a-7bb406bb29ad",
+  "name": "Back Light",
+  "fileName": "158_BackLight",
+  "categoryIds": [
+    1003,
+    1008
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/58efecc4-4480-459d-983a-7bb406bb29ad/cover.png",
+  "package": "sources/keyboards/themes/58efecc4-4480-459d-983a-7bb406bb29ad/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

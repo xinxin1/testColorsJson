@@ -1,0 +1,16 @@
+{
+  "id": "1fef4e06-3239-44bd-825d-719cc79a2b41",
+  "name": "Scorpio",
+  "fileName": "54_Scorpio",
+  "categoryIds": [
+    1006
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/1fef4e06-3239-44bd-825d-719cc79a2b41/cover.png",
+  "package": "sources/keyboards/themes/1fef4e06-3239-44bd-825d-719cc79a2b41/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "b99dad85-6064-44c2-8dd7-48eb06b3c21c",
+  "name": "Rapid Lightning",
+  "fileName": "21_RapidLightning",
+  "categoryIds": [
+    1003
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/b99dad85-6064-44c2-8dd7-48eb06b3c21c/cover.png",
+  "package": "sources/keyboards/themes/b99dad85-6064-44c2-8dd7-48eb06b3c21c/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

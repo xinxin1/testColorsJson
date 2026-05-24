@@ -1,0 +1,16 @@
+{
+  "id": "d1782b76-7565-47ce-a9d5-e3022d784b5c",
+  "name": "Sweet Heart",
+  "fileName": "99_SweetHeart",
+  "categoryIds": [
+    1002
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/d1782b76-7565-47ce-a9d5-e3022d784b5c/cover.png",
+  "package": "sources/keyboards/themes/d1782b76-7565-47ce-a9d5-e3022d784b5c/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "fbe029ce-4a02-4dd7-9279-c799d0acad8d",
+  "name": "Black Edged",
+  "fileName": "6_BlackEdged",
+  "categoryIds": [
+    1008,
+    1012,
+    1013
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/fbe029ce-4a02-4dd7-9279-c799d0acad8d/cover.png",
+  "package": "sources/keyboards/themes/fbe029ce-4a02-4dd7-9279-c799d0acad8d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

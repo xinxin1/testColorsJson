@@ -1,0 +1,16 @@
+{
+  "id": "ecb7a715-e3f1-4dc3-9229-9c6793705409",
+  "name": "Green",
+  "fileName": "157_Green",
+  "categoryIds": [
+    1008
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/ecb7a715-e3f1-4dc3-9229-9c6793705409/cover.png",
+  "package": "sources/keyboards/themes/ecb7a715-e3f1-4dc3-9229-9c6793705409/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

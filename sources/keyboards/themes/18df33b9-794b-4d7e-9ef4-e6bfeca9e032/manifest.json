@@ -1,0 +1,17 @@
+{
+  "id": "18df33b9-794b-4d7e-9ef4-e6bfeca9e032",
+  "name": "Pulp Fiction",
+  "fileName": "57_PulpFiction",
+  "categoryIds": [
+    1003,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/18df33b9-794b-4d7e-9ef4-e6bfeca9e032/cover.gif",
+  "package": "sources/keyboards/themes/18df33b9-794b-4d7e-9ef4-e6bfeca9e032/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

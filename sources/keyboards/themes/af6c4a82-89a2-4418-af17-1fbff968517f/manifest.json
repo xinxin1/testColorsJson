@@ -1,0 +1,16 @@
+{
+  "id": "af6c4a82-89a2-4418-af17-1fbff968517f",
+  "name": "Vast Universe",
+  "fileName": "161_VastUniverse",
+  "categoryIds": [
+    1006
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/af6c4a82-89a2-4418-af17-1fbff968517f/cover.png",
+  "package": "sources/keyboards/themes/af6c4a82-89a2-4418-af17-1fbff968517f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

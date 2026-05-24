@@ -1,0 +1,16 @@
+{
+  "id": "e8eebf24-1dcd-4ce3-971a-4e027433862b",
+  "name": "Sweetie",
+  "fileName": "100_Sweetie",
+  "categoryIds": [
+    1001
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e8eebf24-1dcd-4ce3-971a-4e027433862b/cover.png",
+  "package": "sources/keyboards/themes/e8eebf24-1dcd-4ce3-971a-4e027433862b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

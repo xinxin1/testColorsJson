@@ -1,0 +1,16 @@
+{
+  "id": "d01d96a4-d872-4b58-828d-a4a602b6ff79",
+  "name": "Cat",
+  "fileName": "17_Cat",
+  "categoryIds": [
+    1001
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/d01d96a4-d872-4b58-828d-a4a602b6ff79/cover.png",
+  "package": "sources/keyboards/themes/d01d96a4-d872-4b58-828d-a4a602b6ff79/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

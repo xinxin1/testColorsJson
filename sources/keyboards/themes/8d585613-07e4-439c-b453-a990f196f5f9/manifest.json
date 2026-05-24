@@ -1,0 +1,16 @@
+{
+  "id": "8d585613-07e4-439c-b453-a990f196f5f9",
+  "name": "Saiki Kusuo",
+  "fileName": "89_SaikiKusuo",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/8d585613-07e4-439c-b453-a990f196f5f9/cover.png",
+  "package": "sources/keyboards/themes/8d585613-07e4-439c-b453-a990f196f5f9/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

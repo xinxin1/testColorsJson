@@ -1,0 +1,16 @@
+{
+  "id": "e7619e60-0869-4a7e-b1f6-a869571905e4",
+  "name": "Purple Sticker",
+  "fileName": "69_PurpleSticker",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e7619e60-0869-4a7e-b1f6-a869571905e4/cover.png",
+  "package": "sources/keyboards/themes/e7619e60-0869-4a7e-b1f6-a869571905e4/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

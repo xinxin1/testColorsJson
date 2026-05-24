@@ -1,0 +1,16 @@
+{
+  "id": "2c491fa0-fd3a-4447-9393-011c07c46498",
+  "name": "Christmas Surprise",
+  "fileName": "286_ChristmasSurprise",
+  "categoryIds": [
+    1011
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/2c491fa0-fd3a-4447-9393-011c07c46498/cover.png",
+  "package": "sources/keyboards/themes/2c491fa0-fd3a-4447-9393-011c07c46498/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

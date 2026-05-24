@@ -1,0 +1,16 @@
+{
+  "id": "57ef17e9-604b-4402-b52d-83669814d323",
+  "name": "Hydrangea Macrophylla",
+  "fileName": "284_HydrangeaMacrophylla",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/57ef17e9-604b-4402-b52d-83669814d323/cover.png",
+  "package": "sources/keyboards/themes/57ef17e9-604b-4402-b52d-83669814d323/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

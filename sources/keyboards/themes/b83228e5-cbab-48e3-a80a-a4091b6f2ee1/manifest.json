@@ -1,0 +1,16 @@
+{
+  "id": "b83228e5-cbab-48e3-a80a-a4091b6f2ee1",
+  "name": "It Takes Two",
+  "fileName": "116_ItTakesTwo",
+  "categoryIds": [
+    1005
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/b83228e5-cbab-48e3-a80a-a4091b6f2ee1/cover.png",
+  "package": "sources/keyboards/themes/b83228e5-cbab-48e3-a80a-a4091b6f2ee1/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

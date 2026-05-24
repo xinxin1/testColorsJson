@@ -1,0 +1,16 @@
+{
+  "id": "02a218fc-df43-4583-818b-15ead0ef2a30",
+  "name": "Welcome",
+  "fileName": "179_Welcome",
+  "categoryIds": [
+    1010
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/02a218fc-df43-4583-818b-15ead0ef2a30/cover.png",
+  "package": "sources/keyboards/themes/02a218fc-df43-4583-818b-15ead0ef2a30/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "9358ddbd-3af7-457e-879d-72e31dfbbaee",
+  "name": "Black Club",
+  "fileName": "224_BlackClub",
+  "categoryIds": [
+    1008,
+    1013
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/9358ddbd-3af7-457e-879d-72e31dfbbaee/cover.png",
+  "package": "sources/keyboards/themes/9358ddbd-3af7-457e-879d-72e31dfbbaee/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

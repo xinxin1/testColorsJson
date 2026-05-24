@@ -1,0 +1,16 @@
+{
+  "id": "b24b4462-5bb5-4b36-9a07-f18634a0a9bf",
+  "name": "Satoru Gojo",
+  "fileName": "230_SatoruGojo",
+  "categoryIds": [
+    1004
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/b24b4462-5bb5-4b36-9a07-f18634a0a9bf/cover.png",
+  "package": "sources/keyboards/themes/b24b4462-5bb5-4b36-9a07-f18634a0a9bf/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

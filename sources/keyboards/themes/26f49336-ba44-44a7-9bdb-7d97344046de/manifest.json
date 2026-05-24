@@ -1,0 +1,16 @@
+{
+  "id": "26f49336-ba44-44a7-9bdb-7d97344046de",
+  "name": "Boston Celtics",
+  "fileName": "252_BostonCeltics",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/26f49336-ba44-44a7-9bdb-7d97344046de/cover.png",
+  "package": "sources/keyboards/themes/26f49336-ba44-44a7-9bdb-7d97344046de/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

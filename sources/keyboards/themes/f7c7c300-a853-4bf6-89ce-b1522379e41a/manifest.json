@@ -1,0 +1,16 @@
+{
+  "id": "f7c7c300-a853-4bf6-89ce-b1522379e41a",
+  "name": "Amethyst",
+  "fileName": "133_Amethyst",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/f7c7c300-a853-4bf6-89ce-b1522379e41a/cover.png",
+  "package": "sources/keyboards/themes/f7c7c300-a853-4bf6-89ce-b1522379e41a/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

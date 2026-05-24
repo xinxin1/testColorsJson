@@ -1,0 +1,16 @@
+{
+  "id": "453084e3-36b1-48aa-990e-b563f88b2720",
+  "name": "Plants VS Zombies",
+  "fileName": "262_PlantsVSZombies",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/453084e3-36b1-48aa-990e-b563f88b2720/cover.png",
+  "package": "sources/keyboards/themes/453084e3-36b1-48aa-990e-b563f88b2720/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

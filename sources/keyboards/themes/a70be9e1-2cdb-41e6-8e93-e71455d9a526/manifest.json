@@ -1,0 +1,17 @@
+{
+  "id": "a70be9e1-2cdb-41e6-8e93-e71455d9a526",
+  "name": "Spaz Cat",
+  "fileName": "90_SpazCat",
+  "categoryIds": [
+    1001,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/a70be9e1-2cdb-41e6-8e93-e71455d9a526/cover.mp4",
+  "package": "sources/keyboards/themes/a70be9e1-2cdb-41e6-8e93-e71455d9a526/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

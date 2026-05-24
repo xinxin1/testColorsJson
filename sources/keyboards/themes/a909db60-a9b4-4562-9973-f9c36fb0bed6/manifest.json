@@ -1,0 +1,16 @@
+{
+  "id": "a909db60-a9b4-4562-9973-f9c36fb0bed6",
+  "name": "Naruto Uzumaki",
+  "fileName": "50_NarutoUzumaki",
+  "categoryIds": [
+    1004
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/a909db60-a9b4-4562-9973-f9c36fb0bed6/cover.png",
+  "package": "sources/keyboards/themes/a909db60-a9b4-4562-9973-f9c36fb0bed6/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

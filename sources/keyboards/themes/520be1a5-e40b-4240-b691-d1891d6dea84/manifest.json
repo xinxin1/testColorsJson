@@ -1,0 +1,16 @@
+{
+  "id": "520be1a5-e40b-4240-b691-d1891d6dea84",
+  "name": "Say Yes",
+  "fileName": "167_SayYes",
+  "categoryIds": [
+    1003
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/520be1a5-e40b-4240-b691-d1891d6dea84/cover.png",
+  "package": "sources/keyboards/themes/520be1a5-e40b-4240-b691-d1891d6dea84/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

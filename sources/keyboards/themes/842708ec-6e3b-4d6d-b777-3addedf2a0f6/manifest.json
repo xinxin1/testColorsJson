@@ -1,0 +1,16 @@
+{
+  "id": "842708ec-6e3b-4d6d-b777-3addedf2a0f6",
+  "name": "Glittering",
+  "fileName": "85_Glittering",
+  "categoryIds": [
+    1003
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/842708ec-6e3b-4d6d-b777-3addedf2a0f6/cover.png",
+  "package": "sources/keyboards/themes/842708ec-6e3b-4d6d-b777-3addedf2a0f6/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

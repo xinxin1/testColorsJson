@@ -1,0 +1,18 @@
+{
+  "id": "2dd5c68d-49eb-40bb-a957-b7a201bcabf8",
+  "name": "Pikachu Pokemon",
+  "fileName": "248_PikachuPokemon",
+  "categoryIds": [
+    1001,
+    1004,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/2dd5c68d-49eb-40bb-a957-b7a201bcabf8/cover.gif",
+  "package": "sources/keyboards/themes/2dd5c68d-49eb-40bb-a957-b7a201bcabf8/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "83305c7c-37cb-4f16-9bed-1691985be684",
+  "name": "Gradient Color",
+  "fileName": "88_GradientColor",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/83305c7c-37cb-4f16-9bed-1691985be684/cover.png",
+  "package": "sources/keyboards/themes/83305c7c-37cb-4f16-9bed-1691985be684/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

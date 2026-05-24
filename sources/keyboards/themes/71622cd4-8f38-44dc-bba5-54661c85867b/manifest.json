@@ -1,0 +1,16 @@
+{
+  "id": "71622cd4-8f38-44dc-bba5-54661c85867b",
+  "name": "Your Name",
+  "fileName": "76_YourName",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/71622cd4-8f38-44dc-bba5-54661c85867b/cover.png",
+  "package": "sources/keyboards/themes/71622cd4-8f38-44dc-bba5-54661c85867b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

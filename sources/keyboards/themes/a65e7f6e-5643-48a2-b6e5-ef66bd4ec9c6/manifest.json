@@ -1,0 +1,16 @@
+{
+  "id": "a65e7f6e-5643-48a2-b6e5-ef66bd4ec9c6",
+  "name": "Cute Shark",
+  "fileName": "239_CuteShark",
+  "categoryIds": [
+    1001
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/a65e7f6e-5643-48a2-b6e5-ef66bd4ec9c6/cover.png",
+  "package": "sources/keyboards/themes/a65e7f6e-5643-48a2-b6e5-ef66bd4ec9c6/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

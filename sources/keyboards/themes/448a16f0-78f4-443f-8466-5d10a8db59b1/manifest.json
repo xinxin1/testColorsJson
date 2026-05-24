@@ -1,0 +1,16 @@
+{
+  "id": "448a16f0-78f4-443f-8466-5d10a8db59b1",
+  "name": "Rainbow",
+  "fileName": "19_Rainbow",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/448a16f0-78f4-443f-8466-5d10a8db59b1/cover.png",
+  "package": "sources/keyboards/themes/448a16f0-78f4-443f-8466-5d10a8db59b1/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

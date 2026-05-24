@@ -1,0 +1,16 @@
+{
+  "id": "7733d27e-3bc6-4138-9eed-44ea1f4027be",
+  "name": "Dark Purple",
+  "fileName": "222_DarkPurple",
+  "categoryIds": [
+    1013
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/7733d27e-3bc6-4138-9eed-44ea1f4027be/cover.png",
+  "package": "sources/keyboards/themes/7733d27e-3bc6-4138-9eed-44ea1f4027be/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "d12163c2-8d5e-4103-bfa4-e5185da7c9d1",
+  "name": "Fantasy",
+  "fileName": "52_Fantasy",
+  "categoryIds": [
+    1007
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/d12163c2-8d5e-4103-bfa4-e5185da7c9d1/cover.png",
+  "package": "sources/keyboards/themes/d12163c2-8d5e-4103-bfa4-e5185da7c9d1/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

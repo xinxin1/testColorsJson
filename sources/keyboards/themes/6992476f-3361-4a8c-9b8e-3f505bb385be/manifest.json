@@ -1,0 +1,16 @@
+{
+  "id": "6992476f-3361-4a8c-9b8e-3f505bb385be",
+  "name": "Jungle Games",
+  "fileName": "12_JungleGames",
+  "categoryIds": [
+    1005
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/6992476f-3361-4a8c-9b8e-3f505bb385be/cover.png",
+  "package": "sources/keyboards/themes/6992476f-3361-4a8c-9b8e-3f505bb385be/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

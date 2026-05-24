@@ -1,0 +1,16 @@
+{
+  "id": "c9544f28-e227-4e84-a012-5a3c3af7b164",
+  "name": "Children Christmas",
+  "fileName": "281_ChildrenChristmas",
+  "categoryIds": [
+    1011
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/c9544f28-e227-4e84-a012-5a3c3af7b164/cover.png",
+  "package": "sources/keyboards/themes/c9544f28-e227-4e84-a012-5a3c3af7b164/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fc79c0ca-786e-459c-9149-98bfad4e6f73",
+  "name": "Dark Neon",
+  "fileName": "138_DarkNeon",
+  "categoryIds": [
+    1003,
+    1013
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/fc79c0ca-786e-459c-9149-98bfad4e6f73/cover.png",
+  "package": "sources/keyboards/themes/fc79c0ca-786e-459c-9149-98bfad4e6f73/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

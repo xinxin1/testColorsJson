@@ -1,0 +1,16 @@
+{
+  "id": "e3236044-a8af-4f7f-ab11-b581910ac7ed",
+  "name": "Timothée Chalame",
+  "fileName": "218_TimotheeChalame",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/e3236044-a8af-4f7f-ab11-b581910ac7ed/cover.png",
+  "package": "sources/keyboards/themes/e3236044-a8af-4f7f-ab11-b581910ac7ed/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

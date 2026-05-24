@@ -1,0 +1,16 @@
+{
+  "id": "d0370cbd-81bf-4022-ab53-3e645d4d942a",
+  "name": "Colorful",
+  "fileName": "91_Colorful",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/d0370cbd-81bf-4022-ab53-3e645d4d942a/cover.png",
+  "package": "sources/keyboards/themes/d0370cbd-81bf-4022-ab53-3e645d4d942a/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

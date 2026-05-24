@@ -1,0 +1,16 @@
+{
+  "id": "8ce6e8c9-f530-4c97-bb52-4b236b5dd72b",
+  "name": "Colorful Christmas",
+  "fileName": "282_ColorfulChristmas",
+  "categoryIds": [
+    1011
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/8ce6e8c9-f530-4c97-bb52-4b236b5dd72b/cover.png",
+  "package": "sources/keyboards/themes/8ce6e8c9-f530-4c97-bb52-4b236b5dd72b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

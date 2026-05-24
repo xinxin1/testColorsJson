@@ -1,0 +1,17 @@
+{
+  "id": "a2e3c002-04d4-4618-b351-4559526eaaf6",
+  "name": "Grey Pink",
+  "fileName": "11_GreyPink",
+  "categoryIds": [
+    1001,
+    1008
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/a2e3c002-04d4-4618-b351-4559526eaaf6/cover.png",
+  "package": "sources/keyboards/themes/a2e3c002-04d4-4618-b351-4559526eaaf6/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

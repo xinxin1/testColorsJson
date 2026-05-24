@@ -1,0 +1,17 @@
+{
+  "id": "cecb4bc3-d851-41e5-82c7-ccc21050ef76",
+  "name": "Halloween",
+  "fileName": "341_Halloween",
+  "categoryIds": [
+    1011,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/cecb4bc3-d851-41e5-82c7-ccc21050ef76/cover.gif",
+  "package": "sources/keyboards/themes/cecb4bc3-d851-41e5-82c7-ccc21050ef76/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

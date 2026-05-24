@@ -1,0 +1,18 @@
+{
+  "id": "f4d53fdf-a08b-4845-8f57-3f7291c7c75e",
+  "name": "Love You",
+  "fileName": "60_LoveYou",
+  "categoryIds": [
+    1001,
+    1002,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/f4d53fdf-a08b-4845-8f57-3f7291c7c75e/cover.gif",
+  "package": "sources/keyboards/themes/f4d53fdf-a08b-4845-8f57-3f7291c7c75e/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

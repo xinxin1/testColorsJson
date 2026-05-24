@@ -1,0 +1,17 @@
+{
+  "id": "dfc28dea-5424-4470-8153-2f989fc4ecbf",
+  "name": "Rose Flower",
+  "fileName": "93_RoseFlower",
+  "categoryIds": [
+    1002,
+    1009
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/dfc28dea-5424-4470-8153-2f989fc4ecbf/cover.png",
+  "package": "sources/keyboards/themes/dfc28dea-5424-4470-8153-2f989fc4ecbf/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

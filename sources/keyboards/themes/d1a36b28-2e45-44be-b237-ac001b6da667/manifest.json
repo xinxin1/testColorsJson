@@ -1,0 +1,17 @@
+{
+  "id": "d1a36b28-2e45-44be-b237-ac001b6da667",
+  "name": "Flaming Rose",
+  "fileName": "263_FlamingRose",
+  "categoryIds": [
+    1002,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/d1a36b28-2e45-44be-b237-ac001b6da667/cover.png",
+  "package": "sources/keyboards/themes/d1a36b28-2e45-44be-b237-ac001b6da667/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

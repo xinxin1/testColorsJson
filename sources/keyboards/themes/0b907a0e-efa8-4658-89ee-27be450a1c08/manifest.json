@@ -1,0 +1,16 @@
+{
+  "id": "0b907a0e-efa8-4658-89ee-27be450a1c08",
+  "name": "Light Violet",
+  "fileName": "212_LightViolet",
+  "categoryIds": [
+    1003
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/0b907a0e-efa8-4658-89ee-27be450a1c08/cover.png",
+  "package": "sources/keyboards/themes/0b907a0e-efa8-4658-89ee-27be450a1c08/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

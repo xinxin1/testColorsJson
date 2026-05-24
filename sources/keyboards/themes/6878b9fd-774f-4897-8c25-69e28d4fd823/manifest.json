@@ -1,0 +1,18 @@
+{
+  "id": "6878b9fd-774f-4897-8c25-69e28d4fd823",
+  "name": "Night Love",
+  "fileName": "250_NightLove",
+  "categoryIds": [
+    1002,
+    1012,
+    1013
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/6878b9fd-774f-4897-8c25-69e28d4fd823/cover.gif",
+  "package": "sources/keyboards/themes/6878b9fd-774f-4897-8c25-69e28d4fd823/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

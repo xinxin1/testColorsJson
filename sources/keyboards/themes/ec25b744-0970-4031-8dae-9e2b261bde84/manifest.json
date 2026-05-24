@@ -1,0 +1,16 @@
+{
+  "id": "ec25b744-0970-4031-8dae-9e2b261bde84",
+  "name": "Kratos",
+  "fileName": "62_Kratos",
+  "categoryIds": [
+    1005
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/ec25b744-0970-4031-8dae-9e2b261bde84/cover.png",
+  "package": "sources/keyboards/themes/ec25b744-0970-4031-8dae-9e2b261bde84/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

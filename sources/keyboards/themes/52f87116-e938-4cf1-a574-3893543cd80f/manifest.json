@@ -1,0 +1,16 @@
+{
+  "id": "52f87116-e938-4cf1-a574-3893543cd80f",
+  "name": "Gradual Green",
+  "fileName": "27_GradualGreen",
+  "categoryIds": [
+    1008
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/52f87116-e938-4cf1-a574-3893543cd80f/cover.png",
+  "package": "sources/keyboards/themes/52f87116-e938-4cf1-a574-3893543cd80f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

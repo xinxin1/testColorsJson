@@ -1,0 +1,16 @@
+{
+  "id": "a8ca9017-53bc-41ce-a8e6-ffc0fc35633e",
+  "name": "Milky Tea",
+  "fileName": "185_MilkyTea",
+  "categoryIds": [
+    1006
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/a8ca9017-53bc-41ce-a8e6-ffc0fc35633e/cover.png",
+  "package": "sources/keyboards/themes/a8ca9017-53bc-41ce-a8e6-ffc0fc35633e/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

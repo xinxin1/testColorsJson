@@ -1,0 +1,16 @@
+{
+  "id": "4cae026f-1df3-4ede-92e4-971d33b2e6df",
+  "name": "Treasure",
+  "fileName": "114_Treasure",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/4cae026f-1df3-4ede-92e4-971d33b2e6df/cover.png",
+  "package": "sources/keyboards/themes/4cae026f-1df3-4ede-92e4-971d33b2e6df/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

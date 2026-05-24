@@ -1,0 +1,17 @@
+{
+  "id": "70ee5a14-5ffe-48dd-90d4-66a7b3179155",
+  "name": "Moonstone",
+  "fileName": "1_Moonstone",
+  "categoryIds": [
+    1006,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/70ee5a14-5ffe-48dd-90d4-66a7b3179155/cover.png",
+  "package": "sources/keyboards/themes/70ee5a14-5ffe-48dd-90d4-66a7b3179155/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

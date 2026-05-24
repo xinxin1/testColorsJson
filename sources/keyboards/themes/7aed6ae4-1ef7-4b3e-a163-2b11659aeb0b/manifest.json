@@ -1,0 +1,16 @@
+{
+  "id": "7aed6ae4-1ef7-4b3e-a163-2b11659aeb0b",
+  "name": "Butter",
+  "fileName": "34_Butter",
+  "categoryIds": [
+    1001
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/7aed6ae4-1ef7-4b3e-a163-2b11659aeb0b/cover.png",
+  "package": "sources/keyboards/themes/7aed6ae4-1ef7-4b3e-a163-2b11659aeb0b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

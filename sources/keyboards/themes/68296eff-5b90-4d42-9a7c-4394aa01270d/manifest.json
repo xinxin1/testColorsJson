@@ -1,0 +1,16 @@
+{
+  "id": "68296eff-5b90-4d42-9a7c-4394aa01270d",
+  "name": "Space Explorer",
+  "fileName": "73_SpaceExplorer",
+  "categoryIds": [
+    1006
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/68296eff-5b90-4d42-9a7c-4394aa01270d/cover.png",
+  "package": "sources/keyboards/themes/68296eff-5b90-4d42-9a7c-4394aa01270d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

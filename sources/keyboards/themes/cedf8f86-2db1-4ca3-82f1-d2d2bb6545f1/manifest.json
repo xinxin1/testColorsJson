@@ -1,0 +1,16 @@
+{
+  "id": "cedf8f86-2db1-4ca3-82f1-d2d2bb6545f1",
+  "name": "Dota",
+  "fileName": "191_Dota",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/cedf8f86-2db1-4ca3-82f1-d2d2bb6545f1/cover.png",
+  "package": "sources/keyboards/themes/cedf8f86-2db1-4ca3-82f1-d2d2bb6545f1/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

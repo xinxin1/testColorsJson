@@ -1,0 +1,16 @@
+{
+  "id": "db6e1567-0fdf-4052-b45c-b66d1afdcae3",
+  "name": "Diamond",
+  "fileName": "135_Diamond",
+  "categoryIds": [
+    1003
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/db6e1567-0fdf-4052-b45c-b66d1afdcae3/cover.png",
+  "package": "sources/keyboards/themes/db6e1567-0fdf-4052-b45c-b66d1afdcae3/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

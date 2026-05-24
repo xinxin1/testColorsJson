@@ -1,0 +1,16 @@
+{
+  "id": "11b52bb9-692f-420e-82fb-c05b02e51dab",
+  "name": "Crystal Bubble",
+  "fileName": "120_CrystalBubble",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/11b52bb9-692f-420e-82fb-c05b02e51dab/cover.png",
+  "package": "sources/keyboards/themes/11b52bb9-692f-420e-82fb-c05b02e51dab/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

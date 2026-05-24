@@ -1,0 +1,16 @@
+{
+  "id": "f352ca6c-6e98-4450-a071-c9268f758c18",
+  "name": "BarbiePink",
+  "fileName": "332_BarbiePink",
+  "categoryIds": [
+    1001
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/f352ca6c-6e98-4450-a071-c9268f758c18/cover.png",
+  "package": "sources/keyboards/themes/f352ca6c-6e98-4450-a071-c9268f758c18/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

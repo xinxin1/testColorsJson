@@ -1,0 +1,16 @@
+{
+  "id": "20c95300-5150-49e0-b0bf-1984a62591f6",
+  "name": "Chicory",
+  "fileName": "127_Chicory",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/20c95300-5150-49e0-b0bf-1984a62591f6/cover.png",
+  "package": "sources/keyboards/themes/20c95300-5150-49e0-b0bf-1984a62591f6/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

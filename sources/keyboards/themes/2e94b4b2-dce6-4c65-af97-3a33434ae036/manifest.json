@@ -1,0 +1,17 @@
+{
+  "id": "2e94b4b2-dce6-4c65-af97-3a33434ae036",
+  "name": "Pokemon",
+  "fileName": "119_Pokemon",
+  "categoryIds": [
+    1004,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/2e94b4b2-dce6-4c65-af97-3a33434ae036/cover.png",
+  "package": "sources/keyboards/themes/2e94b4b2-dce6-4c65-af97-3a33434ae036/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

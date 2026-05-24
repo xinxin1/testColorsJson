@@ -1,0 +1,17 @@
+{
+  "id": "6997dc4c-b4af-4337-80fc-ea51054b2865",
+  "name": "WaterCity",
+  "fileName": "181_WaterCity",
+  "categoryIds": [
+    1007,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/6997dc4c-b4af-4337-80fc-ea51054b2865/cover.png",
+  "package": "sources/keyboards/themes/6997dc4c-b4af-4337-80fc-ea51054b2865/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

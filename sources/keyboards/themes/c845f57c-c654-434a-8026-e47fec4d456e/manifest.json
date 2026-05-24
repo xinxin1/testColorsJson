@@ -1,0 +1,17 @@
+{
+  "id": "c845f57c-c654-434a-8026-e47fec4d456e",
+  "name": "Dancing Cat",
+  "fileName": "291_DancingCat",
+  "categoryIds": [
+    1001,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/c845f57c-c654-434a-8026-e47fec4d456e/cover.png",
+  "package": "sources/keyboards/themes/c845f57c-c654-434a-8026-e47fec4d456e/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

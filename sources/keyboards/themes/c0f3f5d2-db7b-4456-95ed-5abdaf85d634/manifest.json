@@ -1,0 +1,18 @@
+{
+  "id": "c0f3f5d2-db7b-4456-95ed-5abdaf85d634",
+  "name": "Dreamy Clouds",
+  "fileName": "254_DreamyClouds",
+  "categoryIds": [
+    1007,
+    1012,
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/c0f3f5d2-db7b-4456-95ed-5abdaf85d634/cover.gif",
+  "package": "sources/keyboards/themes/c0f3f5d2-db7b-4456-95ed-5abdaf85d634/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

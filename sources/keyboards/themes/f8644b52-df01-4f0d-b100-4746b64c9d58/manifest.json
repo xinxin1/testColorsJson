@@ -1,0 +1,17 @@
+{
+  "id": "f8644b52-df01-4f0d-b100-4746b64c9d58",
+  "name": "Pink Love",
+  "fileName": "101_PinkLove",
+  "categoryIds": [
+    1001,
+    1002
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/f8644b52-df01-4f0d-b100-4746b64c9d58/cover.png",
+  "package": "sources/keyboards/themes/f8644b52-df01-4f0d-b100-4746b64c9d58/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

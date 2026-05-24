@@ -1,0 +1,16 @@
+{
+  "id": "5c4bcd03-9378-4650-a132-631e7462980f",
+  "name": "EVA",
+  "fileName": "90_EVA",
+  "categoryIds": [
+    1004
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/5c4bcd03-9378-4650-a132-631e7462980f/cover.png",
+  "package": "sources/keyboards/themes/5c4bcd03-9378-4650-a132-631e7462980f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

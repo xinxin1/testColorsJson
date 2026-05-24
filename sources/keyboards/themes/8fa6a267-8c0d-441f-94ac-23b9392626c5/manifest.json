@@ -1,0 +1,16 @@
+{
+  "id": "8fa6a267-8c0d-441f-94ac-23b9392626c5",
+  "name": "Alien Baby",
+  "fileName": "221_AlienBaby",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/8fa6a267-8c0d-441f-94ac-23b9392626c5/cover.png",
+  "package": "sources/keyboards/themes/8fa6a267-8c0d-441f-94ac-23b9392626c5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

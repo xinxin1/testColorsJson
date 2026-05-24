@@ -1,0 +1,17 @@
+{
+  "id": "dd525f81-b787-47f2-9ec3-48f1e96ebbfb",
+  "name": "Space Travel",
+  "fileName": "220_SpaceTravel",
+  "categoryIds": [
+    1006,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/dd525f81-b787-47f2-9ec3-48f1e96ebbfb/cover.png",
+  "package": "sources/keyboards/themes/dd525f81-b787-47f2-9ec3-48f1e96ebbfb/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

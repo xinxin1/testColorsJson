@@ -1,0 +1,16 @@
+{
+  "id": "07de2404-1e6d-41ff-90e5-167f66ff8c93",
+  "name": "Avocado",
+  "fileName": "1_Avocado",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/07de2404-1e6d-41ff-90e5-167f66ff8c93/cover.png",
+  "package": "sources/keyboards/themes/07de2404-1e6d-41ff-90e5-167f66ff8c93/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

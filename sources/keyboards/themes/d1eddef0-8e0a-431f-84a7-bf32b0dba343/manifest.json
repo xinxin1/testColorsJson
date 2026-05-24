@@ -1,0 +1,16 @@
+{
+  "id": "d1eddef0-8e0a-431f-84a7-bf32b0dba343",
+  "name": "Super Galaxy",
+  "fileName": "305_SuperGalaxy",
+  "categoryIds": [
+    1006
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/d1eddef0-8e0a-431f-84a7-bf32b0dba343/cover.png",
+  "package": "sources/keyboards/themes/d1eddef0-8e0a-431f-84a7-bf32b0dba343/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

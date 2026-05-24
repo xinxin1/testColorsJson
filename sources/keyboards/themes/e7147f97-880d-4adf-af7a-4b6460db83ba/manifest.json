@@ -1,0 +1,16 @@
+{
+  "id": "e7147f97-880d-4adf-af7a-4b6460db83ba",
+  "name": "Purple",
+  "fileName": "64_Purple",
+  "categoryIds": [
+    1007
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e7147f97-880d-4adf-af7a-4b6460db83ba/cover.png",
+  "package": "sources/keyboards/themes/e7147f97-880d-4adf-af7a-4b6460db83ba/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

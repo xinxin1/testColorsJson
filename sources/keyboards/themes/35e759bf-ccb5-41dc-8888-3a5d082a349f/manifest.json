@@ -1,0 +1,16 @@
+{
+  "id": "35e759bf-ccb5-41dc-8888-3a5d082a349f",
+  "name": "Sanrio Family",
+  "fileName": "43_SanrioFamily",
+  "categoryIds": [
+    1001
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/35e759bf-ccb5-41dc-8888-3a5d082a349f/cover.png",
+  "package": "sources/keyboards/themes/35e759bf-ccb5-41dc-8888-3a5d082a349f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

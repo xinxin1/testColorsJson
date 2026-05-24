@@ -1,0 +1,16 @@
+{
+  "id": "e8ac783a-80ea-46d3-a4bd-6435dc374ed7",
+  "name": "Splendid Dream",
+  "fileName": "40_SplendidDream",
+  "categoryIds": [
+    1007
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/e8ac783a-80ea-46d3-a4bd-6435dc374ed7/cover.png",
+  "package": "sources/keyboards/themes/e8ac783a-80ea-46d3-a4bd-6435dc374ed7/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "240a4140-3330-4cf5-bb03-9b415c2e0a4c",
+  "name": "Hearthstone",
+  "fileName": "273_Hearthstone",
+  "categoryIds": [
+    1002,
+    1005
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/240a4140-3330-4cf5-bb03-9b415c2e0a4c/cover.png",
+  "package": "sources/keyboards/themes/240a4140-3330-4cf5-bb03-9b415c2e0a4c/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

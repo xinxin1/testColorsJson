@@ -1,0 +1,16 @@
+{
+  "id": "71d0eed5-e8de-41ba-81f5-1f44f5d8a74a",
+  "name": "Sprouting love",
+  "fileName": "142_Sproutinglove",
+  "categoryIds": [
+    1002
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/71d0eed5-e8de-41ba-81f5-1f44f5d8a74a/cover.png",
+  "package": "sources/keyboards/themes/71d0eed5-e8de-41ba-81f5-1f44f5d8a74a/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

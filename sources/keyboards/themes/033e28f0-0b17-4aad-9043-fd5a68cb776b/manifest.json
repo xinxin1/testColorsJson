@@ -1,0 +1,17 @@
+{
+  "id": "033e28f0-0b17-4aad-9043-fd5a68cb776b",
+  "name": "Lovely Dolphin",
+  "fileName": "281_LovelyDolphin",
+  "categoryIds": [
+    1002,
+    1007
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/033e28f0-0b17-4aad-9043-fd5a68cb776b/cover.png",
+  "package": "sources/keyboards/themes/033e28f0-0b17-4aad-9043-fd5a68cb776b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "b92eb261-9253-44b3-9260-0052a13bbe03",
+  "name": "Santa Claus",
+  "fileName": "96_SantaClaus",
+  "categoryIds": [
+    1011,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/b92eb261-9253-44b3-9260-0052a13bbe03/cover.gif",
+  "package": "sources/keyboards/themes/b92eb261-9253-44b3-9260-0052a13bbe03/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

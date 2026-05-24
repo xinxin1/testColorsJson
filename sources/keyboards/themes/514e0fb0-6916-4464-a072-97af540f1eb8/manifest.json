@@ -1,0 +1,17 @@
+{
+  "id": "514e0fb0-6916-4464-a072-97af540f1eb8",
+  "name": "Neon Pride",
+  "fileName": "153_NeonPride",
+  "categoryIds": [
+    1003,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/514e0fb0-6916-4464-a072-97af540f1eb8/cover.png",
+  "package": "sources/keyboards/themes/514e0fb0-6916-4464-a072-97af540f1eb8/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

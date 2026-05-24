@@ -1,0 +1,16 @@
+{
+  "id": "2db8c8cb-c2e2-4eb4-b44b-5139f130dba7",
+  "name": "Celeste",
+  "fileName": "173_Celeste",
+  "categoryIds": [
+    1010
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/2db8c8cb-c2e2-4eb4-b44b-5139f130dba7/cover.png",
+  "package": "sources/keyboards/themes/2db8c8cb-c2e2-4eb4-b44b-5139f130dba7/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

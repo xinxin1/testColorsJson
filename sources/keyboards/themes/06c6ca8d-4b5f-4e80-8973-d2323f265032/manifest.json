@@ -1,0 +1,16 @@
+{
+  "id": "06c6ca8d-4b5f-4e80-8973-d2323f265032",
+  "name": "Secret Love",
+  "fileName": "17_SecretLove",
+  "categoryIds": [
+    1002
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/06c6ca8d-4b5f-4e80-8973-d2323f265032/cover.png",
+  "package": "sources/keyboards/themes/06c6ca8d-4b5f-4e80-8973-d2323f265032/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

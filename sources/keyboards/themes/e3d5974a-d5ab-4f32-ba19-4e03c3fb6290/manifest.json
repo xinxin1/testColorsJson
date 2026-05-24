@@ -1,0 +1,16 @@
+{
+  "id": "e3d5974a-d5ab-4f32-ba19-4e03c3fb6290",
+  "name": "Cheerful Christmas",
+  "fileName": "99_CheerfulChristmas",
+  "categoryIds": [
+    1011
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e3d5974a-d5ab-4f32-ba19-4e03c3fb6290/cover.png",
+  "package": "sources/keyboards/themes/e3d5974a-d5ab-4f32-ba19-4e03c3fb6290/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

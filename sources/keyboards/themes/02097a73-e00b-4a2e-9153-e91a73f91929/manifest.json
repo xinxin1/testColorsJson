@@ -1,0 +1,16 @@
+{
+  "id": "02097a73-e00b-4a2e-9153-e91a73f91929",
+  "name": "Devoted Love",
+  "fileName": "103_DevotedLove",
+  "categoryIds": [
+    1002
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/02097a73-e00b-4a2e-9153-e91a73f91929/cover.png",
+  "package": "sources/keyboards/themes/02097a73-e00b-4a2e-9153-e91a73f91929/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

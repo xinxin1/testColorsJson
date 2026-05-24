@@ -1,0 +1,17 @@
+{
+  "id": "69c78a7e-5293-475d-a832-44243871dfd4",
+  "name": "Dreamy Starry",
+  "fileName": "126_DreamyStarry",
+  "categoryIds": [
+    1006,
+    1007
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/69c78a7e-5293-475d-a832-44243871dfd4/cover.png",
+  "package": "sources/keyboards/themes/69c78a7e-5293-475d-a832-44243871dfd4/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

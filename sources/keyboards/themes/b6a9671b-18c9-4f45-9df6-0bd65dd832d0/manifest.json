@@ -1,0 +1,16 @@
+{
+  "id": "b6a9671b-18c9-4f45-9df6-0bd65dd832d0",
+  "name": "Hogwarts Legacy",
+  "fileName": "143_HogwartsLegacy",
+  "categoryIds": [
+    1005
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/b6a9671b-18c9-4f45-9df6-0bd65dd832d0/cover.png",
+  "package": "sources/keyboards/themes/b6a9671b-18c9-4f45-9df6-0bd65dd832d0/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

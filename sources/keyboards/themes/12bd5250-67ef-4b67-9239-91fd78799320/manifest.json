@@ -1,0 +1,16 @@
+{
+  "id": "12bd5250-67ef-4b67-9239-91fd78799320",
+  "name": "James",
+  "fileName": "204_James",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/12bd5250-67ef-4b67-9239-91fd78799320/cover.png",
+  "package": "sources/keyboards/themes/12bd5250-67ef-4b67-9239-91fd78799320/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

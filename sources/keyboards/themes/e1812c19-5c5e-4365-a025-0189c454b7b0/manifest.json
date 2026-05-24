@@ -1,0 +1,16 @@
+{
+  "id": "e1812c19-5c5e-4365-a025-0189c454b7b0",
+  "name": "Sagittarius",
+  "fileName": "122_Sagittarius",
+  "categoryIds": [
+    1006
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/e1812c19-5c5e-4365-a025-0189c454b7b0/cover.png",
+  "package": "sources/keyboards/themes/e1812c19-5c5e-4365-a025-0189c454b7b0/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

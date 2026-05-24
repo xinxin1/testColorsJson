@@ -1,0 +1,16 @@
+{
+  "id": "f0c40223-d3e7-4ad9-b19e-f15b3e1b275f",
+  "name": "Cool Summer",
+  "fileName": "53_CoolSummer",
+  "categoryIds": [
+    1007
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/f0c40223-d3e7-4ad9-b19e-f15b3e1b275f/cover.png",
+  "package": "sources/keyboards/themes/f0c40223-d3e7-4ad9-b19e-f15b3e1b275f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

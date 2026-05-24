@@ -1,0 +1,17 @@
+{
+  "id": "374b48b5-a602-4b4e-a805-392ff6f90c88",
+  "name": "Good Night",
+  "fileName": "299_GoodNight",
+  "categoryIds": [
+    1012,
+    1013
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/374b48b5-a602-4b4e-a805-392ff6f90c88/cover.png",
+  "package": "sources/keyboards/themes/374b48b5-a602-4b4e-a805-392ff6f90c88/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "9bde4c9e-b1e0-49be-ad9d-cea4182af21d",
+  "name": "Seabed",
+  "fileName": "172_Seabed",
+  "categoryIds": [
+    1007,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/9bde4c9e-b1e0-49be-ad9d-cea4182af21d/cover.png",
+  "package": "sources/keyboards/themes/9bde4c9e-b1e0-49be-ad9d-cea4182af21d/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

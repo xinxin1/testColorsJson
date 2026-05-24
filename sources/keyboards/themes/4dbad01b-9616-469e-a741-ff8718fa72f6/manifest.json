@@ -1,0 +1,17 @@
+{
+  "id": "4dbad01b-9616-469e-a741-ff8718fa72f6",
+  "name": "Dead Love",
+  "fileName": "243_DeadLove",
+  "categoryIds": [
+    1002,
+    1013
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/4dbad01b-9616-469e-a741-ff8718fa72f6/cover.png",
+  "package": "sources/keyboards/themes/4dbad01b-9616-469e-a741-ff8718fa72f6/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

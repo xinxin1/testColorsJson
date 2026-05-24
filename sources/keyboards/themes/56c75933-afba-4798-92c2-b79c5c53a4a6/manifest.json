@@ -1,0 +1,16 @@
+{
+  "id": "56c75933-afba-4798-92c2-b79c5c53a4a6",
+  "name": "Wishing Tree",
+  "fileName": "307_WishingTree",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/56c75933-afba-4798-92c2-b79c5c53a4a6/cover.png",
+  "package": "sources/keyboards/themes/56c75933-afba-4798-92c2-b79c5c53a4a6/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

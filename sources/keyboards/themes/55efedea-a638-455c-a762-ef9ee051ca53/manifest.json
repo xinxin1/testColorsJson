@@ -1,0 +1,16 @@
+{
+  "id": "55efedea-a638-455c-a762-ef9ee051ca53",
+  "name": "Ice Blue",
+  "fileName": "19_IceBlue",
+  "categoryIds": [
+    1003
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/55efedea-a638-455c-a762-ef9ee051ca53/cover.png",
+  "package": "sources/keyboards/themes/55efedea-a638-455c-a762-ef9ee051ca53/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

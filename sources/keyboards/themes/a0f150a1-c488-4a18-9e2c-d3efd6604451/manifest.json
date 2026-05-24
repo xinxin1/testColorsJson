@@ -1,0 +1,16 @@
+{
+  "id": "a0f150a1-c488-4a18-9e2c-d3efd6604451",
+  "name": "Jinx",
+  "fileName": "77_Jinx",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/a0f150a1-c488-4a18-9e2c-d3efd6604451/cover.png",
+  "package": "sources/keyboards/themes/a0f150a1-c488-4a18-9e2c-d3efd6604451/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

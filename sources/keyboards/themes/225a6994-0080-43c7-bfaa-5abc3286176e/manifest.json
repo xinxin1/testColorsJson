@@ -1,0 +1,17 @@
+{
+  "id": "225a6994-0080-43c7-bfaa-5abc3286176e",
+  "name": "Running Puppy",
+  "fileName": "292_RunningPuppy",
+  "categoryIds": [
+    1001,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/225a6994-0080-43c7-bfaa-5abc3286176e/cover.png",
+  "package": "sources/keyboards/themes/225a6994-0080-43c7-bfaa-5abc3286176e/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

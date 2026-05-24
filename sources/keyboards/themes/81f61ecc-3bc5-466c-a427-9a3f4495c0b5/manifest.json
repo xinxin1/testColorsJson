@@ -1,0 +1,16 @@
+{
+  "id": "81f61ecc-3bc5-466c-a427-9a3f4495c0b5",
+  "name": "Bubble",
+  "fileName": "9_Bubble",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/81f61ecc-3bc5-466c-a427-9a3f4495c0b5/cover.png",
+  "package": "sources/keyboards/themes/81f61ecc-3bc5-466c-a427-9a3f4495c0b5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

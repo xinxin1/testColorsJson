@@ -1,0 +1,16 @@
+{
+  "id": "be0bf856-da83-424d-870c-433559948def",
+  "name": "Ignite 2026",
+  "fileName": "397_Ignite2026",
+  "categoryIds": [
+    1011
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/be0bf856-da83-424d-870c-433559948def/cover.png",
+  "package": "sources/keyboards/themes/be0bf856-da83-424d-870c-433559948def/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

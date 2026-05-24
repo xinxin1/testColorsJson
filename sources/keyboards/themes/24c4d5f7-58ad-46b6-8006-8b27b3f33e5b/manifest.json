@@ -1,0 +1,16 @@
+{
+  "id": "24c4d5f7-58ad-46b6-8006-8b27b3f33e5b",
+  "name": "Pearl Powder",
+  "fileName": "40_PearlPowder",
+  "categoryIds": [
+    1003
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/24c4d5f7-58ad-46b6-8006-8b27b3f33e5b/cover.png",
+  "package": "sources/keyboards/themes/24c4d5f7-58ad-46b6-8006-8b27b3f33e5b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

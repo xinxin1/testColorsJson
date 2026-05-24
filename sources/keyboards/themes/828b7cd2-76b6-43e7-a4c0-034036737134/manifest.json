@@ -1,0 +1,16 @@
+{
+  "id": "828b7cd2-76b6-43e7-a4c0-034036737134",
+  "name": "Say Yes",
+  "fileName": "167_SayYes",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/828b7cd2-76b6-43e7-a4c0-034036737134/cover.png",
+  "package": "sources/keyboards/themes/828b7cd2-76b6-43e7-a4c0-034036737134/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

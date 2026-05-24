@@ -1,0 +1,16 @@
+{
+  "id": "9b0a53bc-5fbc-42e5-9eb0-73fe842d11f4",
+  "name": "Simple Lines",
+  "fileName": "198_SimpleLines",
+  "categoryIds": [
+    1008
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/9b0a53bc-5fbc-42e5-9eb0-73fe842d11f4/cover.png",
+  "package": "sources/keyboards/themes/9b0a53bc-5fbc-42e5-9eb0-73fe842d11f4/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "0e1cedbb-f2e5-4134-b491-153e51527dc3",
+  "name": "Enamored",
+  "fileName": "216_Enamored",
+  "categoryIds": [
+    1002
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/0e1cedbb-f2e5-4134-b491-153e51527dc3/cover.png",
+  "package": "sources/keyboards/themes/0e1cedbb-f2e5-4134-b491-153e51527dc3/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "68e78f55-d8ac-4ac2-b2f0-9a4921c4f419",
+  "name": "Hot Center",
+  "fileName": "258_HotCenter",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/68e78f55-d8ac-4ac2-b2f0-9a4921c4f419/cover.png",
+  "package": "sources/keyboards/themes/68e78f55-d8ac-4ac2-b2f0-9a4921c4f419/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

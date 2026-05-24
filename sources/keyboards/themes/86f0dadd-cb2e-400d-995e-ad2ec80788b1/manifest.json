@@ -1,0 +1,16 @@
+{
+  "id": "86f0dadd-cb2e-400d-995e-ad2ec80788b1",
+  "name": "SEKIRO",
+  "fileName": "164_SEKIRO",
+  "categoryIds": [
+    1005
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/86f0dadd-cb2e-400d-995e-ad2ec80788b1/cover.png",
+  "package": "sources/keyboards/themes/86f0dadd-cb2e-400d-995e-ad2ec80788b1/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

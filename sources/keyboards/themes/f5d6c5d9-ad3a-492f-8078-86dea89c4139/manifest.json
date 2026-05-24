@@ -1,0 +1,16 @@
+{
+  "id": "f5d6c5d9-ad3a-492f-8078-86dea89c4139",
+  "name": "Smile",
+  "fileName": "156_Smile",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/f5d6c5d9-ad3a-492f-8078-86dea89c4139/cover.png",
+  "package": "sources/keyboards/themes/f5d6c5d9-ad3a-492f-8078-86dea89c4139/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

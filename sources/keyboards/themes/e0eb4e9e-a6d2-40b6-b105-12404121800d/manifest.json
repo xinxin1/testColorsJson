@@ -1,0 +1,16 @@
+{
+  "id": "e0eb4e9e-a6d2-40b6-b105-12404121800d",
+  "name": "MerryRomi",
+  "fileName": "208_MerryRomi",
+  "categoryIds": [
+    1011
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e0eb4e9e-a6d2-40b6-b105-12404121800d/cover.png",
+  "package": "sources/keyboards/themes/e0eb4e9e-a6d2-40b6-b105-12404121800d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

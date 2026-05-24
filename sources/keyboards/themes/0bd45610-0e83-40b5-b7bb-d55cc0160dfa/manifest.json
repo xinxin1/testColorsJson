@@ -1,0 +1,16 @@
+{
+  "id": "0bd45610-0e83-40b5-b7bb-d55cc0160dfa",
+  "name": "Seint Seiya",
+  "fileName": "161_SeintSeiya",
+  "categoryIds": [
+    1004
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/0bd45610-0e83-40b5-b7bb-d55cc0160dfa/cover.png",
+  "package": "sources/keyboards/themes/0bd45610-0e83-40b5-b7bb-d55cc0160dfa/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

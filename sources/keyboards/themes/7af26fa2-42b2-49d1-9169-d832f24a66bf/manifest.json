@@ -1,0 +1,18 @@
+{
+  "id": "7af26fa2-42b2-49d1-9169-d832f24a66bf",
+  "name": "Blue Starlight",
+  "fileName": "87_BlueStarlight",
+  "categoryIds": [
+    1003,
+    1006,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/7af26fa2-42b2-49d1-9169-d832f24a66bf/cover.mp4",
+  "package": "sources/keyboards/themes/7af26fa2-42b2-49d1-9169-d832f24a66bf/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

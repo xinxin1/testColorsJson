@@ -1,0 +1,16 @@
+{
+  "id": "e2446ef6-6f96-4e3c-b846-34a6acaaf7d3",
+  "name": "BarbieGirl",
+  "fileName": "190_BarbieGirl",
+  "categoryIds": [
+    1002
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e2446ef6-6f96-4e3c-b846-34a6acaaf7d3/cover.png",
+  "package": "sources/keyboards/themes/e2446ef6-6f96-4e3c-b846-34a6acaaf7d3/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

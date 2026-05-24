@@ -1,0 +1,16 @@
+{
+  "id": "33c2b965-949f-4309-8f6f-93d23179b761",
+  "name": "REACTOR",
+  "fileName": "36_REACTOR",
+  "categoryIds": [
+    1010
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/33c2b965-949f-4309-8f6f-93d23179b761/cover.png",
+  "package": "sources/keyboards/themes/33c2b965-949f-4309-8f6f-93d23179b761/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

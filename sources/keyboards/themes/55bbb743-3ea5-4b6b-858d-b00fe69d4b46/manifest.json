@@ -1,0 +1,16 @@
+{
+  "id": "55bbb743-3ea5-4b6b-858d-b00fe69d4b46",
+  "name": "Wednesday Addams",
+  "fileName": "101_WednesdayAddams",
+  "categoryIds": [
+    1004
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/55bbb743-3ea5-4b6b-858d-b00fe69d4b46/cover.png",
+  "package": "sources/keyboards/themes/55bbb743-3ea5-4b6b-858d-b00fe69d4b46/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

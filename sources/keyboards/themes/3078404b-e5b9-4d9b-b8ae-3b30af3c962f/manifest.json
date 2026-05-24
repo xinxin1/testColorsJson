@@ -1,0 +1,16 @@
+{
+  "id": "3078404b-e5b9-4d9b-b8ae-3b30af3c962f",
+  "name": "Crystal Rose",
+  "fileName": "59_CrystalRose",
+  "categoryIds": [
+    1002
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/3078404b-e5b9-4d9b-b8ae-3b30af3c962f/cover.png",
+  "package": "sources/keyboards/themes/3078404b-e5b9-4d9b-b8ae-3b30af3c962f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

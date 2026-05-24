@@ -1,0 +1,16 @@
+{
+  "id": "2bd86885-1385-4062-911d-6ee62df61f85",
+  "name": "Skull Cartoon",
+  "fileName": "27_SkullCartoon",
+  "categoryIds": [
+    1004
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/2bd86885-1385-4062-911d-6ee62df61f85/cover.png",
+  "package": "sources/keyboards/themes/2bd86885-1385-4062-911d-6ee62df61f85/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

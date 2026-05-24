@@ -1,0 +1,17 @@
+{
+  "id": "1352f3e3-dd93-41bd-a9d6-6b43d7e5d537",
+  "name": "Pink Heart",
+  "fileName": "133_PinkHeart",
+  "categoryIds": [
+    1001,
+    1002
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/1352f3e3-dd93-41bd-a9d6-6b43d7e5d537/cover.png",
+  "package": "sources/keyboards/themes/1352f3e3-dd93-41bd-a9d6-6b43d7e5d537/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

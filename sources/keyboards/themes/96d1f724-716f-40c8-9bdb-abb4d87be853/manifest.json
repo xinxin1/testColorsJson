@@ -1,0 +1,16 @@
+{
+  "id": "96d1f724-716f-40c8-9bdb-abb4d87be853",
+  "name": "Perfect Lover",
+  "fileName": "64_PerfectLover",
+  "categoryIds": [
+    1002
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/96d1f724-716f-40c8-9bdb-abb4d87be853/cover.png",
+  "package": "sources/keyboards/themes/96d1f724-716f-40c8-9bdb-abb4d87be853/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

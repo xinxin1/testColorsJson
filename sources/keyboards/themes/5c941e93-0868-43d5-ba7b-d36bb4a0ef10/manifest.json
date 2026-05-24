@@ -1,0 +1,16 @@
+{
+  "id": "5c941e93-0868-43d5-ba7b-d36bb4a0ef10",
+  "name": "Gold Rose",
+  "fileName": "246_GoldRose",
+  "categoryIds": [
+    1002
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/5c941e93-0868-43d5-ba7b-d36bb4a0ef10/cover.png",
+  "package": "sources/keyboards/themes/5c941e93-0868-43d5-ba7b-d36bb4a0ef10/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

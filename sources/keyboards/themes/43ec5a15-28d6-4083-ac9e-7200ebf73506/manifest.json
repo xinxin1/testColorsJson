@@ -1,0 +1,17 @@
+{
+  "id": "43ec5a15-28d6-4083-ac9e-7200ebf73506",
+  "name": "Bewitched Love",
+  "fileName": "265_BewitchedLove",
+  "categoryIds": [
+    1002,
+    1009
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/43ec5a15-28d6-4083-ac9e-7200ebf73506/cover.png",
+  "package": "sources/keyboards/themes/43ec5a15-28d6-4083-ac9e-7200ebf73506/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "53a33231-f44f-48af-a54c-81705eedee2a",
+  "name": "Incredible Paradise",
+  "fileName": "308_IncredibleParadise",
+  "categoryIds": [
+    1007
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/53a33231-f44f-48af-a54c-81705eedee2a/cover.png",
+  "package": "sources/keyboards/themes/53a33231-f44f-48af-a54c-81705eedee2a/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

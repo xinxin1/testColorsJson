@@ -1,0 +1,17 @@
+{
+  "id": "48c3e708-0128-4718-8eb1-610ee927cc54",
+  "name": "Zenitsu",
+  "fileName": "244_Zenitsu",
+  "categoryIds": [
+    1004,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/48c3e708-0128-4718-8eb1-610ee927cc54/cover.gif",
+  "package": "sources/keyboards/themes/48c3e708-0128-4718-8eb1-610ee927cc54/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "b5dbf73c-23de-4534-8836-2c2d8e3d9979",
+  "name": "Miami Heat",
+  "fileName": "251_MiamiHeat",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/b5dbf73c-23de-4534-8836-2c2d8e3d9979/cover.png",
+  "package": "sources/keyboards/themes/b5dbf73c-23de-4534-8836-2c2d8e3d9979/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

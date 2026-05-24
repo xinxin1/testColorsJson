@@ -1,0 +1,16 @@
+{
+  "id": "5530a67e-704e-47f8-8e4d-a3e323f52e47",
+  "name": "Born Of Fire",
+  "fileName": "36_BornOfFire",
+  "categoryIds": [
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/5530a67e-704e-47f8-8e4d-a3e323f52e47/cover.png",
+  "package": "sources/keyboards/themes/5530a67e-704e-47f8-8e4d-a3e323f52e47/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

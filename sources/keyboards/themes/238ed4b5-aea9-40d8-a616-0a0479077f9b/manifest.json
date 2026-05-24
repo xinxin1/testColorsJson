@@ -1,0 +1,16 @@
+{
+  "id": "238ed4b5-aea9-40d8-a616-0a0479077f9b",
+  "name": "Angel Wings",
+  "fileName": "29_AngelWings",
+  "categoryIds": [
+    1007
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/238ed4b5-aea9-40d8-a616-0a0479077f9b/cover.png",
+  "package": "sources/keyboards/themes/238ed4b5-aea9-40d8-a616-0a0479077f9b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

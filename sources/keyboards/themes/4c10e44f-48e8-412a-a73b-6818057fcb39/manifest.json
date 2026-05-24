@@ -1,0 +1,18 @@
+{
+  "id": "4c10e44f-48e8-412a-a73b-6818057fcb39",
+  "name": "Lovely Stitch",
+  "fileName": "304_LovelyStitch",
+  "categoryIds": [
+    1001,
+    1002,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/4c10e44f-48e8-412a-a73b-6818057fcb39/cover.png",
+  "package": "sources/keyboards/themes/4c10e44f-48e8-412a-a73b-6818057fcb39/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

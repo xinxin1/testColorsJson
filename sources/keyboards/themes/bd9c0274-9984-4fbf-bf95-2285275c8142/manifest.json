@@ -1,0 +1,16 @@
+{
+  "id": "bd9c0274-9984-4fbf-bf95-2285275c8142",
+  "name": "Bear Cookies",
+  "fileName": "183_BearCookies",
+  "categoryIds": [
+    1001
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/bd9c0274-9984-4fbf-bf95-2285275c8142/cover.png",
+  "package": "sources/keyboards/themes/bd9c0274-9984-4fbf-bf95-2285275c8142/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

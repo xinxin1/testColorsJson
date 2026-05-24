@@ -1,0 +1,16 @@
+{
+  "id": "c24be7f9-151d-4c5c-a676-78c2076d841e",
+  "name": "Fantasy Wonderland",
+  "fileName": "280_FantasyWonderland",
+  "categoryIds": [
+    1007
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/c24be7f9-151d-4c5c-a676-78c2076d841e/cover.png",
+  "package": "sources/keyboards/themes/c24be7f9-151d-4c5c-a676-78c2076d841e/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "4c4f9a60-f4e1-4c88-920a-ec1c6304062f",
+  "name": "Hello 2026",
+  "fileName": "322_Hello2026",
+  "categoryIds": [
+    1011
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/4c4f9a60-f4e1-4c88-920a-ec1c6304062f/cover.png",
+  "package": "sources/keyboards/themes/4c4f9a60-f4e1-4c88-920a-ec1c6304062f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

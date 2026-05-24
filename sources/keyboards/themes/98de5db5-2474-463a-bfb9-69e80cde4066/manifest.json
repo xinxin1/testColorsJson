@@ -1,0 +1,16 @@
+{
+  "id": "98de5db5-2474-463a-bfb9-69e80cde4066",
+  "name": "Snow Gifts",
+  "fileName": "369_SnowGifts",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/98de5db5-2474-463a-bfb9-69e80cde4066/cover.png",
+  "package": "sources/keyboards/themes/98de5db5-2474-463a-bfb9-69e80cde4066/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

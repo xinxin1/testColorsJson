@@ -1,0 +1,17 @@
+{
+  "id": "ff2b6b10-7715-43f5-b0a4-13af642c3acb",
+  "name": "Sparkling",
+  "fileName": "84_Sparkling",
+  "categoryIds": [
+    1003,
+    1007
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/ff2b6b10-7715-43f5-b0a4-13af642c3acb/cover.png",
+  "package": "sources/keyboards/themes/ff2b6b10-7715-43f5-b0a4-13af642c3acb/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

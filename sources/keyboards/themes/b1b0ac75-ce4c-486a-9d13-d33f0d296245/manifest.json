@@ -1,0 +1,16 @@
+{
+  "id": "b1b0ac75-ce4c-486a-9d13-d33f0d296245",
+  "name": "Capricorn",
+  "fileName": "123_Capricorn",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/b1b0ac75-ce4c-486a-9d13-d33f0d296245/cover.png",
+  "package": "sources/keyboards/themes/b1b0ac75-ce4c-486a-9d13-d33f0d296245/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

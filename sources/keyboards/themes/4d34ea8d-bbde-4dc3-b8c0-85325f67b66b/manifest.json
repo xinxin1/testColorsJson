@@ -1,0 +1,16 @@
+{
+  "id": "4d34ea8d-bbde-4dc3-b8c0-85325f67b66b",
+  "name": "Stephen Curry",
+  "fileName": "207_StephenCurry",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/4d34ea8d-bbde-4dc3-b8c0-85325f67b66b/cover.png",
+  "package": "sources/keyboards/themes/4d34ea8d-bbde-4dc3-b8c0-85325f67b66b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "c40da568-0bac-448c-9c5d-e5892fed516c",
+  "name": "World Of Warcraft",
+  "fileName": "145_WorldOfWarcraft",
+  "categoryIds": [
+    1005
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/c40da568-0bac-448c-9c5d-e5892fed516c/cover.png",
+  "package": "sources/keyboards/themes/c40da568-0bac-448c-9c5d-e5892fed516c/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

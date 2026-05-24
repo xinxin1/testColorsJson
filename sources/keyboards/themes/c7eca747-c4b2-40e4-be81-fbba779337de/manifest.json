@@ -1,0 +1,16 @@
+{
+  "id": "c7eca747-c4b2-40e4-be81-fbba779337de",
+  "name": "Blue Grid",
+  "fileName": "228_BlueGrid",
+  "categoryIds": [
+    1001
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/c7eca747-c4b2-40e4-be81-fbba779337de/cover.png",
+  "package": "sources/keyboards/themes/c7eca747-c4b2-40e4-be81-fbba779337de/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

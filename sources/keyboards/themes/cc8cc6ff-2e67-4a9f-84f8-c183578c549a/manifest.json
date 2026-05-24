@@ -1,0 +1,16 @@
+{
+  "id": "cc8cc6ff-2e67-4a9f-84f8-c183578c549a",
+  "name": "Rainbow Sky",
+  "fileName": "180_RainbowSky",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/cc8cc6ff-2e67-4a9f-84f8-c183578c549a/cover.png",
+  "package": "sources/keyboards/themes/cc8cc6ff-2e67-4a9f-84f8-c183578c549a/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

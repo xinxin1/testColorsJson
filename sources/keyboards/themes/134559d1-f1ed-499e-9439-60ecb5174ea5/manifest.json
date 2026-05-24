@@ -1,0 +1,16 @@
+{
+  "id": "134559d1-f1ed-499e-9439-60ecb5174ea5",
+  "name": "Plantsvs Zombies",
+  "fileName": "222_PlantsvsZombies",
+  "categoryIds": [
+    1005
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/134559d1-f1ed-499e-9439-60ecb5174ea5/cover.png",
+  "package": "sources/keyboards/themes/134559d1-f1ed-499e-9439-60ecb5174ea5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

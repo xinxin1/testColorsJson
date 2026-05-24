@@ -1,0 +1,16 @@
+{
+  "id": "d30b1224-e432-47c2-b937-7da70e39edb5",
+  "name": "Daisy",
+  "fileName": "77_Daisy",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/d30b1224-e432-47c2-b937-7da70e39edb5/cover.png",
+  "package": "sources/keyboards/themes/d30b1224-e432-47c2-b937-7da70e39edb5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

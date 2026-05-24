@@ -1,0 +1,16 @@
+{
+  "id": "cd541f1a-d3bb-4f9a-b22b-98c88b4eb403",
+  "name": "Squid",
+  "fileName": "26_Squid",
+  "categoryIds": [
+    1005
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/cd541f1a-d3bb-4f9a-b22b-98c88b4eb403/cover.png",
+  "package": "sources/keyboards/themes/cd541f1a-d3bb-4f9a-b22b-98c88b4eb403/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

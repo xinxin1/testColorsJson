@@ -1,0 +1,16 @@
+{
+  "id": "ac327e60-a383-47f2-ab8c-502414dcdc0b",
+  "name": "Infatuation",
+  "fileName": "244_Infatuation",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/ac327e60-a383-47f2-ab8c-502414dcdc0b/cover.png",
+  "package": "sources/keyboards/themes/ac327e60-a383-47f2-ab8c-502414dcdc0b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "ac1d1151-5283-4ad9-8f99-1994eda7a193",
+  "name": "Among Us",
+  "fileName": "121_AmongUs",
+  "categoryIds": [
+    1005,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/ac1d1151-5283-4ad9-8f99-1994eda7a193/cover.png",
+  "package": "sources/keyboards/themes/ac1d1151-5283-4ad9-8f99-1994eda7a193/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "728e2d70-bd1e-4bb5-82b6-d9ec4c4931cb",
+  "name": "Samurai Mask",
+  "fileName": "28_SamuraiMask",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/728e2d70-bd1e-4bb5-82b6-d9ec4c4931cb/cover.png",
+  "package": "sources/keyboards/themes/728e2d70-bd1e-4bb5-82b6-d9ec4c4931cb/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

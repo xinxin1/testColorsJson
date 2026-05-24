@@ -1,0 +1,16 @@
+{
+  "id": "016ffa7e-9136-4b89-97fb-af67b5955ecc",
+  "name": "DevilMayCry5",
+  "fileName": "142_DevilMayCry5",
+  "categoryIds": [
+    1005
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/016ffa7e-9136-4b89-97fb-af67b5955ecc/cover.png",
+  "package": "sources/keyboards/themes/016ffa7e-9136-4b89-97fb-af67b5955ecc/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

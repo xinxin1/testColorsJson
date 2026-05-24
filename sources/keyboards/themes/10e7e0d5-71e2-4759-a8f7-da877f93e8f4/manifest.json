@@ -1,0 +1,17 @@
+{
+  "id": "10e7e0d5-71e2-4759-a8f7-da877f93e8f4",
+  "name": "Mutual Love",
+  "fileName": "304_MutualLove",
+  "categoryIds": [
+    1002,
+    1011
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/10e7e0d5-71e2-4759-a8f7-da877f93e8f4/cover.png",
+  "package": "sources/keyboards/themes/10e7e0d5-71e2-4759-a8f7-da877f93e8f4/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

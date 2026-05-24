@@ -1,0 +1,16 @@
+{
+  "id": "3cef5708-918b-40f6-b648-859272d11f37",
+  "name": "Skull Fire",
+  "fileName": "38_SkullFire",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/3cef5708-918b-40f6-b648-859272d11f37/cover.png",
+  "package": "sources/keyboards/themes/3cef5708-918b-40f6-b648-859272d11f37/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

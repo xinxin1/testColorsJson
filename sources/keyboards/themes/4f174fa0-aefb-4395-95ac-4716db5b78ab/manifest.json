@@ -1,0 +1,16 @@
+{
+  "id": "4f174fa0-aefb-4395-95ac-4716db5b78ab",
+  "name": "Universe",
+  "fileName": "259_Universe",
+  "categoryIds": [
+    1006
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/4f174fa0-aefb-4395-95ac-4716db5b78ab/cover.png",
+  "package": "sources/keyboards/themes/4f174fa0-aefb-4395-95ac-4716db5b78ab/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

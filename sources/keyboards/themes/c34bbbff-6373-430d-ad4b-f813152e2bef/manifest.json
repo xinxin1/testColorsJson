@@ -1,0 +1,16 @@
+{
+  "id": "c34bbbff-6373-430d-ad4b-f813152e2bef",
+  "name": "Heart Beat",
+  "fileName": "7_HeartBeat",
+  "categoryIds": [
+    1002
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/c34bbbff-6373-430d-ad4b-f813152e2bef/cover.png",
+  "package": "sources/keyboards/themes/c34bbbff-6373-430d-ad4b-f813152e2bef/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

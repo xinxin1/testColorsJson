@@ -1,0 +1,16 @@
+{
+  "id": "ae22a58b-9465-46d8-8ee9-f0fc14e4deaa",
+  "name": "Welcome 2026",
+  "fileName": "396_Welcome2026",
+  "categoryIds": [
+    1011
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/ae22a58b-9465-46d8-8ee9-f0fc14e4deaa/cover.png",
+  "package": "sources/keyboards/themes/ae22a58b-9465-46d8-8ee9-f0fc14e4deaa/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

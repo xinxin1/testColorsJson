@@ -1,0 +1,16 @@
+{
+  "id": "dfd38e22-270f-42fe-bf42-5b8814aaa3d9",
+  "name": "Denver Nuggets",
+  "fileName": "202_DenverNuggets",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/dfd38e22-270f-42fe-bf42-5b8814aaa3d9/cover.png",
+  "package": "sources/keyboards/themes/dfd38e22-270f-42fe-bf42-5b8814aaa3d9/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

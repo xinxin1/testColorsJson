@@ -1,0 +1,17 @@
+{
+  "id": "61c2097a-cf72-4c60-87dc-57b81a2b461f",
+  "name": "Universe Exploration",
+  "fileName": "13_UniverseExploration",
+  "categoryIds": [
+    1006,
+    1012
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/61c2097a-cf72-4c60-87dc-57b81a2b461f/cover.png",
+  "package": "sources/keyboards/themes/61c2097a-cf72-4c60-87dc-57b81a2b461f/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

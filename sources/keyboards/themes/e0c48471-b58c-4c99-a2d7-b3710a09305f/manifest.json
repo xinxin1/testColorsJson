@@ -1,0 +1,16 @@
+{
+  "id": "e0c48471-b58c-4c99-a2d7-b3710a09305f",
+  "name": "Dream Purple",
+  "fileName": "145_DreamPurple",
+  "categoryIds": [
+    1007
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e0c48471-b58c-4c99-a2d7-b3710a09305f/cover.png",
+  "package": "sources/keyboards/themes/e0c48471-b58c-4c99-a2d7-b3710a09305f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

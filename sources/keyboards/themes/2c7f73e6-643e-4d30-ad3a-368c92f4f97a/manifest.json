@@ -1,0 +1,16 @@
+{
+  "id": "2c7f73e6-643e-4d30-ad3a-368c92f4f97a",
+  "name": "ShibaInu",
+  "fileName": "3_ShibaInu",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/2c7f73e6-643e-4d30-ad3a-368c92f4f97a/cover.png",
+  "package": "sources/keyboards/themes/2c7f73e6-643e-4d30-ad3a-368c92f4f97a/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

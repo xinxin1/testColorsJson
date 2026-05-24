@@ -1,0 +1,16 @@
+{
+  "id": "295a5bf0-71df-4fd9-8643-ef6ebaec7e15",
+  "name": "Clash Royale",
+  "fileName": "272_ClashRoyale",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/295a5bf0-71df-4fd9-8643-ef6ebaec7e15/cover.png",
+  "package": "sources/keyboards/themes/295a5bf0-71df-4fd9-8643-ef6ebaec7e15/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

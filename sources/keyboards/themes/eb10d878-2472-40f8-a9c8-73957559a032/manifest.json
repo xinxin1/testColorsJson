@@ -1,0 +1,16 @@
+{
+  "id": "eb10d878-2472-40f8-a9c8-73957559a032",
+  "name": "Itadori Yuji",
+  "fileName": "250_ItadoriYuji",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/eb10d878-2472-40f8-a9c8-73957559a032/cover.png",
+  "package": "sources/keyboards/themes/eb10d878-2472-40f8-a9c8-73957559a032/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

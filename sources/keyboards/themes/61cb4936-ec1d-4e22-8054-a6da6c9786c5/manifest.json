@@ -1,0 +1,17 @@
+{
+  "id": "61cb4936-ec1d-4e22-8054-a6da6c9786c5",
+  "name": "CelestialBliss",
+  "fileName": "210_CelestialBliss",
+  "categoryIds": [
+    1011,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/61cb4936-ec1d-4e22-8054-a6da6c9786c5/cover.gif",
+  "package": "sources/keyboards/themes/61cb4936-ec1d-4e22-8054-a6da6c9786c5/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

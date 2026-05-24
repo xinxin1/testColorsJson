@@ -1,0 +1,16 @@
+{
+  "id": "763db9fe-abf0-4d2a-a9dc-7480bb8f29ed",
+  "name": "Liquid Aura",
+  "fileName": "307_LiquidAura",
+  "categoryIds": [
+    1010
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/763db9fe-abf0-4d2a-a9dc-7480bb8f29ed/cover.png",
+  "package": "sources/keyboards/themes/763db9fe-abf0-4d2a-a9dc-7480bb8f29ed/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

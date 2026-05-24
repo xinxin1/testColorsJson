@@ -1,0 +1,16 @@
+{
+  "id": "e66ceea7-f0f0-4c12-9b32-722609da98e0",
+  "name": "3Dimension",
+  "fileName": "342_3Dimension",
+  "categoryIds": [
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/e66ceea7-f0f0-4c12-9b32-722609da98e0/cover.png",
+  "package": "sources/keyboards/themes/e66ceea7-f0f0-4c12-9b32-722609da98e0/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

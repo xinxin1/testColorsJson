@@ -1,0 +1,16 @@
+{
+  "id": "2c0284a6-0205-4ba0-a44c-917592fa3ea1",
+  "name": "Colorful Flow",
+  "fileName": "382_ColorfulFlow",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/2c0284a6-0205-4ba0-a44c-917592fa3ea1/cover.png",
+  "package": "sources/keyboards/themes/2c0284a6-0205-4ba0-a44c-917592fa3ea1/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

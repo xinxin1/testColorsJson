@@ -1,0 +1,16 @@
+{
+  "id": "7f1183e7-3aed-49c7-9cf2-3f3cdfbd939b",
+  "name": "Starry",
+  "fileName": "124_Starry",
+  "categoryIds": [
+    1006
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/7f1183e7-3aed-49c7-9cf2-3f3cdfbd939b/cover.png",
+  "package": "sources/keyboards/themes/7f1183e7-3aed-49c7-9cf2-3f3cdfbd939b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

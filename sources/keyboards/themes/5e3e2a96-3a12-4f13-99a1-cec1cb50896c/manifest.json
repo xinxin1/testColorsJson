@@ -1,0 +1,16 @@
+{
+  "id": "5e3e2a96-3a12-4f13-99a1-cec1cb50896c",
+  "name": "Dream Boat",
+  "fileName": "25_DreamBoat",
+  "categoryIds": [
+    1007
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/5e3e2a96-3a12-4f13-99a1-cec1cb50896c/cover.png",
+  "package": "sources/keyboards/themes/5e3e2a96-3a12-4f13-99a1-cec1cb50896c/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

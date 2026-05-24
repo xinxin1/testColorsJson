@@ -1,0 +1,16 @@
+{
+  "id": "f45f632f-bc2c-47e4-9a26-7b33fc8dc452",
+  "name": "Crown",
+  "fileName": "223_Crown",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/f45f632f-bc2c-47e4-9a26-7b33fc8dc452/cover.png",
+  "package": "sources/keyboards/themes/f45f632f-bc2c-47e4-9a26-7b33fc8dc452/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

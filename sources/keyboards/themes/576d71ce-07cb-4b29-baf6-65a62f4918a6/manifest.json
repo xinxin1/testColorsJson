@@ -1,0 +1,16 @@
+{
+  "id": "576d71ce-07cb-4b29-baf6-65a62f4918a6",
+  "name": "MaskedType",
+  "fileName": "344_MaskedType",
+  "categoryIds": [
+    1003
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/576d71ce-07cb-4b29-baf6-65a62f4918a6/cover.png",
+  "package": "sources/keyboards/themes/576d71ce-07cb-4b29-baf6-65a62f4918a6/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

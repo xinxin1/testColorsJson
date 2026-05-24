@@ -1,0 +1,16 @@
+{
+  "id": "aec6b7f0-fb64-4d11-9985-6d3a22eafa42",
+  "name": "DRAGONBALL",
+  "fileName": "89_DRAGONBALL",
+  "categoryIds": [
+    1004
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/aec6b7f0-fb64-4d11-9985-6d3a22eafa42/cover.png",
+  "package": "sources/keyboards/themes/aec6b7f0-fb64-4d11-9985-6d3a22eafa42/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

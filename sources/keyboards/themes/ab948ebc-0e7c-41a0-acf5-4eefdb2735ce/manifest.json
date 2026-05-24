@@ -1,0 +1,16 @@
+{
+  "id": "ab948ebc-0e7c-41a0-acf5-4eefdb2735ce",
+  "name": "Translucent Tints",
+  "fileName": "306_TranslucentTints",
+  "categoryIds": [
+    1010
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/ab948ebc-0e7c-41a0-acf5-4eefdb2735ce/cover.png",
+  "package": "sources/keyboards/themes/ab948ebc-0e7c-41a0-acf5-4eefdb2735ce/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

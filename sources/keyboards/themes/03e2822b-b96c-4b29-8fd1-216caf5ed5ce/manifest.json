@@ -1,0 +1,16 @@
+{
+  "id": "03e2822b-b96c-4b29-8fd1-216caf5ed5ce",
+  "name": "Re Zero",
+  "fileName": "72_ReZero",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/03e2822b-b96c-4b29-8fd1-216caf5ed5ce/cover.png",
+  "package": "sources/keyboards/themes/03e2822b-b96c-4b29-8fd1-216caf5ed5ce/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

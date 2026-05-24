@@ -1,0 +1,16 @@
+{
+  "id": "f1f92d3b-7445-4be7-85ae-3690abc200b4",
+  "name": "Love",
+  "fileName": "18_Love",
+  "categoryIds": [
+    1002
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/f1f92d3b-7445-4be7-85ae-3690abc200b4/cover.png",
+  "package": "sources/keyboards/themes/f1f92d3b-7445-4be7-85ae-3690abc200b4/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

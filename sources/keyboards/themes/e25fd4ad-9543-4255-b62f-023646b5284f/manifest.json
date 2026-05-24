@@ -1,0 +1,16 @@
+{
+  "id": "e25fd4ad-9543-4255-b62f-023646b5284f",
+  "name": "Dog",
+  "fileName": "150_Dog",
+  "categoryIds": [
+    1001
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e25fd4ad-9543-4255-b62f-023646b5284f/cover.png",
+  "package": "sources/keyboards/themes/e25fd4ad-9543-4255-b62f-023646b5284f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

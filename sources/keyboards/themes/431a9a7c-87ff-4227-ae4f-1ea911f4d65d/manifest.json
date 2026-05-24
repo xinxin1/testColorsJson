@@ -1,0 +1,17 @@
+{
+  "id": "431a9a7c-87ff-4227-ae4f-1ea911f4d65d",
+  "name": "Cloud",
+  "fileName": "174_Cloud",
+  "categoryIds": [
+    1007,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/431a9a7c-87ff-4227-ae4f-1ea911f4d65d/cover.png",
+  "package": "sources/keyboards/themes/431a9a7c-87ff-4227-ae4f-1ea911f4d65d/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

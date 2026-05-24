@@ -1,0 +1,16 @@
+{
+  "id": "5ce746a5-008b-4da9-97a9-a179f2592d89",
+  "name": "Cartwheel Galaxy",
+  "fileName": "312_CartwheelGalaxy",
+  "categoryIds": [
+    1006
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/5ce746a5-008b-4da9-97a9-a179f2592d89/cover.png",
+  "package": "sources/keyboards/themes/5ce746a5-008b-4da9-97a9-a179f2592d89/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

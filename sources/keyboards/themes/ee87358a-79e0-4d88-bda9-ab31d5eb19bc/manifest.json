@@ -1,0 +1,16 @@
+{
+  "id": "ee87358a-79e0-4d88-bda9-ab31d5eb19bc",
+  "name": "Mechanical Geisha",
+  "fileName": "73_MechanicalGeisha",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/ee87358a-79e0-4d88-bda9-ab31d5eb19bc/cover.png",
+  "package": "sources/keyboards/themes/ee87358a-79e0-4d88-bda9-ab31d5eb19bc/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "fab0c779-ae72-43d1-8de6-ff5e29d1efc1",
+  "name": "Fresh Natural",
+  "fileName": "13_FreshNatural",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/fab0c779-ae72-43d1-8de6-ff5e29d1efc1/cover.png",
+  "package": "sources/keyboards/themes/fab0c779-ae72-43d1-8de6-ff5e29d1efc1/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

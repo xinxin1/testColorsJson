@@ -1,0 +1,16 @@
+{
+  "id": "253fab2a-fa67-4749-abd0-fdf20ad39d4b",
+  "name": "Japanese Food",
+  "fileName": "43_JapaneseFood",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/253fab2a-fa67-4749-abd0-fdf20ad39d4b/cover.png",
+  "package": "sources/keyboards/themes/253fab2a-fa67-4749-abd0-fdf20ad39d4b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

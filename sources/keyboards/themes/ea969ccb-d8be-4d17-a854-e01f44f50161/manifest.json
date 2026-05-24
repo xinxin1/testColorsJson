@@ -1,0 +1,16 @@
+{
+  "id": "ea969ccb-d8be-4d17-a854-e01f44f50161",
+  "name": "Colorful",
+  "fileName": "10_Colorful",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/ea969ccb-d8be-4d17-a854-e01f44f50161/cover.png",
+  "package": "sources/keyboards/themes/ea969ccb-d8be-4d17-a854-e01f44f50161/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "d8d132f2-89ef-433a-ab2e-22dc226afb56",
+  "name": "Christmas Atmosphere",
+  "fileName": "94_ChristmasAtmosphere",
+  "categoryIds": [
+    1011
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/d8d132f2-89ef-433a-ab2e-22dc226afb56/cover.png",
+  "package": "sources/keyboards/themes/d8d132f2-89ef-433a-ab2e-22dc226afb56/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

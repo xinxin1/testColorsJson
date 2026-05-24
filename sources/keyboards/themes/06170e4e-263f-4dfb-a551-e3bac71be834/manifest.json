@@ -1,0 +1,16 @@
+{
+  "id": "06170e4e-263f-4dfb-a551-e3bac71be834",
+  "name": "Succulent",
+  "fileName": "95_Succulent",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/06170e4e-263f-4dfb-a551-e3bac71be834/cover.png",
+  "package": "sources/keyboards/themes/06170e4e-263f-4dfb-a551-e3bac71be834/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

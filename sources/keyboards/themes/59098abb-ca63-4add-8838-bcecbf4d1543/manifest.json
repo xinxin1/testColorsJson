@@ -1,0 +1,16 @@
+{
+  "id": "59098abb-ca63-4add-8838-bcecbf4d1543",
+  "name": "Cute Dog",
+  "fileName": "26_CuteDog",
+  "categoryIds": [
+    1001
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/59098abb-ca63-4add-8838-bcecbf4d1543/cover.png",
+  "package": "sources/keyboards/themes/59098abb-ca63-4add-8838-bcecbf4d1543/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

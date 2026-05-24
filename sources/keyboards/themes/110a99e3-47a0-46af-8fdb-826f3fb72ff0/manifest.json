@@ -1,0 +1,16 @@
+{
+  "id": "110a99e3-47a0-46af-8fdb-826f3fb72ff0",
+  "name": "Neon City",
+  "fileName": "36_NeonCity",
+  "categoryIds": [
+    1003
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/110a99e3-47a0-46af-8fdb-826f3fb72ff0/cover.png",
+  "package": "sources/keyboards/themes/110a99e3-47a0-46af-8fdb-826f3fb72ff0/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

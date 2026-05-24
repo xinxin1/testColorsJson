@@ -1,0 +1,16 @@
+{
+  "id": "bf901fe0-3911-4a59-9fc0-c2e0989bdebe",
+  "name": "Wild Wolf",
+  "fileName": "25_WildWolf",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/bf901fe0-3911-4a59-9fc0-c2e0989bdebe/cover.png",
+  "package": "sources/keyboards/themes/bf901fe0-3911-4a59-9fc0-c2e0989bdebe/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

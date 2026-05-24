@@ -1,0 +1,16 @@
+{
+  "id": "08eb0af2-e3e9-45b5-ad51-7dbd60f7cc8f",
+  "name": "SPY x FAMILY",
+  "fileName": "163_SPYxFAMILY",
+  "categoryIds": [
+    1004
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/08eb0af2-e3e9-45b5-ad51-7dbd60f7cc8f/cover.png",
+  "package": "sources/keyboards/themes/08eb0af2-e3e9-45b5-ad51-7dbd60f7cc8f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

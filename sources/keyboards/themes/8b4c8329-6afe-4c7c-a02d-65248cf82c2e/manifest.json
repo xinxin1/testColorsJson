@@ -1,0 +1,16 @@
+{
+  "id": "8b4c8329-6afe-4c7c-a02d-65248cf82c2e",
+  "name": "Anime Girl",
+  "fileName": "74_AnimeGirl",
+  "categoryIds": [
+    1004
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/8b4c8329-6afe-4c7c-a02d-65248cf82c2e/cover.png",
+  "package": "sources/keyboards/themes/8b4c8329-6afe-4c7c-a02d-65248cf82c2e/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

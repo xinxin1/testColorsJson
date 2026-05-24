@@ -1,0 +1,16 @@
+{
+  "id": "50725401-6248-4f89-8f27-be6b9ff0aebe",
+  "name": "Slamdunk",
+  "fileName": "92_Slamdunk",
+  "categoryIds": [
+    1004
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/50725401-6248-4f89-8f27-be6b9ff0aebe/cover.png",
+  "package": "sources/keyboards/themes/50725401-6248-4f89-8f27-be6b9ff0aebe/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

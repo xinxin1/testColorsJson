@@ -1,0 +1,16 @@
+{
+  "id": "348876b6-1548-4dcf-a9c2-4377fce43cab",
+  "name": "Pumpkinpals",
+  "fileName": "202_Pumpkinpals",
+  "categoryIds": [
+    1011
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/348876b6-1548-4dcf-a9c2-4377fce43cab/cover.png",
+  "package": "sources/keyboards/themes/348876b6-1548-4dcf-a9c2-4377fce43cab/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

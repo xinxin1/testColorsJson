@@ -1,0 +1,16 @@
+{
+  "id": "fc8c74a0-8284-42b4-8b6e-a0d1a15dacf5",
+  "name": "FUTURE",
+  "fileName": "175_Future",
+  "categoryIds": [
+    1010
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/fc8c74a0-8284-42b4-8b6e-a0d1a15dacf5/cover.png",
+  "package": "sources/keyboards/themes/fc8c74a0-8284-42b4-8b6e-a0d1a15dacf5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

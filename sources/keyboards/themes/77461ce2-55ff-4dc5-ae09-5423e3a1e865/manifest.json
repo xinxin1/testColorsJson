@@ -1,0 +1,16 @@
+{
+  "id": "77461ce2-55ff-4dc5-ae09-5423e3a1e865",
+  "name": "Halloween Events",
+  "fileName": "265_HalloweenEvents",
+  "categoryIds": [
+    1011
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/77461ce2-55ff-4dc5-ae09-5423e3a1e865/cover.png",
+  "package": "sources/keyboards/themes/77461ce2-55ff-4dc5-ae09-5423e3a1e865/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

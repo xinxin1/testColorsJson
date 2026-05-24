@@ -1,0 +1,16 @@
+{
+  "id": "d6dbbdc5-6418-47d0-a8f0-4f843d329ccb",
+  "name": "Lamp Tube",
+  "fileName": "112_LampTube",
+  "categoryIds": [
+    1003
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/d6dbbdc5-6418-47d0-a8f0-4f843d329ccb/cover.png",
+  "package": "sources/keyboards/themes/d6dbbdc5-6418-47d0-a8f0-4f843d329ccb/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

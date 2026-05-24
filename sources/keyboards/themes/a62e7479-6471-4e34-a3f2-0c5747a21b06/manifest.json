@@ -1,0 +1,16 @@
+{
+  "id": "a62e7479-6471-4e34-a3f2-0c5747a21b06",
+  "name": "Cyber Gleam",
+  "fileName": "310_CyberGleam",
+  "categoryIds": [
+    1010
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/a62e7479-6471-4e34-a3f2-0c5747a21b06/cover.png",
+  "package": "sources/keyboards/themes/a62e7479-6471-4e34-a3f2-0c5747a21b06/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "03fc8620-fb2e-4e94-9ade-26eedb7cd5d0",
+  "name": "I Love You",
+  "fileName": "82_ILoveYou",
+  "categoryIds": [
+    1002
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/03fc8620-fb2e-4e94-9ade-26eedb7cd5d0/cover.png",
+  "package": "sources/keyboards/themes/03fc8620-fb2e-4e94-9ade-26eedb7cd5d0/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cf7daaa9-8e30-4710-a7b8-788f601134c0",
+  "name": "Polar Bear",
+  "fileName": "6_PolarBear",
+  "categoryIds": [
+    1001
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/cf7daaa9-8e30-4710-a7b8-788f601134c0/cover.png",
+  "package": "sources/keyboards/themes/cf7daaa9-8e30-4710-a7b8-788f601134c0/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

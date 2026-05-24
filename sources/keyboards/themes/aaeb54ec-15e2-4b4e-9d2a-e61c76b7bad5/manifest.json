@@ -1,0 +1,16 @@
+{
+  "id": "aaeb54ec-15e2-4b4e-9d2a-e61c76b7bad5",
+  "name": "Little Dinosaur",
+  "fileName": "236_LittleDinosaur",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/aaeb54ec-15e2-4b4e-9d2a-e61c76b7bad5/cover.png",
+  "package": "sources/keyboards/themes/aaeb54ec-15e2-4b4e-9d2a-e61c76b7bad5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "b90fd0a4-29b9-4580-b02a-90110e5a6168",
+  "name": "Neon Violet",
+  "fileName": "136_NeonViolet",
+  "categoryIds": [
+    1003
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/b90fd0a4-29b9-4580-b02a-90110e5a6168/cover.png",
+  "package": "sources/keyboards/themes/b90fd0a4-29b9-4580-b02a-90110e5a6168/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

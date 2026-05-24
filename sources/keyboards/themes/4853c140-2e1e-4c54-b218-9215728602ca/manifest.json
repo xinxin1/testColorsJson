@@ -1,0 +1,16 @@
+{
+  "id": "4853c140-2e1e-4c54-b218-9215728602ca",
+  "name": "Milky Way",
+  "fileName": "125_MilkyWay",
+  "categoryIds": [
+    1006
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/4853c140-2e1e-4c54-b218-9215728602ca/cover.png",
+  "package": "sources/keyboards/themes/4853c140-2e1e-4c54-b218-9215728602ca/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

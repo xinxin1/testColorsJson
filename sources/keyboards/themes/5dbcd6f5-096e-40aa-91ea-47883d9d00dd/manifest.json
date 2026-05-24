@@ -1,0 +1,18 @@
+{
+  "id": "5dbcd6f5-096e-40aa-91ea-47883d9d00dd",
+  "name": "Fantasy Starry",
+  "fileName": "119_FantasyStarry",
+  "categoryIds": [
+    1006,
+    1007,
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/5dbcd6f5-096e-40aa-91ea-47883d9d00dd/cover.png",
+  "package": "sources/keyboards/themes/5dbcd6f5-096e-40aa-91ea-47883d9d00dd/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

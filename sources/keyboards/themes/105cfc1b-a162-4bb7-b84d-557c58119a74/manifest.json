@@ -1,0 +1,16 @@
+{
+  "id": "105cfc1b-a162-4bb7-b84d-557c58119a74",
+  "name": "Rock With You",
+  "fileName": "293_RockWithYou",
+  "categoryIds": [
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/105cfc1b-a162-4bb7-b84d-557c58119a74/cover.png",
+  "package": "sources/keyboards/themes/105cfc1b-a162-4bb7-b84d-557c58119a74/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

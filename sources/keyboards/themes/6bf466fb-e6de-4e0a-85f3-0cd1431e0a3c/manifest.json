@@ -1,0 +1,17 @@
+{
+  "id": "6bf466fb-e6de-4e0a-85f3-0cd1431e0a3c",
+  "name": "Love Prince",
+  "fileName": "89_LovePrince",
+  "categoryIds": [
+    1002,
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/6bf466fb-e6de-4e0a-85f3-0cd1431e0a3c/cover.png",
+  "package": "sources/keyboards/themes/6bf466fb-e6de-4e0a-85f3-0cd1431e0a3c/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

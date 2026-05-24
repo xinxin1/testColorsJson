@@ -1,0 +1,17 @@
+{
+  "id": "25f2f406-7fd5-4692-b93f-114c0ccb62d6",
+  "name": "One Piece",
+  "fileName": "117_OnePiece",
+  "categoryIds": [
+    1004,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/25f2f406-7fd5-4692-b93f-114c0ccb62d6/cover.png",
+  "package": "sources/keyboards/themes/25f2f406-7fd5-4692-b93f-114c0ccb62d6/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

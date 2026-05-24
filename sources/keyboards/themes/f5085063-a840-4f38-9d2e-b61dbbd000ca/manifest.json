@@ -1,0 +1,16 @@
+{
+  "id": "f5085063-a840-4f38-9d2e-b61dbbd000ca",
+  "name": "TocaWorld",
+  "fileName": "323_TocaWorld",
+  "categoryIds": [
+    1005
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/f5085063-a840-4f38-9d2e-b61dbbd000ca/cover.png",
+  "package": "sources/keyboards/themes/f5085063-a840-4f38-9d2e-b61dbbd000ca/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

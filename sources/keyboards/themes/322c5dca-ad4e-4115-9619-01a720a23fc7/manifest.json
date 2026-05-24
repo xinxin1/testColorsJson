@@ -1,0 +1,18 @@
+{
+  "id": "322c5dca-ad4e-4115-9619-01a720a23fc7",
+  "name": "Edogawa Conan",
+  "fileName": "353_EdogawaConan",
+  "categoryIds": [
+    1001,
+    1004,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/322c5dca-ad4e-4115-9619-01a720a23fc7/cover.png",
+  "package": "sources/keyboards/themes/322c5dca-ad4e-4115-9619-01a720a23fc7/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

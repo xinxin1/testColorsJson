@@ -1,0 +1,16 @@
+{
+  "id": "d3d68de4-4bec-4ebc-9b5f-a080abca840a",
+  "name": "Aurora Falls",
+  "fileName": "16_AuroraFalls",
+  "categoryIds": [
+    1006
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/d3d68de4-4bec-4ebc-9b5f-a080abca840a/cover.png",
+  "package": "sources/keyboards/themes/d3d68de4-4bec-4ebc-9b5f-a080abca840a/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

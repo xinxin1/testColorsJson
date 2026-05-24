@@ -1,0 +1,16 @@
+{
+  "id": "0945c712-c2f7-4542-a193-0953ba0213f9",
+  "name": "Sakura",
+  "fileName": "328_Sakura",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/0945c712-c2f7-4542-a193-0953ba0213f9/cover.png",
+  "package": "sources/keyboards/themes/0945c712-c2f7-4542-a193-0953ba0213f9/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cf788a3b-e9da-4faf-9bc8-70462f1d889b",
+  "name": "Blue Heart",
+  "fileName": "40_BlueHeart",
+  "categoryIds": [
+    1002
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/cf788a3b-e9da-4faf-9bc8-70462f1d889b/cover.png",
+  "package": "sources/keyboards/themes/cf788a3b-e9da-4faf-9bc8-70462f1d889b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

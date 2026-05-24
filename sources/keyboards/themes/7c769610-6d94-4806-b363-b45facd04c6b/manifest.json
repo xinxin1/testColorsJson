@@ -1,0 +1,17 @@
+{
+  "id": "7c769610-6d94-4806-b363-b45facd04c6b",
+  "name": "Christmas Eve",
+  "fileName": "372_ChristmasEve",
+  "categoryIds": [
+    1011,
+    1012
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/7c769610-6d94-4806-b363-b45facd04c6b/cover.png",
+  "package": "sources/keyboards/themes/7c769610-6d94-4806-b363-b45facd04c6b/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

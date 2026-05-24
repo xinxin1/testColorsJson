@@ -1,0 +1,17 @@
+{
+  "id": "de6fd7b9-a8f5-461a-9dd2-370048897432",
+  "name": "Kyoujurou",
+  "fileName": "351_Kyoujurou",
+  "categoryIds": [
+    1004,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/de6fd7b9-a8f5-461a-9dd2-370048897432/cover.png",
+  "package": "sources/keyboards/themes/de6fd7b9-a8f5-461a-9dd2-370048897432/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

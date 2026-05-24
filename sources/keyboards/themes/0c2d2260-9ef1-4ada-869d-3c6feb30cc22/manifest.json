@@ -1,0 +1,16 @@
+{
+  "id": "0c2d2260-9ef1-4ada-869d-3c6feb30cc22",
+  "name": "Uzui Tengen",
+  "fileName": "249_UzuiTengen",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/0c2d2260-9ef1-4ada-869d-3c6feb30cc22/cover.png",
+  "package": "sources/keyboards/themes/0c2d2260-9ef1-4ada-869d-3c6feb30cc22/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

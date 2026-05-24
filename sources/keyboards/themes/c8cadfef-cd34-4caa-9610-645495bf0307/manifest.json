@@ -1,0 +1,16 @@
+{
+  "id": "c8cadfef-cd34-4caa-9610-645495bf0307",
+  "name": "Digital City",
+  "fileName": "178_DigitalCity",
+  "categoryIds": [
+    1010
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/c8cadfef-cd34-4caa-9610-645495bf0307/cover.png",
+  "package": "sources/keyboards/themes/c8cadfef-cd34-4caa-9610-645495bf0307/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

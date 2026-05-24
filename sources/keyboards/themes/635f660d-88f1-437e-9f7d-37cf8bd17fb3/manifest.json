@@ -1,0 +1,16 @@
+{
+  "id": "635f660d-88f1-437e-9f7d-37cf8bd17fb3",
+  "name": "Owl",
+  "fileName": "35_Owl",
+  "categoryIds": [
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/635f660d-88f1-437e-9f7d-37cf8bd17fb3/cover.png",
+  "package": "sources/keyboards/themes/635f660d-88f1-437e-9f7d-37cf8bd17fb3/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

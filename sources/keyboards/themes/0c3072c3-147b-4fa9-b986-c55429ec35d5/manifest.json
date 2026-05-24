@@ -1,0 +1,16 @@
+{
+  "id": "0c3072c3-147b-4fa9-b986-c55429ec35d5",
+  "name": "Kulomi",
+  "fileName": "157_Kulomi",
+  "categoryIds": [
+    1001
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/0c3072c3-147b-4fa9-b986-c55429ec35d5/cover.png",
+  "package": "sources/keyboards/themes/0c3072c3-147b-4fa9-b986-c55429ec35d5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

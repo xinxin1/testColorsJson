@@ -1,0 +1,17 @@
+{
+  "id": "91938d33-d65a-4b71-bef3-eb4103a7d218",
+  "name": "Meteor Showers",
+  "fileName": "253_MeteorShowers",
+  "categoryIds": [
+    1006,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/91938d33-d65a-4b71-bef3-eb4103a7d218/cover.gif",
+  "package": "sources/keyboards/themes/91938d33-d65a-4b71-bef3-eb4103a7d218/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

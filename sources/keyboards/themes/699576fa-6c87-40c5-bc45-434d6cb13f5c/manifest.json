@@ -1,0 +1,16 @@
+{
+  "id": "699576fa-6c87-40c5-bc45-434d6cb13f5c",
+  "name": "Vermilion Vistas",
+  "fileName": "384_VermilionVistas",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/699576fa-6c87-40c5-bc45-434d6cb13f5c/cover.png",
+  "package": "sources/keyboards/themes/699576fa-6c87-40c5-bc45-434d6cb13f5c/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

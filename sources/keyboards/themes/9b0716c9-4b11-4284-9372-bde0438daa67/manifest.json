@@ -1,0 +1,16 @@
+{
+  "id": "9b0716c9-4b11-4284-9372-bde0438daa67",
+  "name": "Idolum",
+  "fileName": "107_Idolum",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/9b0716c9-4b11-4284-9372-bde0438daa67/cover.png",
+  "package": "sources/keyboards/themes/9b0716c9-4b11-4284-9372-bde0438daa67/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

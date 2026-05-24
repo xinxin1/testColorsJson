@@ -1,0 +1,16 @@
+{
+  "id": "10031118-8eb8-4b63-b70d-cb87324394a0",
+  "name": "Lush Green",
+  "fileName": "226_LushGreen",
+  "categoryIds": [
+    1008
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/10031118-8eb8-4b63-b70d-cb87324394a0/cover.png",
+  "package": "sources/keyboards/themes/10031118-8eb8-4b63-b70d-cb87324394a0/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

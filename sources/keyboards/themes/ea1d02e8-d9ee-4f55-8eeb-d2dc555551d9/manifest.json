@@ -1,0 +1,16 @@
+{
+  "id": "ea1d02e8-d9ee-4f55-8eeb-d2dc555551d9",
+  "name": "Little Nightmares 2",
+  "fileName": "271_LittleNightmares2",
+  "categoryIds": [
+    1013
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/ea1d02e8-d9ee-4f55-8eeb-d2dc555551d9/cover.png",
+  "package": "sources/keyboards/themes/ea1d02e8-d9ee-4f55-8eeb-d2dc555551d9/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

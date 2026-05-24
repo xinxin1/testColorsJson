@@ -1,0 +1,16 @@
+{
+  "id": "21fdae83-6b0c-4402-8767-340956f4be58",
+  "name": "Chocolate",
+  "fileName": "186_Chocolate",
+  "categoryIds": [
+    1008
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/21fdae83-6b0c-4402-8767-340956f4be58/cover.png",
+  "package": "sources/keyboards/themes/21fdae83-6b0c-4402-8767-340956f4be58/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

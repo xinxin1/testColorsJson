@@ -1,0 +1,16 @@
+{
+  "id": "7e98afcb-78ac-4965-a2c4-fb0eac8836b1",
+  "name": "Dreamy Sky",
+  "fileName": "48_DreamySky",
+  "categoryIds": [
+    1007
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/7e98afcb-78ac-4965-a2c4-fb0eac8836b1/cover.png",
+  "package": "sources/keyboards/themes/7e98afcb-78ac-4965-a2c4-fb0eac8836b1/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

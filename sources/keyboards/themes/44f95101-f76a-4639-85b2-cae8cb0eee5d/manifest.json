@@ -1,0 +1,17 @@
+{
+  "id": "44f95101-f76a-4639-85b2-cae8cb0eee5d",
+  "name": "Space Base",
+  "fileName": "12_SpaceBase",
+  "categoryIds": [
+    1006,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/44f95101-f76a-4639-85b2-cae8cb0eee5d/cover.png",
+  "package": "sources/keyboards/themes/44f95101-f76a-4639-85b2-cae8cb0eee5d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

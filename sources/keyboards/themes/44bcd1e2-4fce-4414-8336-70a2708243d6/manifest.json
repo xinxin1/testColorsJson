@@ -1,0 +1,16 @@
+{
+  "id": "44bcd1e2-4fce-4414-8336-70a2708243d6",
+  "name": "Play",
+  "fileName": "181_Play",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/44bcd1e2-4fce-4414-8336-70a2708243d6/cover.png",
+  "package": "sources/keyboards/themes/44bcd1e2-4fce-4414-8336-70a2708243d6/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

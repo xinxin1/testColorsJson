@@ -1,0 +1,16 @@
+{
+  "id": "68de12b2-4b7f-4606-9873-b3e5f08a37d2",
+  "name": "Spiral Nebula",
+  "fileName": "254_SpiralNebula",
+  "categoryIds": [
+    1006
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/68de12b2-4b7f-4606-9873-b3e5f08a37d2/cover.png",
+  "package": "sources/keyboards/themes/68de12b2-4b7f-4606-9873-b3e5f08a37d2/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

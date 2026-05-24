@@ -1,0 +1,16 @@
+{
+  "id": "1c60e13a-d67b-44f1-ab2d-735be16c3d0d",
+  "name": "Rose Wallpaper",
+  "fileName": "92_RoseWallpaper",
+  "categoryIds": [
+    1002
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/1c60e13a-d67b-44f1-ab2d-735be16c3d0d/cover.png",
+  "package": "sources/keyboards/themes/1c60e13a-d67b-44f1-ab2d-735be16c3d0d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ecb78960-bda3-483e-9cf7-95d68810f053",
+  "name": "Super Galaxy",
+  "fileName": "305_SuperGalaxy",
+  "categoryIds": [
+    1006
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/ecb78960-bda3-483e-9cf7-95d68810f053/cover.png",
+  "package": "sources/keyboards/themes/ecb78960-bda3-483e-9cf7-95d68810f053/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

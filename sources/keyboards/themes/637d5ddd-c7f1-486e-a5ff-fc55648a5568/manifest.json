@@ -1,0 +1,16 @@
+{
+  "id": "637d5ddd-c7f1-486e-a5ff-fc55648a5568",
+  "name": "Blazing Flame",
+  "fileName": "78_BlazingFlame",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/637d5ddd-c7f1-486e-a5ff-fc55648a5568/cover.png",
+  "package": "sources/keyboards/themes/637d5ddd-c7f1-486e-a5ff-fc55648a5568/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

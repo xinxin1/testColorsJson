@@ -1,0 +1,16 @@
+{
+  "id": "0bb912fe-1bb7-49c4-9df4-ca0295daa231",
+  "name": "Hospitably 2025",
+  "fileName": "375_Hospitably2025",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/0bb912fe-1bb7-49c4-9df4-ca0295daa231/cover.png",
+  "package": "sources/keyboards/themes/0bb912fe-1bb7-49c4-9df4-ca0295daa231/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

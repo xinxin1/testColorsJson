@@ -1,0 +1,16 @@
+{
+  "id": "bb6ffef8-ec75-4d0b-bd20-339e6b5280fe",
+  "name": "Goddess Sculpture",
+  "fileName": "118_GoddessSculpture",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/bb6ffef8-ec75-4d0b-bd20-339e6b5280fe/cover.png",
+  "package": "sources/keyboards/themes/bb6ffef8-ec75-4d0b-bd20-339e6b5280fe/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

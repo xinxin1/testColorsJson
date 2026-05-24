@@ -1,0 +1,16 @@
+{
+  "id": "97f7727c-1083-428c-b627-d710874b096c",
+  "name": "Robotics",
+  "fileName": "177_Robotics",
+  "categoryIds": [
+    1010
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/97f7727c-1083-428c-b627-d710874b096c/cover.png",
+  "package": "sources/keyboards/themes/97f7727c-1083-428c-b627-d710874b096c/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

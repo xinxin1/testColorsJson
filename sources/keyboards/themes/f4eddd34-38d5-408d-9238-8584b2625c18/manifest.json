@@ -1,0 +1,17 @@
+{
+  "id": "f4eddd34-38d5-408d-9238-8584b2625c18",
+  "name": "Gothic Rose",
+  "fileName": "309_GothicRose",
+  "categoryIds": [
+    1002,
+    1013
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/f4eddd34-38d5-408d-9238-8584b2625c18/cover.png",
+  "package": "sources/keyboards/themes/f4eddd34-38d5-408d-9238-8584b2625c18/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "5fcf490f-175d-42c3-8220-91956c1fd8ad",
+  "name": "Cloud",
+  "fileName": "196_Cloud",
+  "categoryIds": [
+    1001
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/5fcf490f-175d-42c3-8220-91956c1fd8ad/cover.png",
+  "package": "sources/keyboards/themes/5fcf490f-175d-42c3-8220-91956c1fd8ad/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

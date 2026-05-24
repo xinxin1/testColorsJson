@@ -1,0 +1,16 @@
+{
+  "id": "dd3bf613-435f-4fde-bc36-57553a428f18",
+  "name": "Bubble Tea",
+  "fileName": "8_BubbleTea",
+  "categoryIds": [
+    1001
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/dd3bf613-435f-4fde-bc36-57553a428f18/cover.png",
+  "package": "sources/keyboards/themes/dd3bf613-435f-4fde-bc36-57553a428f18/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

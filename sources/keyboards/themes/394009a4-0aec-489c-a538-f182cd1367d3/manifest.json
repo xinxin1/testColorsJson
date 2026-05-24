@@ -1,0 +1,17 @@
+{
+  "id": "394009a4-0aec-489c-a538-f182cd1367d3",
+  "name": "Neon Flower",
+  "fileName": "263_NeonFlower",
+  "categoryIds": [
+    1003,
+    1009
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/394009a4-0aec-489c-a538-f182cd1367d3/cover.png",
+  "package": "sources/keyboards/themes/394009a4-0aec-489c-a538-f182cd1367d3/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

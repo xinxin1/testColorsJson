@@ -1,0 +1,16 @@
+{
+  "id": "3136e3bb-c772-4efb-9c52-73fc321abc03",
+  "name": "Silent Night",
+  "fileName": "5_SilentNight",
+  "categoryIds": [
+    1013
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/3136e3bb-c772-4efb-9c52-73fc321abc03/cover.png",
+  "package": "sources/keyboards/themes/3136e3bb-c772-4efb-9c52-73fc321abc03/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

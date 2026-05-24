@@ -1,0 +1,17 @@
+{
+  "id": "e7ed85ed-97d1-4fb1-91ee-6343f3523446",
+  "name": "Bean Green",
+  "fileName": "17_BeanGreen",
+  "categoryIds": [
+    1008,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e7ed85ed-97d1-4fb1-91ee-6343f3523446/cover.png",
+  "package": "sources/keyboards/themes/e7ed85ed-97d1-4fb1-91ee-6343f3523446/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "f61f7e78-e0cc-4ea8-8420-2d9438a1c553",
+  "name": "Galaxy Keys",
+  "fileName": "314_GalaxyKeys",
+  "categoryIds": [
+    1006,
+    1010
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/f61f7e78-e0cc-4ea8-8420-2d9438a1c553/cover.png",
+  "package": "sources/keyboards/themes/f61f7e78-e0cc-4ea8-8420-2d9438a1c553/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

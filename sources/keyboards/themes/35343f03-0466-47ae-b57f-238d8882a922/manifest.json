@@ -1,0 +1,16 @@
+{
+  "id": "35343f03-0466-47ae-b57f-238d8882a922",
+  "name": "WildWest",
+  "fileName": "45_WildWest",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/35343f03-0466-47ae-b57f-238d8882a922/cover.png",
+  "package": "sources/keyboards/themes/35343f03-0466-47ae-b57f-238d8882a922/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

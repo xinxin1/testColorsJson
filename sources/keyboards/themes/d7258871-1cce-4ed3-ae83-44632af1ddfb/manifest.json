@@ -1,0 +1,16 @@
+{
+  "id": "d7258871-1cce-4ed3-ae83-44632af1ddfb",
+  "name": "Playfulpumpkin",
+  "fileName": "339_Playfulpumpkin",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/d7258871-1cce-4ed3-ae83-44632af1ddfb/cover.png",
+  "package": "sources/keyboards/themes/d7258871-1cce-4ed3-ae83-44632af1ddfb/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

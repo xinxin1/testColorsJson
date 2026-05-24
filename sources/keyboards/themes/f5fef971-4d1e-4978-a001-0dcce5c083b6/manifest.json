@@ -1,0 +1,16 @@
+{
+  "id": "f5fef971-4d1e-4978-a001-0dcce5c083b6",
+  "name": "Ai Hoshino",
+  "fileName": "357_AiHoshino",
+  "categoryIds": [
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/f5fef971-4d1e-4978-a001-0dcce5c083b6/cover.png",
+  "package": "sources/keyboards/themes/f5fef971-4d1e-4978-a001-0dcce5c083b6/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": true
+  }
+}

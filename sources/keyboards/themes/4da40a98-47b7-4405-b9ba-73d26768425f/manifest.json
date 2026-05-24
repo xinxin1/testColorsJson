@@ -1,0 +1,16 @@
+{
+  "id": "4da40a98-47b7-4405-b9ba-73d26768425f",
+  "name": "Tranquil Blue",
+  "fileName": "7_TranquilBlue",
+  "categoryIds": [
+    1008
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/4da40a98-47b7-4405-b9ba-73d26768425f/cover.png",
+  "package": "sources/keyboards/themes/4da40a98-47b7-4405-b9ba-73d26768425f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

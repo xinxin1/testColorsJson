@@ -1,0 +1,16 @@
+{
+  "id": "da57c2de-29a1-487e-82e6-0a14f8e74ef1",
+  "name": "HuedSwirls",
+  "fileName": "317_HuedSwirls",
+  "categoryIds": [
+    1010
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/da57c2de-29a1-487e-82e6-0a14f8e74ef1/cover.png",
+  "package": "sources/keyboards/themes/da57c2de-29a1-487e-82e6-0a14f8e74ef1/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

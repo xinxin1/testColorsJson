@@ -1,0 +1,17 @@
+{
+  "id": "50469a49-1e91-4ab1-beb9-0fb2f48af330",
+  "name": "Black Key",
+  "fileName": "33_BlackKey",
+  "categoryIds": [
+    1008,
+    1013
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/50469a49-1e91-4ab1-beb9-0fb2f48af330/cover.png",
+  "package": "sources/keyboards/themes/50469a49-1e91-4ab1-beb9-0fb2f48af330/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "a24f3d1c-dd04-47bf-b34d-d353a9d2d6c9",
+  "name": "Dahlia",
+  "fileName": "152_Dahlia",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/a24f3d1c-dd04-47bf-b34d-d353a9d2d6c9/cover.png",
+  "package": "sources/keyboards/themes/a24f3d1c-dd04-47bf-b34d-d353a9d2d6c9/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

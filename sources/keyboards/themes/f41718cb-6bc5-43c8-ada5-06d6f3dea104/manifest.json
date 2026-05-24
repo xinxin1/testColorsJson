@@ -1,0 +1,16 @@
+{
+  "id": "f41718cb-6bc5-43c8-ada5-06d6f3dea104",
+  "name": "Angle",
+  "fileName": "197_Angle",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/f41718cb-6bc5-43c8-ada5-06d6f3dea104/cover.png",
+  "package": "sources/keyboards/themes/f41718cb-6bc5-43c8-ada5-06d6f3dea104/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "720e4bc1-10ba-4cfd-81ff-8baf6629f220",
+  "name": "Simple Blue",
+  "fileName": "28_SimpleBlue",
+  "categoryIds": [
+    1008
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/720e4bc1-10ba-4cfd-81ff-8baf6629f220/cover.png",
+  "package": "sources/keyboards/themes/720e4bc1-10ba-4cfd-81ff-8baf6629f220/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

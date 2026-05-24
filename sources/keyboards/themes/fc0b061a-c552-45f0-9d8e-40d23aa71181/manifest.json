@@ -1,0 +1,17 @@
+{
+  "id": "fc0b061a-c552-45f0-9d8e-40d23aa71181",
+  "name": "Cartoon Cloud",
+  "fileName": "65_CartoonCloud",
+  "categoryIds": [
+    1004,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/fc0b061a-c552-45f0-9d8e-40d23aa71181/cover.gif",
+  "package": "sources/keyboards/themes/fc0b061a-c552-45f0-9d8e-40d23aa71181/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

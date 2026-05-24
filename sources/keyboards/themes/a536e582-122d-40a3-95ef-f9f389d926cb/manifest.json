@@ -1,0 +1,16 @@
+{
+  "id": "a536e582-122d-40a3-95ef-f9f389d926cb",
+  "name": "Dream World",
+  "fileName": "147_DreamWorld",
+  "categoryIds": [
+    1007
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/a536e582-122d-40a3-95ef-f9f389d926cb/cover.png",
+  "package": "sources/keyboards/themes/a536e582-122d-40a3-95ef-f9f389d926cb/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

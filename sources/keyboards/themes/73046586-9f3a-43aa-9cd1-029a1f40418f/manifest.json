@@ -1,0 +1,16 @@
+{
+  "id": "73046586-9f3a-43aa-9cd1-029a1f40418f",
+  "name": "Neon",
+  "fileName": "2_Neon",
+  "categoryIds": [
+    1003
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/73046586-9f3a-43aa-9cd1-029a1f40418f/cover.png",
+  "package": "sources/keyboards/themes/73046586-9f3a-43aa-9cd1-029a1f40418f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

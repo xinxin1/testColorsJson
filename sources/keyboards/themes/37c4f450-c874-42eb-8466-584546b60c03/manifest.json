@@ -1,0 +1,16 @@
+{
+  "id": "37c4f450-c874-42eb-8466-584546b60c03",
+  "name": "Colorful Buttons",
+  "fileName": "57_ColorfulButtons",
+  "categoryIds": [
+    1001
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/37c4f450-c874-42eb-8466-584546b60c03/cover.png",
+  "package": "sources/keyboards/themes/37c4f450-c874-42eb-8466-584546b60c03/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

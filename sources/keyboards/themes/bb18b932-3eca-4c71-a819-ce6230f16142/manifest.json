@@ -1,0 +1,16 @@
+{
+  "id": "bb18b932-3eca-4c71-a819-ce6230f16142",
+  "name": "Normcore",
+  "fileName": "209_Normcore",
+  "categoryIds": [
+    1008
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/bb18b932-3eca-4c71-a819-ce6230f16142/cover.png",
+  "package": "sources/keyboards/themes/bb18b932-3eca-4c71-a819-ce6230f16142/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

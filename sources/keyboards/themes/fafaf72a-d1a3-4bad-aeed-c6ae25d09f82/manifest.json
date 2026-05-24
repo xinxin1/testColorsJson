@@ -1,0 +1,16 @@
+{
+  "id": "fafaf72a-d1a3-4bad-aeed-c6ae25d09f82",
+  "name": "Lucky Star",
+  "fileName": "32_LuckyStar",
+  "categoryIds": [
+    1006
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/fafaf72a-d1a3-4bad-aeed-c6ae25d09f82/cover.png",
+  "package": "sources/keyboards/themes/fafaf72a-d1a3-4bad-aeed-c6ae25d09f82/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

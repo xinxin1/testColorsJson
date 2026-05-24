@@ -1,0 +1,16 @@
+{
+  "id": "6fd99740-e924-4723-9767-5f7886cf4d61",
+  "name": "Hail 2025",
+  "fileName": "300_Hail2025",
+  "categoryIds": [
+    1011
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/6fd99740-e924-4723-9767-5f7886cf4d61/cover.png",
+  "package": "sources/keyboards/themes/6fd99740-e924-4723-9767-5f7886cf4d61/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

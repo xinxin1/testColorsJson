@@ -1,0 +1,16 @@
+{
+  "id": "dcb4d1a1-6bdb-438a-8324-1c38380d067d",
+  "name": "The Expanse",
+  "fileName": "129_TheExpanse",
+  "categoryIds": [
+    1006
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/dcb4d1a1-6bdb-438a-8324-1c38380d067d/cover.png",
+  "package": "sources/keyboards/themes/dcb4d1a1-6bdb-438a-8324-1c38380d067d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

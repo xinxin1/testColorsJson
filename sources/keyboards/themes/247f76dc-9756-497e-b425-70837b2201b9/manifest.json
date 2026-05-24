@@ -1,0 +1,16 @@
+{
+  "id": "247f76dc-9756-497e-b425-70837b2201b9",
+  "name": "Flash Powder",
+  "fileName": "229_FlashPowder",
+  "categoryIds": [
+    1003
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/247f76dc-9756-497e-b425-70837b2201b9/cover.png",
+  "package": "sources/keyboards/themes/247f76dc-9756-497e-b425-70837b2201b9/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "dc160452-6148-4219-bbed-1ac5f77cb015",
+  "name": "RDR2",
+  "fileName": "109_RDR2",
+  "categoryIds": [
+    1005
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/dc160452-6148-4219-bbed-1ac5f77cb015/cover.png",
+  "package": "sources/keyboards/themes/dc160452-6148-4219-bbed-1ac5f77cb015/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

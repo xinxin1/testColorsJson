@@ -1,0 +1,17 @@
+{
+  "id": "379fe948-8da2-4b08-9ce3-4cc856b6bb29",
+  "name": "Dancing Rabbit",
+  "fileName": "289_DancingRabbit",
+  "categoryIds": [
+    1001,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/379fe948-8da2-4b08-9ce3-4cc856b6bb29/cover.png",
+  "package": "sources/keyboards/themes/379fe948-8da2-4b08-9ce3-4cc856b6bb29/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

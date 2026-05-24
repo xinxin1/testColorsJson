@@ -1,0 +1,17 @@
+{
+  "id": "8fe164be-fab8-4f6d-a449-abe974f309dd",
+  "name": "Jingle Bells",
+  "fileName": "294_JingleBells",
+  "categoryIds": [
+    1011,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/8fe164be-fab8-4f6d-a449-abe974f309dd/cover.gif",
+  "package": "sources/keyboards/themes/8fe164be-fab8-4f6d-a449-abe974f309dd/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

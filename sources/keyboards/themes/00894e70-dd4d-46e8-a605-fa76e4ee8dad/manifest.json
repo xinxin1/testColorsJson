@@ -1,0 +1,16 @@
+{
+  "id": "00894e70-dd4d-46e8-a605-fa76e4ee8dad",
+  "name": "Midi Key",
+  "fileName": "30_MidiKey",
+  "categoryIds": [
+    1003
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/00894e70-dd4d-46e8-a605-fa76e4ee8dad/cover.png",
+  "package": "sources/keyboards/themes/00894e70-dd4d-46e8-a605-fa76e4ee8dad/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

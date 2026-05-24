@@ -1,0 +1,16 @@
+{
+  "id": "a65a77b0-d4a7-47d8-a40b-24276450c605",
+  "name": "Christmas Greetings",
+  "fileName": "292_ChristmasGreetings",
+  "categoryIds": [
+    1011
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/a65a77b0-d4a7-47d8-a40b-24276450c605/cover.png",
+  "package": "sources/keyboards/themes/a65a77b0-d4a7-47d8-a40b-24276450c605/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

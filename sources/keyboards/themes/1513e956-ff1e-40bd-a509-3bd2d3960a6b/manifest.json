@@ -1,0 +1,16 @@
+{
+  "id": "1513e956-ff1e-40bd-a509-3bd2d3960a6b",
+  "name": "First Love",
+  "fileName": "38_FirstLove",
+  "categoryIds": [
+    1002
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/1513e956-ff1e-40bd-a509-3bd2d3960a6b/cover.png",
+  "package": "sources/keyboards/themes/1513e956-ff1e-40bd-a509-3bd2d3960a6b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

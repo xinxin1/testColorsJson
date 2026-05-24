@@ -1,0 +1,17 @@
+{
+  "id": "64508280-bba7-481f-9118-d6d8c001daff",
+  "name": "Dark Purple",
+  "fileName": "222_DarkPurple",
+  "categoryIds": [
+    1003,
+    1013
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/64508280-bba7-481f-9118-d6d8c001daff/cover.png",
+  "package": "sources/keyboards/themes/64508280-bba7-481f-9118-d6d8c001daff/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "70ced2f6-e647-4e86-b9ed-d44291d6ef49",
+  "name": "Kiki's Life",
+  "fileName": "58_KikisLife",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/70ced2f6-e647-4e86-b9ed-d44291d6ef49/cover.png",
+  "package": "sources/keyboards/themes/70ced2f6-e647-4e86-b9ed-d44291d6ef49/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

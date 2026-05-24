@@ -1,0 +1,16 @@
+{
+  "id": "327c70fc-42a2-475d-b7b5-9013d5da02d6",
+  "name": "Lily",
+  "fileName": "150_Lily",
+  "categoryIds": [
+    1009
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/327c70fc-42a2-475d-b7b5-9013d5da02d6/cover.png",
+  "package": "sources/keyboards/themes/327c70fc-42a2-475d-b7b5-9013d5da02d6/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

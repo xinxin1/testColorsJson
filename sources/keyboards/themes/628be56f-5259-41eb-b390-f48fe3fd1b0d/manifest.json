@@ -1,0 +1,17 @@
+{
+  "id": "628be56f-5259-41eb-b390-f48fe3fd1b0d",
+  "name": "Starry Night",
+  "fileName": "109_StarryNight",
+  "categoryIds": [
+    1006,
+    1013
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/628be56f-5259-41eb-b390-f48fe3fd1b0d/cover.png",
+  "package": "sources/keyboards/themes/628be56f-5259-41eb-b390-f48fe3fd1b0d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "0ab16717-3c01-4458-8947-1655bb2994f7",
+  "name": "Purplehaze",
+  "fileName": "340_Purplehaze",
+  "categoryIds": [
+    1012
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/0ab16717-3c01-4458-8947-1655bb2994f7/cover.png",
+  "package": "sources/keyboards/themes/0ab16717-3c01-4458-8947-1655bb2994f7/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

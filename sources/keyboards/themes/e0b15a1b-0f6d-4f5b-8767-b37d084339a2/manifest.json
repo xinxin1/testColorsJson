@@ -1,0 +1,16 @@
+{
+  "id": "e0b15a1b-0f6d-4f5b-8767-b37d084339a2",
+  "name": "Wilderness",
+  "fileName": "313_Wilderness",
+  "categoryIds": [
+    1010
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e0b15a1b-0f6d-4f5b-8767-b37d084339a2/cover.png",
+  "package": "sources/keyboards/themes/e0b15a1b-0f6d-4f5b-8767-b37d084339a2/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

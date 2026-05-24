@@ -1,0 +1,16 @@
+{
+  "id": "b07d5076-2211-4150-a7d5-d1b504263f61",
+  "name": "Rihanna",
+  "fileName": "217_Rihanna",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/b07d5076-2211-4150-a7d5-d1b504263f61/cover.png",
+  "package": "sources/keyboards/themes/b07d5076-2211-4150-a7d5-d1b504263f61/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "fc494997-1215-42f4-93d2-824cbcdaa188",
+  "name": "Rukia",
+  "fileName": "314_Rukia",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/fc494997-1215-42f4-93d2-824cbcdaa188/cover.png",
+  "package": "sources/keyboards/themes/fc494997-1215-42f4-93d2-824cbcdaa188/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

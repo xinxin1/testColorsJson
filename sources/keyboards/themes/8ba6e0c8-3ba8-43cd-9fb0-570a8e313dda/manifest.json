@@ -1,0 +1,17 @@
+{
+  "id": "8ba6e0c8-3ba8-43cd-9fb0-570a8e313dda",
+  "name": "Kamado Nezuko",
+  "fileName": "270_KamadoNezuko",
+  "categoryIds": [
+    1004,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/8ba6e0c8-3ba8-43cd-9fb0-570a8e313dda/cover.png",
+  "package": "sources/keyboards/themes/8ba6e0c8-3ba8-43cd-9fb0-570a8e313dda/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "70d700d7-3757-45de-bdb2-61113b00a929",
+  "name": "Golden Glides",
+  "fileName": "391_GoldenGlides",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/70d700d7-3757-45de-bdb2-61113b00a929/cover.png",
+  "package": "sources/keyboards/themes/70d700d7-3757-45de-bdb2-61113b00a929/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

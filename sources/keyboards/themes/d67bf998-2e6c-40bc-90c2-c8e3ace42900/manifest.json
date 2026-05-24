@@ -1,0 +1,16 @@
+{
+  "id": "d67bf998-2e6c-40bc-90c2-c8e3ace42900",
+  "name": "Jigglypuff",
+  "fileName": "146_Jigglypuff",
+  "categoryIds": [
+    1004
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/d67bf998-2e6c-40bc-90c2-c8e3ace42900/cover.png",
+  "package": "sources/keyboards/themes/d67bf998-2e6c-40bc-90c2-c8e3ace42900/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

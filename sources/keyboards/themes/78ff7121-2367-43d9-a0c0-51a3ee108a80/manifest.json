@@ -1,0 +1,16 @@
+{
+  "id": "78ff7121-2367-43d9-a0c0-51a3ee108a80",
+  "name": "Water Drop",
+  "fileName": "231_WaterDrop",
+  "categoryIds": [
+    1008
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/78ff7121-2367-43d9-a0c0-51a3ee108a80/cover.png",
+  "package": "sources/keyboards/themes/78ff7121-2367-43d9-a0c0-51a3ee108a80/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "222940aa-3506-443a-a963-80ea64617841",
+  "name": "MerryChrismas",
+  "fileName": "213_MerryChrismas",
+  "categoryIds": [
+    1011
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/222940aa-3506-443a-a963-80ea64617841/cover.png",
+  "package": "sources/keyboards/themes/222940aa-3506-443a-a963-80ea64617841/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

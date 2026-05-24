@@ -1,0 +1,17 @@
+{
+  "id": "585b7439-5c96-4631-869f-5226e2fb9c34",
+  "name": "Pink Rose",
+  "fileName": "68_PinkRose",
+  "categoryIds": [
+    1001,
+    1002
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/585b7439-5c96-4631-869f-5226e2fb9c34/cover.png",
+  "package": "sources/keyboards/themes/585b7439-5c96-4631-869f-5226e2fb9c34/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

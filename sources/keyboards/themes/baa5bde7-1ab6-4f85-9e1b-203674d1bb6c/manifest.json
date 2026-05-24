@@ -1,0 +1,16 @@
+{
+  "id": "baa5bde7-1ab6-4f85-9e1b-203674d1bb6c",
+  "name": "Wandering Earth",
+  "fileName": "287_WanderingEarth",
+  "categoryIds": [
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/baa5bde7-1ab6-4f85-9e1b-203674d1bb6c/cover.png",
+  "package": "sources/keyboards/themes/baa5bde7-1ab6-4f85-9e1b-203674d1bb6c/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

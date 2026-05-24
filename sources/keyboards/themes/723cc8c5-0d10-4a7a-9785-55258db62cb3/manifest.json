@@ -1,0 +1,17 @@
+{
+  "id": "723cc8c5-0d10-4a7a-9785-55258db62cb3",
+  "name": "Offing",
+  "fileName": "169_Offing",
+  "categoryIds": [
+    1007,
+    1012
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/723cc8c5-0d10-4a7a-9785-55258db62cb3/cover.png",
+  "package": "sources/keyboards/themes/723cc8c5-0d10-4a7a-9785-55258db62cb3/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "0988a78b-4195-480e-babc-3805f7afbde6",
+  "name": "Lunar Dreamscape",
+  "fileName": "193_LunarDreamscape",
+  "categoryIds": [
+    1007,
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/0988a78b-4195-480e-babc-3805f7afbde6/cover.png",
+  "package": "sources/keyboards/themes/0988a78b-4195-480e-babc-3805f7afbde6/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

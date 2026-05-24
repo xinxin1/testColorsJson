@@ -1,0 +1,16 @@
+{
+  "id": "a71a5081-af7a-47ab-9463-1c3974606852",
+  "name": "Minecraft",
+  "fileName": "141_Minecraft",
+  "categoryIds": [
+    1005
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/a71a5081-af7a-47ab-9463-1c3974606852/cover.png",
+  "package": "sources/keyboards/themes/a71a5081-af7a-47ab-9463-1c3974606852/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

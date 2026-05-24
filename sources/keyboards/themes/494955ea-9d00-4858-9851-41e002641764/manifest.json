@@ -1,0 +1,16 @@
+{
+  "id": "494955ea-9d00-4858-9851-41e002641764",
+  "name": "Google Style",
+  "fileName": "66_GoogleStyle",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/494955ea-9d00-4858-9851-41e002641764/cover.png",
+  "package": "sources/keyboards/themes/494955ea-9d00-4858-9851-41e002641764/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

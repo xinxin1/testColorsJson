@@ -1,0 +1,16 @@
+{
+  "id": "1c29b0e0-3088-4e17-b1d9-6c285994645a",
+  "name": "Grey&Green",
+  "fileName": "58_Grey&Green",
+  "categoryIds": [
+    1008
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/1c29b0e0-3088-4e17-b1d9-6c285994645a/cover.png",
+  "package": "sources/keyboards/themes/1c29b0e0-3088-4e17-b1d9-6c285994645a/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

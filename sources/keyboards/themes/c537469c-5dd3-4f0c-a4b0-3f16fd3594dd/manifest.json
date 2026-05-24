@@ -1,0 +1,16 @@
+{
+  "id": "c537469c-5dd3-4f0c-a4b0-3f16fd3594dd",
+  "name": "Purple Flowers",
+  "fileName": "42_PurpleFlowers",
+  "categoryIds": [
+    1009
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/c537469c-5dd3-4f0c-a4b0-3f16fd3594dd/cover.png",
+  "package": "sources/keyboards/themes/c537469c-5dd3-4f0c-a4b0-3f16fd3594dd/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

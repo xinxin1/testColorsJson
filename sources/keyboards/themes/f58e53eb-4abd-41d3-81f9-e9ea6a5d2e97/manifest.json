@@ -1,0 +1,17 @@
+{
+  "id": "f58e53eb-4abd-41d3-81f9-e9ea6a5d2e97",
+  "name": "BLACK",
+  "fileName": "79_BLACK",
+  "categoryIds": [
+    1008,
+    1013
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/f58e53eb-4abd-41d3-81f9-e9ea6a5d2e97/cover.png",
+  "package": "sources/keyboards/themes/f58e53eb-4abd-41d3-81f9-e9ea6a5d2e97/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

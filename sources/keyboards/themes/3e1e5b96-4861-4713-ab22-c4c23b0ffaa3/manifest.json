@@ -1,0 +1,16 @@
+{
+  "id": "3e1e5b96-4861-4713-ab22-c4c23b0ffaa3",
+  "name": "Love Song",
+  "fileName": "217_LoveSong",
+  "categoryIds": [
+    1002
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/3e1e5b96-4861-4713-ab22-c4c23b0ffaa3/cover.png",
+  "package": "sources/keyboards/themes/3e1e5b96-4861-4713-ab22-c4c23b0ffaa3/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

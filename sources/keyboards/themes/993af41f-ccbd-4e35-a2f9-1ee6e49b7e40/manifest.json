@@ -1,0 +1,17 @@
+{
+  "id": "993af41f-ccbd-4e35-a2f9-1ee6e49b7e40",
+  "name": "Shadow Gray",
+  "fileName": "15_ShadowGray",
+  "categoryIds": [
+    1008,
+    1013
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/993af41f-ccbd-4e35-a2f9-1ee6e49b7e40/cover.png",
+  "package": "sources/keyboards/themes/993af41f-ccbd-4e35-a2f9-1ee6e49b7e40/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "e2e7b92b-6e00-49f3-9144-03330782aada",
+  "name": "SPAxFAMILY",
+  "fileName": "248_SPAxFAMILY",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e2e7b92b-6e00-49f3-9144-03330782aada/cover.png",
+  "package": "sources/keyboards/themes/e2e7b92b-6e00-49f3-9144-03330782aada/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

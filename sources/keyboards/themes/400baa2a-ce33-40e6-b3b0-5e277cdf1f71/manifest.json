@@ -1,0 +1,16 @@
+{
+  "id": "400baa2a-ce33-40e6-b3b0-5e277cdf1f71",
+  "name": "Space Travelling",
+  "fileName": "255_SpaceTravelling",
+  "categoryIds": [
+    1006
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/400baa2a-ce33-40e6-b3b0-5e277cdf1f71/cover.png",
+  "package": "sources/keyboards/themes/400baa2a-ce33-40e6-b3b0-5e277cdf1f71/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

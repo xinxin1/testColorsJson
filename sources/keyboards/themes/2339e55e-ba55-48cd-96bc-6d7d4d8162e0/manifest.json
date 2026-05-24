@@ -1,0 +1,18 @@
+{
+  "id": "2339e55e-ba55-48cd-96bc-6d7d4d8162e0",
+  "name": "Moonlight Ballet",
+  "fileName": "70_MoonlightBallet",
+  "categoryIds": [
+    1003,
+    1006,
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/2339e55e-ba55-48cd-96bc-6d7d4d8162e0/cover.png",
+  "package": "sources/keyboards/themes/2339e55e-ba55-48cd-96bc-6d7d4d8162e0/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

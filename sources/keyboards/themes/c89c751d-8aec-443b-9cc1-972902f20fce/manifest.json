@@ -1,0 +1,16 @@
+{
+  "id": "c89c751d-8aec-443b-9cc1-972902f20fce",
+  "name": "Ethereal Fantasy",
+  "fileName": "23_EtherealFantasy",
+  "categoryIds": [
+    1007
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/c89c751d-8aec-443b-9cc1-972902f20fce/cover.png",
+  "package": "sources/keyboards/themes/c89c751d-8aec-443b-9cc1-972902f20fce/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

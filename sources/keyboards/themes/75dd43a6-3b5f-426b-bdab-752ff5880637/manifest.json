@@ -1,0 +1,16 @@
+{
+  "id": "75dd43a6-3b5f-426b-bdab-752ff5880637",
+  "name": "Wednesday",
+  "fileName": "100_Wednesday",
+  "categoryIds": [
+    1004
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/75dd43a6-3b5f-426b-bdab-752ff5880637/cover.png",
+  "package": "sources/keyboards/themes/75dd43a6-3b5f-426b-bdab-752ff5880637/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

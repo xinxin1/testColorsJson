@@ -1,0 +1,18 @@
+{
+  "id": "91342dbf-c6b4-4965-b132-e6cecd9dd5ac",
+  "name": "Cute Ghost",
+  "fileName": "51_CuteGhost",
+  "categoryIds": [
+    1001,
+    1007,
+    1013
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/91342dbf-c6b4-4965-b132-e6cecd9dd5ac/cover.png",
+  "package": "sources/keyboards/themes/91342dbf-c6b4-4965-b132-e6cecd9dd5ac/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

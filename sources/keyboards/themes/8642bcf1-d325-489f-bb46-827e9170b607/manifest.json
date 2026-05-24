@@ -1,0 +1,17 @@
+{
+  "id": "8642bcf1-d325-489f-bb46-827e9170b607",
+  "name": "XmasIsAmongUs",
+  "fileName": "209_XmasIsAmongUs",
+  "categoryIds": [
+    1005,
+    1011
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/8642bcf1-d325-489f-bb46-827e9170b607/cover.png",
+  "package": "sources/keyboards/themes/8642bcf1-d325-489f-bb46-827e9170b607/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "8498a4f4-0be4-48ea-af99-46326ba617e9",
+  "name": "Galaxy Walk",
+  "fileName": "51_GalaxyWalk",
+  "categoryIds": [
+    1006
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/8498a4f4-0be4-48ea-af99-46326ba617e9/cover.png",
+  "package": "sources/keyboards/themes/8498a4f4-0be4-48ea-af99-46326ba617e9/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

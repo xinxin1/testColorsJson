@@ -1,0 +1,16 @@
+{
+  "id": "91f5078e-9d28-4eb0-b448-9043f71bcdd2",
+  "name": "Twinkle Popo",
+  "fileName": "75_TwinklePopo",
+  "categoryIds": [
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/91f5078e-9d28-4eb0-b448-9043f71bcdd2/cover.gif",
+  "package": "sources/keyboards/themes/91f5078e-9d28-4eb0-b448-9043f71bcdd2/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

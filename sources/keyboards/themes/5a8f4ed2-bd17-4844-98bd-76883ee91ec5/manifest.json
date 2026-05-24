@@ -1,0 +1,16 @@
+{
+  "id": "5a8f4ed2-bd17-4844-98bd-76883ee91ec5",
+  "name": "Egypt",
+  "fileName": "67_Egypt",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/5a8f4ed2-bd17-4844-98bd-76883ee91ec5/cover.png",
+  "package": "sources/keyboards/themes/5a8f4ed2-bd17-4844-98bd-76883ee91ec5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

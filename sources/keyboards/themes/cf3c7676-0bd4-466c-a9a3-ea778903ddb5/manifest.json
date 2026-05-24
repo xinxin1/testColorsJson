@@ -1,0 +1,16 @@
+{
+  "id": "cf3c7676-0bd4-466c-a9a3-ea778903ddb5",
+  "name": "Grey Style",
+  "fileName": "208_GreyStyle",
+  "categoryIds": [
+    1008
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/cf3c7676-0bd4-466c-a9a3-ea778903ddb5/cover.png",
+  "package": "sources/keyboards/themes/cf3c7676-0bd4-466c-a9a3-ea778903ddb5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

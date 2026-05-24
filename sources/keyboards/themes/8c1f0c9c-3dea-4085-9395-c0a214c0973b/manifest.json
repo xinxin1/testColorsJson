@@ -1,0 +1,16 @@
+{
+  "id": "8c1f0c9c-3dea-4085-9395-c0a214c0973b",
+  "name": "Pass Through",
+  "fileName": "266_PassThrough",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/8c1f0c9c-3dea-4085-9395-c0a214c0973b/cover.png",
+  "package": "sources/keyboards/themes/8c1f0c9c-3dea-4085-9395-c0a214c0973b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

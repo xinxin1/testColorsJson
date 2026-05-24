@@ -1,0 +1,16 @@
+{
+  "id": "641847b5-0dc7-499c-aba6-14813d96c25b",
+  "name": "Minimalist",
+  "fileName": "10_Minimalist",
+  "categoryIds": [
+    1008
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/641847b5-0dc7-499c-aba6-14813d96c25b/cover.png",
+  "package": "sources/keyboards/themes/641847b5-0dc7-499c-aba6-14813d96c25b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

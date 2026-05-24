@@ -1,0 +1,16 @@
+{
+  "id": "0c9a66c4-5174-497b-a369-1bdcce61f57c",
+  "name": "Pink Button",
+  "fileName": "1_PinkButton",
+  "categoryIds": [
+    1001
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/0c9a66c4-5174-497b-a369-1bdcce61f57c/cover.png",
+  "package": "sources/keyboards/themes/0c9a66c4-5174-497b-a369-1bdcce61f57c/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

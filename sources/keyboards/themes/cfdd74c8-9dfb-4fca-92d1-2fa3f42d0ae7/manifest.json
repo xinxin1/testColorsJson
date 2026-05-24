@@ -1,0 +1,16 @@
+{
+  "id": "cfdd74c8-9dfb-4fca-92d1-2fa3f42d0ae7",
+  "name": "Neon Lamp",
+  "fileName": "18_NeonLamp",
+  "categoryIds": [
+    1003
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/cfdd74c8-9dfb-4fca-92d1-2fa3f42d0ae7/cover.png",
+  "package": "sources/keyboards/themes/cfdd74c8-9dfb-4fca-92d1-2fa3f42d0ae7/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

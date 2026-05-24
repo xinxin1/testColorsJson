@@ -1,0 +1,16 @@
+{
+  "id": "dc832912-01ea-45b6-8cf1-b30624164da5",
+  "name": "Genshin Impact",
+  "fileName": "221_GenshinImpact",
+  "categoryIds": [
+    1005
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/dc832912-01ea-45b6-8cf1-b30624164da5/cover.png",
+  "package": "sources/keyboards/themes/dc832912-01ea-45b6-8cf1-b30624164da5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

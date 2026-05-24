@@ -1,0 +1,16 @@
+{
+  "id": "10d2518d-041a-4400-921f-6b0be3890020",
+  "name": "Kamado Tanjirou",
+  "fileName": "165_KamadoTanjirou",
+  "categoryIds": [
+    1004
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/10d2518d-041a-4400-921f-6b0be3890020/cover.png",
+  "package": "sources/keyboards/themes/10d2518d-041a-4400-921f-6b0be3890020/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

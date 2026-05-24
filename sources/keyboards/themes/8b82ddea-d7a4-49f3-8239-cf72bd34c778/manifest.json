@@ -1,0 +1,16 @@
+{
+  "id": "8b82ddea-d7a4-49f3-8239-cf72bd34c778",
+  "name": "Parallel Universe",
+  "fileName": "71_ParallelUniverse",
+  "categoryIds": [
+    1006
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/8b82ddea-d7a4-49f3-8239-cf72bd34c778/cover.png",
+  "package": "sources/keyboards/themes/8b82ddea-d7a4-49f3-8239-cf72bd34c778/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

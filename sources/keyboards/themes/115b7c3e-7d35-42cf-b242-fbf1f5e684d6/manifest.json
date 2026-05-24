@@ -1,0 +1,16 @@
+{
+  "id": "115b7c3e-7d35-42cf-b242-fbf1f5e684d6",
+  "name": "Butterfly Dream",
+  "fileName": "282_ButterflyDream",
+  "categoryIds": [
+    1007
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/115b7c3e-7d35-42cf-b242-fbf1f5e684d6/cover.png",
+  "package": "sources/keyboards/themes/115b7c3e-7d35-42cf-b242-fbf1f5e684d6/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

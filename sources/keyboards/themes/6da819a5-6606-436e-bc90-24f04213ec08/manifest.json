@@ -1,0 +1,17 @@
+{
+  "id": "6da819a5-6606-436e-bc90-24f04213ec08",
+  "name": "Dark Night",
+  "fileName": "39_DarkNight",
+  "categoryIds": [
+    1008,
+    1013
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/6da819a5-6606-436e-bc90-24f04213ec08/cover.png",
+  "package": "sources/keyboards/themes/6da819a5-6606-436e-bc90-24f04213ec08/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

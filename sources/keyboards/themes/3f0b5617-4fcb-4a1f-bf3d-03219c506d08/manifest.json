@@ -1,0 +1,16 @@
+{
+  "id": "3f0b5617-4fcb-4a1f-bf3d-03219c506d08",
+  "name": "Red Sun",
+  "fileName": "56_RedSun",
+  "categoryIds": [
+    1006
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/3f0b5617-4fcb-4a1f-bf3d-03219c506d08/cover.png",
+  "package": "sources/keyboards/themes/3f0b5617-4fcb-4a1f-bf3d-03219c506d08/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

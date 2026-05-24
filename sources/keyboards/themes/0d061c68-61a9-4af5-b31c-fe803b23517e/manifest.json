@@ -1,0 +1,16 @@
+{
+  "id": "0d061c68-61a9-4af5-b31c-fe803b23517e",
+  "name": "Interstellar",
+  "fileName": "104_Interstellar",
+  "categoryIds": [
+    1006
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/0d061c68-61a9-4af5-b31c-fe803b23517e/cover.png",
+  "package": "sources/keyboards/themes/0d061c68-61a9-4af5-b31c-fe803b23517e/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

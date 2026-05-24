@@ -1,0 +1,16 @@
+{
+  "id": "e35042be-1cce-4f4a-948f-cdef21f2e6fe",
+  "name": "Cute Duck",
+  "fileName": "41_CuteDuck",
+  "categoryIds": [
+    1001
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/e35042be-1cce-4f4a-948f-cdef21f2e6fe/cover.png",
+  "package": "sources/keyboards/themes/e35042be-1cce-4f4a-948f-cdef21f2e6fe/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

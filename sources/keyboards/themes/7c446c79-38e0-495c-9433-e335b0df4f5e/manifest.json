@@ -1,0 +1,16 @@
+{
+  "id": "7c446c79-38e0-495c-9433-e335b0df4f5e",
+  "name": "Heart Candle",
+  "fileName": "22_HeartCandle",
+  "categoryIds": [
+    1002
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/7c446c79-38e0-495c-9433-e335b0df4f5e/cover.png",
+  "package": "sources/keyboards/themes/7c446c79-38e0-495c-9433-e335b0df4f5e/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "5378d5f6-6e7f-4550-b79a-3c075b8ec148",
+  "name": "Sunset Cottage",
+  "fileName": "315_SunsetCottage",
+  "categoryIds": [
+    1010
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/5378d5f6-6e7f-4550-b79a-3c075b8ec148/cover.png",
+  "package": "sources/keyboards/themes/5378d5f6-6e7f-4550-b79a-3c075b8ec148/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

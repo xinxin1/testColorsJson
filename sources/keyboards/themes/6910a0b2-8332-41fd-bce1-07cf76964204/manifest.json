@@ -1,0 +1,16 @@
+{
+  "id": "6910a0b2-8332-41fd-bce1-07cf76964204",
+  "name": "Fresh",
+  "fileName": "182_Fresh",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/6910a0b2-8332-41fd-bce1-07cf76964204/cover.png",
+  "package": "sources/keyboards/themes/6910a0b2-8332-41fd-bce1-07cf76964204/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

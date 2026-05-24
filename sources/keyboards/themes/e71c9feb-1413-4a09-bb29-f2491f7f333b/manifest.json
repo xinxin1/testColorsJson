@@ -1,0 +1,17 @@
+{
+  "id": "e71c9feb-1413-4a09-bb29-f2491f7f333b",
+  "name": "Heartbeat",
+  "fileName": "130_Heartbeat",
+  "categoryIds": [
+    1002,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e71c9feb-1413-4a09-bb29-f2491f7f333b/cover.gif",
+  "package": "sources/keyboards/themes/e71c9feb-1413-4a09-bb29-f2491f7f333b/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

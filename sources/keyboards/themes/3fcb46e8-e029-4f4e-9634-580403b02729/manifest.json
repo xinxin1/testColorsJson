@@ -1,0 +1,16 @@
+{
+  "id": "3fcb46e8-e029-4f4e-9634-580403b02729",
+  "name": "One Piece",
+  "fileName": "73_OnePiece",
+  "categoryIds": [
+    1004
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/3fcb46e8-e029-4f4e-9634-580403b02729/cover.png",
+  "package": "sources/keyboards/themes/3fcb46e8-e029-4f4e-9634-580403b02729/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

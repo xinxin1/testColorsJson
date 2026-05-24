@@ -1,0 +1,17 @@
+{
+  "id": "87143328-531c-4c38-a9a5-65cc2a11086f",
+  "name": "Fairy Tail",
+  "fileName": "88_FairyTail",
+  "categoryIds": [
+    1004,
+    1007
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/87143328-531c-4c38-a9a5-65cc2a11086f/cover.png",
+  "package": "sources/keyboards/themes/87143328-531c-4c38-a9a5-65cc2a11086f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

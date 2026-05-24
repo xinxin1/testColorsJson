@@ -1,0 +1,17 @@
+{
+  "id": "e5ab0ea1-a980-4108-9049-ac4eb5757917",
+  "name": "BarbieMagic",
+  "fileName": "189_BarbieMagic",
+  "categoryIds": [
+    1002,
+    1007
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/e5ab0ea1-a980-4108-9049-ac4eb5757917/cover.png",
+  "package": "sources/keyboards/themes/e5ab0ea1-a980-4108-9049-ac4eb5757917/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

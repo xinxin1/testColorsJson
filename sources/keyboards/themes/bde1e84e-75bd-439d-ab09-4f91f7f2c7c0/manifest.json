@@ -1,0 +1,16 @@
+{
+  "id": "bde1e84e-75bd-439d-ab09-4f91f7f2c7c0",
+  "name": "Neon Lights",
+  "fileName": "115_NeonLights",
+  "categoryIds": [
+    1003
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/bde1e84e-75bd-439d-ab09-4f91f7f2c7c0/cover.png",
+  "package": "sources/keyboards/themes/bde1e84e-75bd-439d-ab09-4f91f7f2c7c0/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

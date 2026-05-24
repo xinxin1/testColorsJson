@@ -1,0 +1,17 @@
+{
+  "id": "1091be5c-2caa-4fe9-8043-782f058cfd09",
+  "name": "Capybara",
+  "fileName": "219_Capybara",
+  "categoryIds": [
+    1001,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/1091be5c-2caa-4fe9-8043-782f058cfd09/cover.png",
+  "package": "sources/keyboards/themes/1091be5c-2caa-4fe9-8043-782f058cfd09/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

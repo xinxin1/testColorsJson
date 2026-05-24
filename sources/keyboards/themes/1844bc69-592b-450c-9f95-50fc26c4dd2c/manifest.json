@@ -1,0 +1,16 @@
+{
+  "id": "1844bc69-592b-450c-9f95-50fc26c4dd2c",
+  "name": "Soft Mesh",
+  "fileName": "23_SoftMesh",
+  "categoryIds": [
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/1844bc69-592b-450c-9f95-50fc26c4dd2c/cover.png",
+  "package": "sources/keyboards/themes/1844bc69-592b-450c-9f95-50fc26c4dd2c/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

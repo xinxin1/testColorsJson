@@ -1,0 +1,16 @@
+{
+  "id": "6653e889-da2a-4d8c-b4aa-29a74e19a751",
+  "name": "Antarctica",
+  "fileName": "16_Antarctica",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/6653e889-da2a-4d8c-b4aa-29a74e19a751/cover.png",
+  "package": "sources/keyboards/themes/6653e889-da2a-4d8c-b4aa-29a74e19a751/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

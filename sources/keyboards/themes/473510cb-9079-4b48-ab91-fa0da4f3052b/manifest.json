@@ -1,0 +1,16 @@
+{
+  "id": "473510cb-9079-4b48-ab91-fa0da4f3052b",
+  "name": "Guide",
+  "fileName": "30_Guide",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/473510cb-9079-4b48-ab91-fa0da4f3052b/cover.png",
+  "package": "sources/keyboards/themes/473510cb-9079-4b48-ab91-fa0da4f3052b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

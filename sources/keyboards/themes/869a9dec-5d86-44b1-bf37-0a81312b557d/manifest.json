@@ -1,0 +1,17 @@
+{
+  "id": "869a9dec-5d86-44b1-bf37-0a81312b557d",
+  "name": "Fantasy Sky",
+  "fileName": "128_FantasySky",
+  "categoryIds": [
+    1006,
+    1007
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/869a9dec-5d86-44b1-bf37-0a81312b557d/cover.png",
+  "package": "sources/keyboards/themes/869a9dec-5d86-44b1-bf37-0a81312b557d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "41ef616e-2d43-4f02-b862-dff5319eee1f",
+  "name": "Cold Beauty",
+  "fileName": "15_ColdBeauty",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/41ef616e-2d43-4f02-b862-dff5319eee1f/cover.png",
+  "package": "sources/keyboards/themes/41ef616e-2d43-4f02-b862-dff5319eee1f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

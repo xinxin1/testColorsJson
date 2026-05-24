@@ -1,0 +1,17 @@
+{
+  "id": "69d202b7-ab87-4086-aab9-281403b156ab",
+  "name": "Luffy",
+  "fileName": "245_Luffy",
+  "categoryIds": [
+    1004,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/69d202b7-ab87-4086-aab9-281403b156ab/cover.gif",
+  "package": "sources/keyboards/themes/69d202b7-ab87-4086-aab9-281403b156ab/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

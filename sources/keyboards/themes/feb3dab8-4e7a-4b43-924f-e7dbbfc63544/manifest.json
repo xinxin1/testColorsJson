@@ -1,0 +1,16 @@
+{
+  "id": "feb3dab8-4e7a-4b43-924f-e7dbbfc63544",
+  "name": "AHSOKA",
+  "fileName": "336_AHSOKA",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/feb3dab8-4e7a-4b43-924f-e7dbbfc63544/cover.png",
+  "package": "sources/keyboards/themes/feb3dab8-4e7a-4b43-924f-e7dbbfc63544/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

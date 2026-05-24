@@ -1,0 +1,17 @@
+{
+  "id": "6c2fa237-d1a9-4f18-84bc-59d1d4381b96",
+  "name": "WaterRipple",
+  "fileName": "178_WaterRipple",
+  "categoryIds": [
+    1007,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/6c2fa237-d1a9-4f18-84bc-59d1d4381b96/cover.png",
+  "package": "sources/keyboards/themes/6c2fa237-d1a9-4f18-84bc-59d1d4381b96/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

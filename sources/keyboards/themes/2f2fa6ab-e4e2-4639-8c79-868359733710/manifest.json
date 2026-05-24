@@ -1,0 +1,16 @@
+{
+  "id": "2f2fa6ab-e4e2-4639-8c79-868359733710",
+  "name": "Digital City",
+  "fileName": "178_DigitalCity",
+  "categoryIds": [
+    1010
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/2f2fa6ab-e4e2-4639-8c79-868359733710/cover.png",
+  "package": "sources/keyboards/themes/2f2fa6ab-e4e2-4639-8c79-868359733710/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

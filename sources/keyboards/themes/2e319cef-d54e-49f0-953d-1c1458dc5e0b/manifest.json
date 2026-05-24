@@ -1,0 +1,17 @@
+{
+  "id": "2e319cef-d54e-49f0-953d-1c1458dc5e0b",
+  "name": "Blue Rose",
+  "fileName": "237_BlueRose",
+  "categoryIds": [
+    1002,
+    1003
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/2e319cef-d54e-49f0-953d-1c1458dc5e0b/cover.png",
+  "package": "sources/keyboards/themes/2e319cef-d54e-49f0-953d-1c1458dc5e0b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

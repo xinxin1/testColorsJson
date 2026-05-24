@@ -1,0 +1,17 @@
+{
+  "id": "88d9aec7-0b44-46c5-87b7-09225a8f19f1",
+  "name": "Hug",
+  "fileName": "62_Hug",
+  "categoryIds": [
+    1002,
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/88d9aec7-0b44-46c5-87b7-09225a8f19f1/cover.gif",
+  "package": "sources/keyboards/themes/88d9aec7-0b44-46c5-87b7-09225a8f19f1/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "8165b581-861c-47b8-9ce3-74a3fc36396f",
+  "name": "Moonlight",
+  "fileName": "124_Moonlight",
+  "categoryIds": [
+    1003,
+    1006
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/8165b581-861c-47b8-9ce3-74a3fc36396f/cover.png",
+  "package": "sources/keyboards/themes/8165b581-861c-47b8-9ce3-74a3fc36396f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

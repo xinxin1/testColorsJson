@@ -1,0 +1,16 @@
+{
+  "id": "83898cac-74ab-4a17-a4a9-3ee27e4469e4",
+  "name": "Field Radiance",
+  "fileName": "388_FieldRadiance",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/83898cac-74ab-4a17-a4a9-3ee27e4469e4/cover.png",
+  "package": "sources/keyboards/themes/83898cac-74ab-4a17-a4a9-3ee27e4469e4/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

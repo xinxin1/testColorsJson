@@ -1,0 +1,16 @@
+{
+  "id": "b4deae40-27fb-4684-b7a4-72c8a4c517d1",
+  "name": "Misty Forest",
+  "fileName": "30_MistyForest",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/b4deae40-27fb-4684-b7a4-72c8a4c517d1/cover.png",
+  "package": "sources/keyboards/themes/b4deae40-27fb-4684-b7a4-72c8a4c517d1/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

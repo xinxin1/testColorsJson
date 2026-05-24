@@ -1,0 +1,16 @@
+{
+  "id": "53f75332-49d1-4ae6-a0d7-b718291b66b7",
+  "name": "Hunter x Hunter",
+  "fileName": "88_HunterxHunter",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/53f75332-49d1-4ae6-a0d7-b718291b66b7/cover.png",
+  "package": "sources/keyboards/themes/53f75332-49d1-4ae6-a0d7-b718291b66b7/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

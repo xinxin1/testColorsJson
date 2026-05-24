@@ -1,0 +1,16 @@
+{
+  "id": "0b5959be-51ad-4816-b801-a90e17a04352",
+  "name": "Phantom Wolf",
+  "fileName": "31_PhantomWolf",
+  "categoryIds": [
+    1007
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/0b5959be-51ad-4816-b801-a90e17a04352/cover.png",
+  "package": "sources/keyboards/themes/0b5959be-51ad-4816-b801-a90e17a04352/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

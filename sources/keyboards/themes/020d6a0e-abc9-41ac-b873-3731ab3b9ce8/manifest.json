@@ -1,0 +1,16 @@
+{
+  "id": "020d6a0e-abc9-41ac-b873-3731ab3b9ce8",
+  "name": "Love You",
+  "fileName": "140_LoveYou",
+  "categoryIds": [
+    1002
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/020d6a0e-abc9-41ac-b873-3731ab3b9ce8/cover.png",
+  "package": "sources/keyboards/themes/020d6a0e-abc9-41ac-b873-3731ab3b9ce8/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

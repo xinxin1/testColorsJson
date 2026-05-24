@@ -1,0 +1,17 @@
+{
+  "id": "3e779c1f-2a61-4615-84fa-291e12b01385",
+  "name": "Choppy",
+  "fileName": "184_Choppy",
+  "categoryIds": [
+    1007,
+    1012
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/3e779c1f-2a61-4615-84fa-291e12b01385/cover.png",
+  "package": "sources/keyboards/themes/3e779c1f-2a61-4615-84fa-291e12b01385/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": false,
+    "hasMp4": true
+  }
+}

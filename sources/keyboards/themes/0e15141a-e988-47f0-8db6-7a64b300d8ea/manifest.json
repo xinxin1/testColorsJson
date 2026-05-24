@@ -1,0 +1,16 @@
+{
+  "id": "0e15141a-e988-47f0-8db6-7a64b300d8ea",
+  "name": "Broken Castle",
+  "fileName": "6_BrokenCastle",
+  "categoryIds": [
+    1007
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/0e15141a-e988-47f0-8db6-7a64b300d8ea/cover.png",
+  "package": "sources/keyboards/themes/0e15141a-e988-47f0-8db6-7a64b300d8ea/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

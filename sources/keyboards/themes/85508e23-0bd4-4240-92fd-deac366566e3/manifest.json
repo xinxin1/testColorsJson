@@ -1,0 +1,16 @@
+{
+  "id": "85508e23-0bd4-4240-92fd-deac366566e3",
+  "name": "Wonderland",
+  "fileName": "228_Wonderland",
+  "categoryIds": [
+    1007
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/85508e23-0bd4-4240-92fd-deac366566e3/cover.png",
+  "package": "sources/keyboards/themes/85508e23-0bd4-4240-92fd-deac366566e3/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

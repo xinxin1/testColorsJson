@@ -1,0 +1,16 @@
+{
+  "id": "364c51fe-32f8-4fdc-bf6d-bc062d7aa475",
+  "name": "Cute Cinnamoroll",
+  "fileName": "35_CuteCinnamoroll",
+  "categoryIds": [
+    1001
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/364c51fe-32f8-4fdc-bf6d-bc062d7aa475/cover.png",
+  "package": "sources/keyboards/themes/364c51fe-32f8-4fdc-bf6d-bc062d7aa475/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

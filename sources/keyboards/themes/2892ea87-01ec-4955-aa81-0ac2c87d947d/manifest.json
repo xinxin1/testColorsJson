@@ -1,0 +1,16 @@
+{
+  "id": "2892ea87-01ec-4955-aa81-0ac2c87d947d",
+  "name": "Fluid Hues",
+  "fileName": "390_FluidHues",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/2892ea87-01ec-4955-aa81-0ac2c87d947d/cover.png",
+  "package": "sources/keyboards/themes/2892ea87-01ec-4955-aa81-0ac2c87d947d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "072ed83c-b01a-4261-b66e-6833b2c38498",
+  "name": "Purple Glow",
+  "fileName": "152_PurpleGlow",
+  "categoryIds": [
+    1003
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/072ed83c-b01a-4261-b66e-6833b2c38498/cover.png",
+  "package": "sources/keyboards/themes/072ed83c-b01a-4261-b66e-6833b2c38498/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

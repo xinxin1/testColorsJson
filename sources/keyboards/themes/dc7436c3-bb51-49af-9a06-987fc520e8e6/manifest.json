@@ -1,0 +1,16 @@
+{
+  "id": "dc7436c3-bb51-49af-9a06-987fc520e8e6",
+  "name": "LEONARDO DICAPRIO",
+  "fileName": "232_LEONARDODICAPRIO",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/dc7436c3-bb51-49af-9a06-987fc520e8e6/cover.png",
+  "package": "sources/keyboards/themes/dc7436c3-bb51-49af-9a06-987fc520e8e6/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "93fcc1ca-b81b-41ac-afe1-a22cada1888b",
+  "name": "Ferris Wheel",
+  "fileName": "154_FerrisWheel",
+  "categoryIds": [
+    1003
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/93fcc1ca-b81b-41ac-afe1-a22cada1888b/cover.png",
+  "package": "sources/keyboards/themes/93fcc1ca-b81b-41ac-afe1-a22cada1888b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

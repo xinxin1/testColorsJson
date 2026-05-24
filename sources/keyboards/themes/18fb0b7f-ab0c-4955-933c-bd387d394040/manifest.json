@@ -1,0 +1,17 @@
+{
+  "id": "18fb0b7f-ab0c-4955-933c-bd387d394040",
+  "name": "Crystal Love",
+  "fileName": "288_CrystalLove",
+  "categoryIds": [
+    1002,
+    1012
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/18fb0b7f-ab0c-4955-933c-bd387d394040/cover.png",
+  "package": "sources/keyboards/themes/18fb0b7f-ab0c-4955-933c-bd387d394040/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

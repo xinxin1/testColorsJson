@@ -1,0 +1,16 @@
+{
+  "id": "0c29b5cc-f1da-4a54-bade-363191311fe7",
+  "name": "Christmas Gift",
+  "fileName": "33_ChristmasGift",
+  "categoryIds": [
+    1011
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/0c29b5cc-f1da-4a54-bade-363191311fe7/cover.png",
+  "package": "sources/keyboards/themes/0c29b5cc-f1da-4a54-bade-363191311fe7/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

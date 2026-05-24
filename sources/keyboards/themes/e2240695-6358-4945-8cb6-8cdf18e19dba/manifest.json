@@ -1,0 +1,16 @@
+{
+  "id": "e2240695-6358-4945-8cb6-8cdf18e19dba",
+  "name": "Haikyuu!!",
+  "fileName": "118_Haikyuu!!",
+  "categoryIds": [
+    1004
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/e2240695-6358-4945-8cb6-8cdf18e19dba/cover.png",
+  "package": "sources/keyboards/themes/e2240695-6358-4945-8cb6-8cdf18e19dba/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

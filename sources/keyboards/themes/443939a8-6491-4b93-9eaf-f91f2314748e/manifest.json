@@ -1,0 +1,16 @@
+{
+  "id": "443939a8-6491-4b93-9eaf-f91f2314748e",
+  "name": "Carbon Fiber",
+  "fileName": "172_CarbonFiber",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/443939a8-6491-4b93-9eaf-f91f2314748e/cover.png",
+  "package": "sources/keyboards/themes/443939a8-6491-4b93-9eaf-f91f2314748e/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

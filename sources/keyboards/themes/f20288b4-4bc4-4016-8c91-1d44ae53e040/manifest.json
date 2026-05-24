@@ -1,0 +1,18 @@
+{
+  "id": "f20288b4-4bc4-4016-8c91-1d44ae53e040",
+  "name": "Cybercity",
+  "fileName": "246_Cybercity",
+  "categoryIds": [
+    1003,
+    1010,
+    1012
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/f20288b4-4bc4-4016-8c91-1d44ae53e040/cover.gif",
+  "package": "sources/keyboards/themes/f20288b4-4bc4-4016-8c91-1d44ae53e040/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

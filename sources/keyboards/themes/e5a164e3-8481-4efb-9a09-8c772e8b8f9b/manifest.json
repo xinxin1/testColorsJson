@@ -1,0 +1,16 @@
+{
+  "id": "e5a164e3-8481-4efb-9a09-8c772e8b8f9b",
+  "name": "Glow Tube",
+  "fileName": "176_GlowTube",
+  "categoryIds": [
+    1003
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/e5a164e3-8481-4efb-9a09-8c772e8b8f9b/cover.png",
+  "package": "sources/keyboards/themes/e5a164e3-8481-4efb-9a09-8c772e8b8f9b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "af6b8d8d-d573-48cf-9a5d-e1aee08b9b11",
+  "name": "Bejita Yonsei",
+  "fileName": "86_BejitaYonsei",
+  "categoryIds": [
+    1012
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/af6b8d8d-d573-48cf-9a5d-e1aee08b9b11/cover.gif",
+  "package": "sources/keyboards/themes/af6b8d8d-d573-48cf-9a5d-e1aee08b9b11/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

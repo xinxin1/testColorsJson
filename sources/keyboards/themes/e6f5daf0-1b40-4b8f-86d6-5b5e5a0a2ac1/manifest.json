@@ -1,0 +1,16 @@
+{
+  "id": "e6f5daf0-1b40-4b8f-86d6-5b5e5a0a2ac1",
+  "name": "PUBGMOBILE",
+  "fileName": "324_PUBGMOBILE",
+  "categoryIds": [
+    1005
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e6f5daf0-1b40-4b8f-86d6-5b5e5a0a2ac1/cover.png",
+  "package": "sources/keyboards/themes/e6f5daf0-1b40-4b8f-86d6-5b5e5a0a2ac1/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

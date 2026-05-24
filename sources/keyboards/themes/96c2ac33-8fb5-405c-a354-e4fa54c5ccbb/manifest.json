@@ -1,0 +1,16 @@
+{
+  "id": "96c2ac33-8fb5-405c-a354-e4fa54c5ccbb",
+  "name": "Pink Car",
+  "fileName": "14_PinkCar",
+  "categoryIds": [
+    1001
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/96c2ac33-8fb5-405c-a354-e4fa54c5ccbb/cover.png",
+  "package": "sources/keyboards/themes/96c2ac33-8fb5-405c-a354-e4fa54c5ccbb/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

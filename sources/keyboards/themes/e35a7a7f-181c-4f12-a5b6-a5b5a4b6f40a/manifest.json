@@ -1,0 +1,16 @@
+{
+  "id": "e35a7a7f-181c-4f12-a5b6-a5b5a4b6f40a",
+  "name": "Love Confession",
+  "fileName": "381_LoveConfession",
+  "categoryIds": [
+    1002
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/e35a7a7f-181c-4f12-a5b6-a5b5a4b6f40a/cover.png",
+  "package": "sources/keyboards/themes/e35a7a7f-181c-4f12-a5b6-a5b5a4b6f40a/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

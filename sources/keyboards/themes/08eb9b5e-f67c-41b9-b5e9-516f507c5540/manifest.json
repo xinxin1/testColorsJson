@@ -1,0 +1,16 @@
+{
+  "id": "08eb9b5e-f67c-41b9-b5e9-516f507c5540",
+  "name": "Billie Eilish",
+  "fileName": "215_BillieEilish",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/08eb9b5e-f67c-41b9-b5e9-516f507c5540/cover.png",
+  "package": "sources/keyboards/themes/08eb9b5e-f67c-41b9-b5e9-516f507c5540/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

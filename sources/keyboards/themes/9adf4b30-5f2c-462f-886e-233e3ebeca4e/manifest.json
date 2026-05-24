@@ -1,0 +1,18 @@
+{
+  "id": "9adf4b30-5f2c-462f-886e-233e3ebeca4e",
+  "name": "Skull",
+  "fileName": "203_Skull",
+  "categoryIds": [
+    1003,
+    1011,
+    1012
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/9adf4b30-5f2c-462f-886e-233e3ebeca4e/cover.gif",
+  "package": "sources/keyboards/themes/9adf4b30-5f2c-462f-886e-233e3ebeca4e/package.zip",
+  "features": {
+    "dynamic": true,
+    "hasGif": true,
+    "hasMp4": false
+  }
+}

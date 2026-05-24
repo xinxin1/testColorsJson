@@ -1,0 +1,16 @@
+{
+  "id": "b85bb9c5-d092-491d-9228-f8d51f40a3d5",
+  "name": "Uzumaki Naruto",
+  "fileName": "84_UzumakiNaruto",
+  "categoryIds": [
+    1004
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/b85bb9c5-d092-491d-9228-f8d51f40a3d5/cover.png",
+  "package": "sources/keyboards/themes/b85bb9c5-d092-491d-9228-f8d51f40a3d5/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

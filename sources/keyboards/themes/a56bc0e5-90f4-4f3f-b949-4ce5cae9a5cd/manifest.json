@@ -1,0 +1,16 @@
+{
+  "id": "a56bc0e5-90f4-4f3f-b949-4ce5cae9a5cd",
+  "name": "Broken Drill",
+  "fileName": "226_BrokenDrill",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/a56bc0e5-90f4-4f3f-b949-4ce5cae9a5cd/cover.png",
+  "package": "sources/keyboards/themes/a56bc0e5-90f4-4f3f-b949-4ce5cae9a5cd/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

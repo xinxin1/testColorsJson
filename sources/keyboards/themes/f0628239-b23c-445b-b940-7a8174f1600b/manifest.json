@@ -1,0 +1,16 @@
+{
+  "id": "f0628239-b23c-445b-b940-7a8174f1600b",
+  "name": "Christmas",
+  "fileName": "98_Christmas",
+  "categoryIds": [
+    1011
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/f0628239-b23c-445b-b940-7a8174f1600b/cover.png",
+  "package": "sources/keyboards/themes/f0628239-b23c-445b-b940-7a8174f1600b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

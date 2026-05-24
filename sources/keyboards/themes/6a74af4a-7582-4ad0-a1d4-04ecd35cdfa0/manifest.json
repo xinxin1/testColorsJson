@@ -1,0 +1,16 @@
+{
+  "id": "6a74af4a-7582-4ad0-a1d4-04ecd35cdfa0",
+  "name": "Metal Slug",
+  "fileName": "114_MetalSlug",
+  "categoryIds": [
+    1005
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/6a74af4a-7582-4ad0-a1d4-04ecd35cdfa0/cover.png",
+  "package": "sources/keyboards/themes/6a74af4a-7582-4ad0-a1d4-04ecd35cdfa0/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

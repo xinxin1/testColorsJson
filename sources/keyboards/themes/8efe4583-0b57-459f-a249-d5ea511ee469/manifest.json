@@ -1,0 +1,16 @@
+{
+  "id": "8efe4583-0b57-459f-a249-d5ea511ee469",
+  "name": "Doberman",
+  "fileName": "29_Doberman",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/8efe4583-0b57-459f-a249-d5ea511ee469/cover.png",
+  "package": "sources/keyboards/themes/8efe4583-0b57-459f-a249-d5ea511ee469/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

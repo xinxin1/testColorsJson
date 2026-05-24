@@ -1,0 +1,16 @@
+{
+  "id": "5a5f9d9c-cd87-47b8-86a4-9e5ed20afaf2",
+  "name": "Pika Pika",
+  "fileName": "55_PikaPika",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/5a5f9d9c-cd87-47b8-86a4-9e5ed20afaf2/cover.png",
+  "package": "sources/keyboards/themes/5a5f9d9c-cd87-47b8-86a4-9e5ed20afaf2/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

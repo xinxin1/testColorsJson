@@ -1,0 +1,16 @@
+{
+  "id": "44458cbd-e704-4c3c-b9bf-c48629d52e7e",
+  "name": "Outline",
+  "fileName": "72_Outline",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/44458cbd-e704-4c3c-b9bf-c48629d52e7e/cover.png",
+  "package": "sources/keyboards/themes/44458cbd-e704-4c3c-b9bf-c48629d52e7e/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "9fa29b68-46bb-4f49-954f-db61181570ce",
+  "name": "Jujutsu Kaisen",
+  "fileName": "82_JujutsuKaisen",
+  "categoryIds": [
+    1004
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/9fa29b68-46bb-4f49-954f-db61181570ce/cover.png",
+  "package": "sources/keyboards/themes/9fa29b68-46bb-4f49-954f-db61181570ce/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

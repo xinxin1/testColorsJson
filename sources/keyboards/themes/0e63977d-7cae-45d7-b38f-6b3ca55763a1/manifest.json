@@ -1,0 +1,16 @@
+{
+  "id": "0e63977d-7cae-45d7-b38f-6b3ca55763a1",
+  "name": "Scenic Serenity",
+  "fileName": "387_ScenicSerenity",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/0e63977d-7cae-45d7-b38f-6b3ca55763a1/cover.png",
+  "package": "sources/keyboards/themes/0e63977d-7cae-45d7-b38f-6b3ca55763a1/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

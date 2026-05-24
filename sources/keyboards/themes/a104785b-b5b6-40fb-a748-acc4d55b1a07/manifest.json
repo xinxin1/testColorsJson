@@ -1,0 +1,16 @@
+{
+  "id": "a104785b-b5b6-40fb-a748-acc4d55b1a07",
+  "name": "Welcome 2025",
+  "fileName": "298_Welcome2025",
+  "categoryIds": [
+    1011
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/a104785b-b5b6-40fb-a748-acc4d55b1a07/cover.png",
+  "package": "sources/keyboards/themes/a104785b-b5b6-40fb-a748-acc4d55b1a07/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

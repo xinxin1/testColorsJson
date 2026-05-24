@@ -1,0 +1,16 @@
+{
+  "id": "54f922a7-d039-4cd4-bceb-860827271645",
+  "name": "Merry Xmas",
+  "fileName": "93_MerryXmas",
+  "categoryIds": [
+    1011
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/54f922a7-d039-4cd4-bceb-860827271645/cover.png",
+  "package": "sources/keyboards/themes/54f922a7-d039-4cd4-bceb-860827271645/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

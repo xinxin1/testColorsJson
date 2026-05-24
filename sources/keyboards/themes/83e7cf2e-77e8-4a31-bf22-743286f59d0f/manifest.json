@@ -1,0 +1,16 @@
+{
+  "id": "83e7cf2e-77e8-4a31-bf22-743286f59d0f",
+  "name": "Neon Dialogue",
+  "fileName": "232_NeonDialogue",
+  "categoryIds": [
+    1003
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/83e7cf2e-77e8-4a31-bf22-743286f59d0f/cover.png",
+  "package": "sources/keyboards/themes/83e7cf2e-77e8-4a31-bf22-743286f59d0f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

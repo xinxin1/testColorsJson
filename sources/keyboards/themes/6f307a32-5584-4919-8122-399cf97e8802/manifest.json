@@ -1,0 +1,16 @@
+{
+  "id": "6f307a32-5584-4919-8122-399cf97e8802",
+  "name": "Bar",
+  "fileName": "76_Bar",
+  "categoryIds": [
+    1014
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/6f307a32-5584-4919-8122-399cf97e8802/cover.png",
+  "package": "sources/keyboards/themes/6f307a32-5584-4919-8122-399cf97e8802/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

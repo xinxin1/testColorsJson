@@ -1,0 +1,17 @@
+{
+  "id": "6cd0005a-fe20-440c-a18a-1f234ab5d48d",
+  "name": "Classic Flower",
+  "fileName": "97_ClassicFlower",
+  "categoryIds": [
+    1009,
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/6cd0005a-fe20-440c-a18a-1f234ab5d48d/cover.png",
+  "package": "sources/keyboards/themes/6cd0005a-fe20-440c-a18a-1f234ab5d48d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

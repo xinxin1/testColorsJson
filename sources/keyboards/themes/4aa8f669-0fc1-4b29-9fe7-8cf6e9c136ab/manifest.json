@@ -1,0 +1,16 @@
+{
+  "id": "4aa8f669-0fc1-4b29-9fe7-8cf6e9c136ab",
+  "name": "Stray",
+  "fileName": "261_Stray",
+  "categoryIds": [
+    1005
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/4aa8f669-0fc1-4b29-9fe7-8cf6e9c136ab/cover.png",
+  "package": "sources/keyboards/themes/4aa8f669-0fc1-4b29-9fe7-8cf6e9c136ab/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

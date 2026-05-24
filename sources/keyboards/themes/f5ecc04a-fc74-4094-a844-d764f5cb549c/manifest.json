@@ -1,0 +1,16 @@
+{
+  "id": "f5ecc04a-fc74-4094-a844-d764f5cb549c",
+  "name": "Aquarius",
+  "fileName": "311_Aquarius",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/f5ecc04a-fc74-4094-a844-d764f5cb549c/cover.png",
+  "package": "sources/keyboards/themes/f5ecc04a-fc74-4094-a844-d764f5cb549c/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

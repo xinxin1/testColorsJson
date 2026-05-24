@@ -1,0 +1,16 @@
+{
+  "id": "35fe9fd3-4b30-4f89-bf04-9ad8fab13c44",
+  "name": "Celebrate 2026",
+  "fileName": "395_Celebrate2026",
+  "categoryIds": [
+    1011
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/35fe9fd3-4b30-4f89-bf04-9ad8fab13c44/cover.png",
+  "package": "sources/keyboards/themes/35fe9fd3-4b30-4f89-bf04-9ad8fab13c44/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ec8dfe78-bf47-48a7-bba2-61a7741a1fea",
+  "name": "Roronoa Zoro",
+  "fileName": "87_RoronoaZoro",
+  "categoryIds": [
+    1004
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/ec8dfe78-bf47-48a7-bba2-61a7741a1fea/cover.png",
+  "package": "sources/keyboards/themes/ec8dfe78-bf47-48a7-bba2-61a7741a1fea/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

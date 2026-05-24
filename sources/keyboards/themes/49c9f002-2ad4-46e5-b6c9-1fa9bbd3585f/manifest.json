@@ -1,0 +1,16 @@
+{
+  "id": "49c9f002-2ad4-46e5-b6c9-1fa9bbd3585f",
+  "name": "Candy Crush",
+  "fileName": "194_CandyCrush",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/49c9f002-2ad4-46e5-b6c9-1fa9bbd3585f/cover.png",
+  "package": "sources/keyboards/themes/49c9f002-2ad4-46e5-b6c9-1fa9bbd3585f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

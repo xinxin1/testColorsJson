@@ -1,0 +1,18 @@
+{
+  "id": "a3a6ccca-3492-43f5-b15a-db718fe93798",
+  "name": "Jelly",
+  "fileName": "4_Jelly",
+  "categoryIds": [
+    1001,
+    1012,
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/a3a6ccca-3492-43f5-b15a-db718fe93798/cover.png",
+  "package": "sources/keyboards/themes/a3a6ccca-3492-43f5-b15a-db718fe93798/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2e926440-46b2-4130-99fd-d004a922dd00",
+  "name": "Kids Fun",
+  "fileName": "68_KidsFun",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/2e926440-46b2-4130-99fd-d004a922dd00/cover.png",
+  "package": "sources/keyboards/themes/2e926440-46b2-4130-99fd-d004a922dd00/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

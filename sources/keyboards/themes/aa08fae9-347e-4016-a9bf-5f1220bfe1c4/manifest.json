@@ -1,0 +1,16 @@
+{
+  "id": "aa08fae9-347e-4016-a9bf-5f1220bfe1c4",
+  "name": "Simplicity",
+  "fileName": "32_Simplicity",
+  "categoryIds": [
+    1008
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/aa08fae9-347e-4016-a9bf-5f1220bfe1c4/cover.png",
+  "package": "sources/keyboards/themes/aa08fae9-347e-4016-a9bf-5f1220bfe1c4/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

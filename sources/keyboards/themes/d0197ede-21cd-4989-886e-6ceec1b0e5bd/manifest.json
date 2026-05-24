@@ -1,0 +1,17 @@
+{
+  "id": "d0197ede-21cd-4989-886e-6ceec1b0e5bd",
+  "name": "Dark Black",
+  "fileName": "44_DarkBlack",
+  "categoryIds": [
+    1008,
+    1013
+  ],
+  "level": 0,
+  "cover": "sources/keyboards/themes/d0197ede-21cd-4989-886e-6ceec1b0e5bd/cover.png",
+  "package": "sources/keyboards/themes/d0197ede-21cd-4989-886e-6ceec1b0e5bd/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "0a6455c2-0e27-4d4e-bb2f-7946d3ceb54f",
+  "name": "Chainsaw Man",
+  "fileName": "86_ChainsawMan",
+  "categoryIds": [
+    1004
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/0a6455c2-0e27-4d4e-bb2f-7946d3ceb54f/cover.png",
+  "package": "sources/keyboards/themes/0a6455c2-0e27-4d4e-bb2f-7946d3ceb54f/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

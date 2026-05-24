@@ -1,0 +1,16 @@
+{
+  "id": "ae68fadd-b976-4cac-8cb7-21317762984b",
+  "name": "Dream",
+  "fileName": "35_Dream",
+  "categoryIds": [
+    1007
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/ae68fadd-b976-4cac-8cb7-21317762984b/cover.png",
+  "package": "sources/keyboards/themes/ae68fadd-b976-4cac-8cb7-21317762984b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2e5931c0-c82b-4392-bd2c-af6b81f23650",
+  "name": "Desert Train",
+  "fileName": "393_DesertTrain",
+  "categoryIds": [
+    1014
+  ],
+  "level": 2,
+  "cover": "sources/keyboards/themes/2e5931c0-c82b-4392-bd2c-af6b81f23650/cover.png",
+  "package": "sources/keyboards/themes/2e5931c0-c82b-4392-bd2c-af6b81f23650/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

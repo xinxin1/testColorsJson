@@ -1,0 +1,16 @@
+{
+  "id": "d23967c5-39cf-4ca6-b128-ddaa76b90c2b",
+  "name": "Purple",
+  "fileName": "64_Purple",
+  "categoryIds": [
+    1014
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/d23967c5-39cf-4ca6-b128-ddaa76b90c2b/cover.png",
+  "package": "sources/keyboards/themes/d23967c5-39cf-4ca6-b128-ddaa76b90c2b/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}

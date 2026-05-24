@@ -1,0 +1,16 @@
+{
+  "id": "3f4e810c-8802-454e-8526-99227119857d",
+  "name": "Romantic Balloon",
+  "fileName": "16_RomanticBalloon",
+  "categoryIds": [
+    1002
+  ],
+  "level": 1,
+  "cover": "sources/keyboards/themes/3f4e810c-8802-454e-8526-99227119857d/cover.png",
+  "package": "sources/keyboards/themes/3f4e810c-8802-454e-8526-99227119857d/package.zip",
+  "features": {
+    "dynamic": false,
+    "hasGif": false,
+    "hasMp4": false
+  }
+}
